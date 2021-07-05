@@ -6,6 +6,7 @@ On this repo you'll find a list of PUBLIC and the list of Node providers for mos
 
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
+- [Polygon](#polygon)
 
 ## Ethereum
 
@@ -28,7 +29,7 @@ https://main-light.eth.linkpool.io/
 
 #### Providers:
 
-a) ANKR - ankr.com
+a) ANKR - https://ankr.com
 
 b) Chainstack - https://chainstack.com/
 
@@ -43,3 +44,28 @@ https://bsc-dataseed.binance.org/
 https://bsc-dataseed1.defibit.io/
 
 https://bsc-dataseed1.ninicoin.io/
+
+## Polygon
+
+#### Providers:
+
+a) Infura.io - https://infura.io
+
+b) MaticVigil - https://maticvigil.com/
+
+c) Chainstack - https://chainstack.com/
+
+d) ANKR - https://ankr.com
+
+#### Public Endpoints:
+https://rpc-mainnet.matic.network
+
+https://rpc-mainnet.maticvigil.com
+
+https://rpc-mainnet.matic.quiknode.pro
+
+https://matic-mainnet.chainstacklabs.com 
+
+https://matic-mainnet-full-rpc.bwarelabs.com
+
+https://matic-mainnet-archive-rpc.bwarelabs.com
