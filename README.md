@@ -15,18 +15,18 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 
 a) Infura.io - https://infura.io
 
-b) Alchemy - https://www.alchemy.com/
+b) Alchemy - https://www.alchemy.com
 
-c) QuickNode - https://www.quicknode.com/
+c) QuickNode - https://www.quicknode.com
 
 d) 0x - https://0x.org
 
-e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain/
+e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
 
 
 #### Public Endpoints:
 
-https://main-light.eth.linkpool.io/
+https://main-light.eth.linkpool.io
 
 ## BSC
 
@@ -34,19 +34,19 @@ https://main-light.eth.linkpool.io/
 
 a) ANKR - https://ankr.com
 
-b) Chainstack - https://chainstack.com/
+b) Chainstack - https://chainstack.com
 
-c) GetBlock - https://getblock.io/
+c) GetBlock - https://getblock.io
 
-d) QuickNode - https://www.quicknode.com/
+d) QuickNode - https://www.quicknode.com
 
 #### Public Endpoints:
 
-https://bsc-dataseed.binance.org/
+https://bsc-dataseed.binance.org
 
-https://bsc-dataseed1.defibit.io/
+https://bsc-dataseed1.defibit.io
 
-https://bsc-dataseed1.ninicoin.io/
+https://bsc-dataseed1.ninicoin.io
 
 ## Polygon
 
@@ -54,9 +54,9 @@ https://bsc-dataseed1.ninicoin.io/
 
 a) Infura.io - https://infura.io
 
-b) MaticVigil - https://maticvigil.com/
+b) MaticVigil - https://maticvigil.com
 
-c) Chainstack - https://chainstack.com/
+c) Chainstack - https://chainstack.com
 
 d) ANKR - https://ankr.com
 
@@ -77,11 +77,11 @@ https://matic-mainnet-archive-rpc.bwarelabs.com
 
 #### Providers:
 
-a) QuickNode - https://www.quicknode.com/
+a) QuickNode - https://www.quicknode.com
 
 b) ANKR - https://ankr.com
 
-c) GetBlock - https://getblock.io/
+c) GetBlock - https://getblock.io
 
 
 #### Public Endpoints:
