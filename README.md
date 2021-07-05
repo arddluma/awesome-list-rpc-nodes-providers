@@ -2,8 +2,6 @@
 
 On this repo you'll find a list of PUBLIC and the list of Node providers for most of the Networks.
 
-Contents:
-
 ## Contents
 
 - [Ethereum](#ethereum)
