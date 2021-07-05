@@ -1,6 +1,6 @@
 # awesome-list-rpc-nodes-providers
 
-On this repo you'll find a list of PUBLIC and the list of Node providers for most of the Networks.
+On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for most of the Networks such as Ethereum, BSC, Polygon, xDAI, Fantom etc.
 
 ## Contents
 
