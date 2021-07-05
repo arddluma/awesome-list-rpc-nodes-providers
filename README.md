@@ -7,6 +7,7 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
+- [xDai](#xdai)
 
 ## Ethereum
 
@@ -19,6 +20,8 @@ b) Alchemy - https://www.alchemy.com/
 c) QuickNode - https://www.quicknode.com/
 
 d) 0x - https://0x.org
+
+e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain/
 
 
 #### Public Endpoints:
@@ -69,3 +72,22 @@ https://matic-mainnet.chainstacklabs.com
 https://matic-mainnet-full-rpc.bwarelabs.com
 
 https://matic-mainnet-archive-rpc.bwarelabs.com
+
+## xDai
+
+#### Providers:
+
+a) QuickNode - https://www.quicknode.com/
+
+b) ANKR - https://ankr.com
+
+c) GetBlock - https://getblock.io/
+
+
+#### Public Endpoints:
+
+https://rpc.xdaichain.com
+
+https://xdai.poanetwork.dev
+
+
