@@ -60,6 +60,8 @@ c) Chainstack - https://chainstack.com
 
 d) ANKR - https://ankr.com
 
+e) QuickNode - https://www.quicknode.com
+
 #### Public Endpoints:
 https://rpc-mainnet.matic.network
 
