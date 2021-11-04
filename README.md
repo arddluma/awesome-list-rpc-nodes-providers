@@ -8,6 +8,8 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 - [BSC](#bsc)
 - [Polygon](#polygon)
 - [xDai](#xdai)
+- [Fantom](#fantom)
+
 
 ## Ethereum
 
