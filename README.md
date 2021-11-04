@@ -93,3 +93,15 @@ https://rpc.xdaichain.com
 https://xdai.poanetwork.dev
 
 
+## Fantom
+
+#### Providers:
+
+a) QuickNode - https://www.quicknode.com
+
+b) ANKR - https://ankr.com
+
+
+#### Public Endpoints:
+
+https://rpc.ftm.tools/
