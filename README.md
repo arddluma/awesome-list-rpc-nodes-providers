@@ -27,7 +27,7 @@ With just few lines of [code](https://docs.etherspot.dev/getting-started/support
 Etherspot take hassle out of Ethereum development and allow you to focus on the most important thing – your product.
 
 
-Checkout: [ethespot.io](https://etherspot.io/)
+Checkout: [etherspot.io](https://etherspot.io/)
 
 
 ## Ethereum
