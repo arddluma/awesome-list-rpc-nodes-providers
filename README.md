@@ -47,6 +47,8 @@ e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
 
 #### Public Endpoints:
 
+https://cloudflare-eth.com
+
 https://main-light.eth.linkpool.io
 
 ## BSC
