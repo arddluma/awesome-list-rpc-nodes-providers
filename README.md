@@ -11,6 +11,7 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 - [xDai](#xdai)
 - [Fantom](#fantom)
 - [Avlanche](#avalanche)
+- [Kucoin](#kucoin)
 
 
 ## Etherspot
@@ -140,4 +141,9 @@ a) Moralis - https://moralis.io
 
 https://api.avax.network/ext/bc/C/rpc
 
+## Kucoin
+
+#### Public Endpoints:
+
+https://rpc-mainnet.kcc.network/
 
