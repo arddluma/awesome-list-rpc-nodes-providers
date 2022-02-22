@@ -45,6 +45,8 @@ d) 0x - https://0x.org
 
 e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
 
+f) Moralis - https://moralis.io
+
 
 #### Public Endpoints:
 
@@ -63,6 +65,8 @@ b) Chainstack - https://chainstack.com
 c) GetBlock - https://getblock.io
 
 d) QuickNode - https://www.quicknode.com
+
+e) Moralis - https://moralis.io
 
 #### Public Endpoints:
 
@@ -85,6 +89,8 @@ c) Chainstack - https://chainstack.com
 d) ANKR - https://ankr.com
 
 e) QuickNode - https://www.quicknode.com
+
+f) Moralis - https://moralis.io
 
 #### Public Endpoints:
 https://rpc-mainnet.matic.network
@@ -124,6 +130,8 @@ https://xdai.poanetwork.dev
 a) QuickNode - https://www.quicknode.com
 
 b) ANKR - https://ankr.com
+
+c) Moralis - https://moralis.io
 
 
 #### Public Endpoints:
