@@ -10,8 +10,10 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 - [Polygon](#polygon)
 - [xDai](#xdai)
 - [Fantom](#fantom)
-- [Avlanche](#avalanche)
+- [Avalanche](#avalanche)
 - [Kucoin](#kucoin)
+- [Tezos](#tezos)
+- [Solana](#solana)
 
 
 ## Etherspot
@@ -47,6 +49,8 @@ e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
 
 f) Moralis - https://moralis.io
 
+g) Chainstack - https://chainstack.com/build-better-with-ethereum/
+
 
 #### Public Endpoints:
 
@@ -67,6 +71,8 @@ c) GetBlock - https://getblock.io
 d) QuickNode - https://www.quicknode.com
 
 e) Moralis - https://moralis.io
+
+f) Chainstack - https://chainstack.com/build-better-with-binance-smart-chain/
 
 #### Public Endpoints:
 
@@ -91,6 +97,8 @@ d) ANKR - https://ankr.com
 e) QuickNode - https://www.quicknode.com
 
 f) Moralis - https://moralis.io
+
+g) Chainstack - https://chainstack.com/build-better-with-polygon/
 
 #### Public Endpoints:
 https://rpc-mainnet.matic.network
@@ -133,6 +141,8 @@ b) ANKR - https://ankr.com
 
 c) Moralis - https://moralis.io
 
+d) Chainstack - https://chainstack.com/build-better-with-fantom/
+
 
 #### Public Endpoints:
 
@@ -145,6 +155,8 @@ https://rpc.ftm.tools/
 
 a) Moralis - https://moralis.io
 
+b) Chainstack - https://chainstack.com/build-better-with-avalanche/
+
 #### Public Endpoints:
 
 https://api.avax.network/ext/bc/C/rpc
@@ -155,3 +167,26 @@ https://api.avax.network/ext/bc/C/rpc
 
 https://rpc-mainnet.kcc.network/
 
+## Tezos
+
+#### Providers:
+
+a) Chainstack - https://chainstack.com/build-better-with-tezos/
+
+#### Public Endpoints:
+
+https://mainnet.api.tez.ie
+
+https://rpc.tzbeta.net/
+
+## Solana
+
+#### Providers:
+
+a) Chainstack - https://chainstack.com/build-better-with-solana/
+
+#### Public Endpoints:
+
+https://api.mainnet-beta.solana.com
+
+https://solana-api.projectserum.com
