@@ -47,6 +47,7 @@ e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
 
 f) Moralis - https://moralis.io
 
+g) ZMOK - https://zmok.io/
 
 #### Public Endpoints:
 
