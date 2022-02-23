@@ -154,6 +154,13 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 **Public Endpoints:**
 
+- [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
+
+
+## KuCoin
+
+**Public Endpoints:**
+
 - [https://rpc-mainnet.kcc.network/](https://rpc-mainnet.kcc.network/)
 
 ## Fuse
