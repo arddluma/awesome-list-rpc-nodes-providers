@@ -1,10 +1,12 @@
 # awesome-list-rpc-nodes-providers
 
-On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for most of the Networks such as Ethereum, BSC, Polygon, xDAI, Fantom, Avalanche etc.
+On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
+most of the Networks such as Ethereum, BSC, Polygon, xDAI, Fantom, Avalanche
+etc.
 
 ## Contents
 
-- [Etherspot](#etherspot)
+- [MultiChain](#multichain)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Polygon](#polygon)
@@ -13,145 +15,161 @@ On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for m
 - [Avlanche](#avalanche)
 - [Kucoin](#kucoin)
 
+## MultiChain
 
-## Etherspot
+### Etherspot
 
-### MultiChain
-
-Etherspot gives developers and their applications the ability to use one or all the chains simultaneously with the same address for greater flexibility and speed.
+Etherspot gives developers and their applications the ability to use one or all
+the chains simultaneously with the same address for greater flexibility and
+speed.
 
 The Etherspot platform is built to
 work with any EVM-compatible network.
 
-With just few lines of [code](https://docs.etherspot.dev/getting-started/supported-ethereum-chains) you can instantiate Etherspot SDK on compatible EVM-chains such as: Polygon, BSC, xDAI, Fantom and Avalanche.
+With just few lines of
+[code](https://docs.etherspot.dev/getting-started/supported-ethereum-chains)
+you can instantiate Etherspot SDK on compatible EVM-chains such as: Polygon,
+BSC, xDAI, Fantom and Avalanche.
 
-Etherspot take hassle out of Ethereum development and allow you to focus on the most important thing – your product.
-
+Etherspot take hassle out of Ethereum development and allow you to focus on the
+most important thing – your product.
 
 Checkout: [etherspot.io](https://etherspot.io/)
 
+### Pocket Network
+
+Pocket Network is a blockchain that connects application developers with a
+decentralized network of RPC providers. Application developers can create
+an application through the [Portal](https://mainnet.portal.pokt.network/),
+and will be able to use the same application to gain access to RPC URLs
+for any of the actively supported chains.
+
+Pocket Network currently supports RPC access to Ethereum, Avalanche, Polygon,
+BSC, xDai, Harmony, and Algorand to name a few. The list of supported chains is
+constantly growing, and the full list is available
+[here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
+
+Checkout: [https://pokt.network](https://pokt.network)
 
 ## Ethereum
 
-### Providers:
+**Providers:**
 
-a) Infura.io - https://infura.io
+1. Infura.io - [https://infura.io](https://infura.io)
+2. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+3. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+4. 0x - [https://0x.org](https://0x.org)
+5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
+6. Moralis - [https://moralis.io](https://aws.amazon.com/managed-blockchain)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
-b) Alchemy - https://www.alchemy.com
+**Public Endpoints:**
 
-c) QuickNode - https://www.quicknode.com
-
-d) 0x - https://0x.org
-
-e) Amazon Managed Blockchain - https://aws.amazon.com/managed-blockchain
-
-f) Moralis - https://moralis.io
-
-
-#### Public Endpoints:
-
-https://cloudflare-eth.com
-
-https://main-light.eth.linkpool.io
+- [https://cloudflare-eth.com](https://cloudflare-eth.com)
+- [https://main-light.eth.linkpool.io](https://main-light.eth.linkpool.io)
+- [https://eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network)
 
 ## BSC
 
-#### Providers:
+**Providers:**
 
-a) ANKR - https://ankr.com
+1. ANKR - [https://ankr.com](https://ankr.com)
+2. Chainstack - [https://chainstack.com](https://chainstack.com)
+3. GetBlock - [https://getblock.io](https://getblock.io)
+4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+5. Moralis - [https://moralis.io](https://moralis.io)
+6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
-b) Chainstack - https://chainstack.com
+**Public Endpoints:**
 
-c) GetBlock - https://getblock.io
-
-d) QuickNode - https://www.quicknode.com
-
-e) Moralis - https://moralis.io
-
-#### Public Endpoints:
-
-https://bsc-dataseed.binance.org
-
-https://bsc-dataseed1.defibit.io
-
-https://bsc-dataseed1.ninicoin.io
+- [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
+- [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
+- [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
+- [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 
 ## Polygon
 
-#### Providers:
+**Providers:**
 
-a) Infura.io - https://infura.io
+1. Infura.io - [https://infura.io](https://infura.io)
+2. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
+3. Chainstack - [https://chainstack.com](https://chainstack.com)
+4. ANKR - [https://ankr.com](https://ankr.com)
+5. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+6. Moralis - [https://moralis.io](https://moralis.io)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
-b) MaticVigil - https://maticvigil.com
+**Public Endpoints:**
 
-c) Chainstack - https://chainstack.com
-
-d) ANKR - https://ankr.com
-
-e) QuickNode - https://www.quicknode.com
-
-f) Moralis - https://moralis.io
-
-#### Public Endpoints:
-https://rpc-mainnet.matic.network
-
-https://rpc-mainnet.maticvigil.com
-
-https://rpc-mainnet.matic.quiknode.pro
-
-https://matic-mainnet.chainstacklabs.com 
-
-https://matic-mainnet-full-rpc.bwarelabs.com
-
-https://matic-mainnet-archive-rpc.bwarelabs.com
+- [https://rpc-mainnet.matic.network](https://rpc-mainnet.matic.network)
+- [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
+- [https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro)
+- [https://matic-mainnet.chainstacklabs.com](https://matic-mainnet.chainstacklabs.com)
+- [https://matic-mainnet-full-rpc.bwarelabs.com](https://matic-mainnet-full-rpc.bwarelabs.com)
+- [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
+- [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 
 ## xDai
 
-#### Providers:
+**Providers:**
 
-a) QuickNode - https://www.quicknode.com
+1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. GetBlock - [https://getblock.io](https://getblock.io)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
-b) ANKR - https://ankr.com
+**Public Endpoints:**
 
-c) GetBlock - https://getblock.io
-
-
-#### Public Endpoints:
-
-https://rpc.xdaichain.com
-
-https://xdai.poanetwork.dev
-
+- [https://rpc.xdaichain.com](https://rpc.xdaichain.com)
+- [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev)
+- [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 
 ## Fantom
 
-#### Providers:
+**Providers:**
 
-a) QuickNode - https://www.quicknode.com
+1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. Moralis - [https://moralis.io](https://moralis.io)
 
-b) ANKR - https://ankr.com
+**Public Endpoints:**
 
-c) Moralis - https://moralis.io
-
-
-#### Public Endpoints:
-
-https://rpc.ftm.tools/
-
+- [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 
 ## Avalanche
 
-#### Providers:
+**Providers:**
 
-a) Moralis - https://moralis.io
+1. Moralis - [https://moralis.io](https://moralis.io)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
-#### Public Endpoints:
+**Public Endpoints:**
 
-https://api.avax.network/ext/bc/C/rpc
+- [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
+- [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
 
 ## Kucoin
 
-#### Public Endpoints:
+**Public Endpoints:**
 
-https://rpc-mainnet.kcc.network/
+- [https://rpc-mainnet.kcc.network/](https://rpc-mainnet.kcc.network/)
 
+## Fuse
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
+
+## Harmony
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
