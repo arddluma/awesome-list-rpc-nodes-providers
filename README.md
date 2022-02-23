@@ -64,6 +64,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
 6. Moralis - [https://moralis.io](https://aws.amazon.com/managed-blockchain)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. ZMOK - [https://zmok.io/](https://zmok.io/)
 
 **Public Endpoints:**
 
