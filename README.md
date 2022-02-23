@@ -178,22 +178,22 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 ## Tezos
 
-#### Providers:
+**Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
 
-#### Public Endpoints:
+**Public Endpoints:**
 
 - [https://mainnet.api.tez.ie](https://mainnet.api.tez.ie)
 - [https://rpc.tzbeta.net/](https://rpc.tzbeta.net/)
 
 ## Solana
 
-#### Providers:
+**Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
 
-#### Public Endpoints:
+**Public Endpoints:**
 
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
