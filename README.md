@@ -12,10 +12,12 @@ etc.
 - [Polygon](#polygon)
 - [xDai](#xdai)
 - [Fantom](#fantom)
-- [Avlanche](#avalanche)
+- [Avalanche](#avalanche)
 - [Kucoin](#kucoin)
 - [Fuse](#fuse)
 - [Harmony](#harmony)
+- [Tezos](#tezos)
+- [Solana](#solana)
 
 ## MultiChain
 
@@ -64,7 +66,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
 6. Moralis - [https://moralis.io](https://aws.amazon.com/managed-blockchain)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-8. ZMOK - [https://zmok.io/](https://zmok.io/)
+8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
+9. ZMOK - [https://zmok.io/](https://zmok.io/)
 
 **Public Endpoints:**
 
@@ -82,6 +85,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 5. Moralis - [https://moralis.io](https://moralis.io)
 6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 
 **Public Endpoints:**
 
@@ -100,6 +104,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 5. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 6. Moralis - [https://moralis.io](https://moralis.io)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. Chainstack - [https://chainstack.com/build-better-with-polygon/](https://chainstack.com/build-better-with-polygon/)
 
 **Public Endpoints:**
 
@@ -133,6 +138,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
+4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
 
 **Public Endpoints:**
 
@@ -144,12 +150,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 1. Moralis - [https://moralis.io](https://moralis.io)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-
-**Public Endpoints:**
-
-- [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
-
-## Kucoin
+3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
 
 **Public Endpoints:**
 
@@ -174,3 +175,25 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
+
+## Tezos
+
+#### Providers:
+
+1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
+
+#### Public Endpoints:
+
+- [https://mainnet.api.tez.ie](https://mainnet.api.tez.ie)
+- [https://rpc.tzbeta.net/](https://rpc.tzbeta.net/)
+
+## Solana
+
+#### Providers:
+
+1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
+
+#### Public Endpoints:
+
+- [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
+- [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
