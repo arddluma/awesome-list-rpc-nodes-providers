@@ -14,6 +14,8 @@ etc.
 - [Fantom](#fantom)
 - [Avlanche](#avalanche)
 - [Kucoin](#kucoin)
+- [Fuse](#fuse)
+- [Harmony](#harmony)
 
 ## MultiChain
 
@@ -85,7 +87,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
-- [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 
 ## Polygon
 
@@ -146,7 +147,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
-- [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
 
 ## Kucoin
 
