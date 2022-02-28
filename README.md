@@ -93,6 +93,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
 
+**WebSocket:**
+
+- `wss://bsc-ws-node.nariox.org:443`
+
 ## Polygon
 
 **Providers:**
@@ -116,6 +120,15 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 
+**WebSocket:**
+
+- `wss://rpc-mainnet.matic.network`
+- `wss://ws-matic-mainnet.chainstacklabs.com`
+- `wss://rpc-mainnet.matic.quiknode.pro`
+- `wss://rpc-mainnet.maticvigil.com/ws`
+
+
+
 ## xDai
 
 **Providers:**
@@ -127,9 +140,15 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 **Public Endpoints:**
 
+- [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
 - [https://rpc.xdaichain.com](https://rpc.xdaichain.com)
 - [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
+
+**WebSocket:**
+
+- `wss://rpc.gnosischain.com/wss`
+
 
 ## Fantom
 
@@ -143,6 +162,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
+
+**WebSocket:**
+
+- `wss://wsapi.fantom.network`
 
 ## Avalanche
 
