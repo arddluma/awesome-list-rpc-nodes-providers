@@ -214,6 +214,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
+**Public Endpoints:**
+
+- [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
+
 ## Gnosis (xDAI)
 
 **Providers:**
