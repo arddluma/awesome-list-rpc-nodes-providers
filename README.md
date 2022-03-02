@@ -1,7 +1,7 @@
 # awesome-list-rpc-nodes-providers
 
 On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
-most of the Networks such as Ethereum, BSC, Polygon, xDAI, Fantom, Avalanche
+most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche
 etc.
 
 ## Contents
@@ -9,15 +9,17 @@ etc.
 - [MultiChain](#multichain)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
-- [Polygon](#polygon)
-- [xDai](#xdai)
-- [Fantom](#fantom)
-- [Avalanche](#avalanche)
-- [Kucoin](#kucoin)
-- [Fuse](#fuse)
-- [Harmony](#harmony)
-- [Tezos](#tezos)
 - [Solana](#solana)
+- [Avalanche](#avalanche)
+- [Polygon](#polygon)
+- [Algorand](#algorand)
+- [Fantom](#fantom)
+- [Tezos](#tezos)
+- [Harmony](#harmony)
+- [Kucoin](#kucoin)
+- [IoTeX](#iotex)
+- [Gnosis (xDAI)](#gnosis-xdai)
+- [Fuse](#fuse)
 
 ## MultiChain
 
@@ -49,7 +51,7 @@ and will be able to use the same application to gain access to RPC URLs
 for any of the actively supported chains.
 
 Pocket Network currently supports RPC access to Ethereum, Avalanche, Polygon,
-BSC, xDai, Harmony, and Algorand to name a few. The list of supported chains is
+BSC, Gnosis, Harmony, and Algorand to name a few. The list of supported chains is
 constantly growing, and the full list is available
 [here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
 
@@ -97,6 +99,30 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://bsc-ws-node.nariox.org:443`
 
+## Solana
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
+- [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
+
+## Avalanche
+
+**Providers:**
+
+1. Moralis - [https://moralis.io](https://moralis.io)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
+
+**Public Endpoints:**
+
+- [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
+
 ## Polygon
 
 **Providers:**
@@ -127,9 +153,72 @@ Checkout: [https://pokt.network](https://pokt.network)
 - `wss://rpc-mainnet.matic.quiknode.pro`
 - `wss://rpc-mainnet.maticvigil.com/ws`
 
+## Algorand
 
+**Providers**:
 
-## xDai
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+## Fantom
+
+**Providers:**
+
+1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. Moralis - [https://moralis.io](https://moralis.io)
+4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+
+**Public Endpoints:**
+
+- [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
+
+**WebSocket:**
+
+- `wss://wsapi.fantom.network`
+
+## Tezos
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
+
+**Public Endpoints:**
+
+- [https://mainnet.api.tez.ie](https://mainnet.api.tez.ie)
+- [https://rpc.tzbeta.net/](https://rpc.tzbeta.net/)
+
+## Harmony
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
+- [https://api.harmony.one](https://api.harmony.one)
+
+**WebSocket:**
+
+- `wss://ws.s0.t.hmny.io`
+
+## KuCoin
+
+**Public Endpoints:**
+
+- [https://rpc-mainnet.kcc.network/](https://rpc-mainnet.kcc.network/)
+
+## IoTeX
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
+
+## Gnosis (xDAI)
 
 **Providers:**
 
@@ -149,43 +238,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://rpc.gnosischain.com/wss`
 
-
-## Fantom
-
-**Providers:**
-
-1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-2. ANKR - [https://ankr.com](https://ankr.com)
-3. Moralis - [https://moralis.io](https://moralis.io)
-4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-
-**Public Endpoints:**
-
-- [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
-
-**WebSocket:**
-
-- `wss://wsapi.fantom.network`
-
-## Avalanche
-
-**Providers:**
-
-1. Moralis - [https://moralis.io](https://moralis.io)
-2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
-
-**Public Endpoints:**
-
-- [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
-
-
-## KuCoin
-
-**Public Endpoints:**
-
-- [https://rpc-mainnet.kcc.network/](https://rpc-mainnet.kcc.network/)
-
 ## Fuse
 
 **Providers:**
@@ -195,35 +247,3 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
-
-## Harmony
-
-**Providers:**
-
-1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-
-**Public Endpoints:**
-
-- [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
-
-## Tezos
-
-**Providers:**
-
-1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
-
-**Public Endpoints:**
-
-- [https://mainnet.api.tez.ie](https://mainnet.api.tez.ie)
-- [https://rpc.tzbeta.net/](https://rpc.tzbeta.net/)
-
-## Solana
-
-**Providers:**
-
-1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
-
-**Public Endpoints:**
-
-- [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
-- [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
