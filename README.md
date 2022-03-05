@@ -76,6 +76,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://cloudflare-eth.com](https://cloudflare-eth.com)
 - [https://main-light.eth.linkpool.io](https://main-light.eth.linkpool.io)
 - [https://eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network)
+- [https://api.mycryptoapi.com/eth](https://api.mycryptoapi.com/eth)
+- [https://mainnet-nethermind.blockscout.com/](https://mainnet-nethermind.blockscout.com/)
+- [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
+- [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io)
 
 **Spin up your own node:**
 
