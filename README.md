@@ -80,6 +80,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://mainnet-nethermind.blockscout.com/](https://mainnet-nethermind.blockscout.com/)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io)
+- [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
 
 **Spin up your own node:**
 
