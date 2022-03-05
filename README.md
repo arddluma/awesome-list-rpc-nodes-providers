@@ -77,6 +77,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://main-light.eth.linkpool.io](https://main-light.eth.linkpool.io)
 - [https://eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network)
 
+**Spin up your own node:**
+
+- [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
+
 ## BSC
 
 **Providers:**
@@ -99,6 +103,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://bsc-ws-node.nariox.org:443`
 
+**Spin up your own node:**
+
+- [https://docs.binance.org/smart-chain/developer/fullnode.html](https://docs.binance.org/smart-chain/developer/fullnode.html)
+
 ## Solana
 
 **Providers:**
@@ -111,6 +119,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 
+**Spin up your own node:**
+
+- [https://docs.solana.com/running-validator](https://docs.solana.com/running-validator)
+
 ## Avalanche
 
 **Providers:**
@@ -122,6 +134,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
+
+**Spin up your own node:**
+
+- [https://docs.avax.network/build/tutorials/nodes-and-staking/run-avalanche-node](https://docs.avax.network/build/tutorials/nodes-and-staking/run-avalanche-node)
 
 ## Polygon
 
@@ -153,11 +169,19 @@ Checkout: [https://pokt.network](https://pokt.network)
 - `wss://rpc-mainnet.matic.quiknode.pro`
 - `wss://rpc-mainnet.maticvigil.com/ws`
 
+**Spin up your own node:**
+
+- [https://docs.polygon.technology/docs/validate/validate/getting-started](https://docs.polygon.technology/docs/validate/validate/getting-started)
+
 ## Algorand
 
 **Providers**:
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Spin up your own node:**
+
+- [https://developer.algorand.org/docs/run-a-node/setup/install/](https://developer.algorand.org/docs/run-a-node/setup/install/)
 
 ## Fantom
 
@@ -176,6 +200,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://wsapi.fantom.network`
 
+**Spin up your own node:**
+
+- [https://docs.fantom.foundation/staking/how-to-run-a-validator-node](https://docs.fantom.foundation/staking/how-to-run-a-validator-node)
+
 ## Tezos
 
 **Providers:**
@@ -186,6 +214,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://mainnet.api.tez.ie](https://mainnet.api.tez.ie)
 - [https://rpc.tzbeta.net/](https://rpc.tzbeta.net/)
+
+**Spin up your own node:**
+
+- [https://opentezos.com/deploy-a-node](https://opentezos.com/deploy-a-node)
 
 ## Harmony
 
@@ -202,11 +234,19 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://ws.s0.t.hmny.io`
 
+**Spin up your own node:**
+
+- [https://docs.harmony.one/home/network/validators/node-setup](https://docs.harmony.one/home/network/validators/node-setup)
+
 ## KuCoin
 
 **Public Endpoints:**
 
 - [https://rpc-mainnet.kcc.network/](https://rpc-mainnet.kcc.network/)
+
+**Spin up your own node:**
+
+- [https://docs.kcc.io/#/en-us/?id=node](https://docs.kcc.io/#/en-us/?id=node)
 
 ## IoTeX
 
@@ -217,6 +257,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
+
+**Spin up your own node:**
+
+- [https://github.com/iotexproject/iotex-bootstrap](https://github.com/iotexproject/iotex-bootstrap)
 
 ## Gnosis (xDAI)
 
@@ -238,6 +282,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - `wss://rpc.gnosischain.com/wss`
 
+**Spin up your own node:**
+
+- [https://docs.gnosischain.com/validator-info/get-started-node-setup](https://docs.gnosischain.com/validator-info/get-started-node-setup)
+
 ## Fuse
 
 **Providers:**
@@ -247,3 +295,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
+
+**Spin up your own node:**
+
+- [https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes](https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes)
