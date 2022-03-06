@@ -20,6 +20,8 @@ etc.
 - [IoTeX](#iotex)
 - [Gnosis (xDAI)](#gnosis-xdai)
 - [Fuse](#fuse)
+- [Optimistic Ethereum](#optimistic-ethereum)
+- [Arbitrum One](#arbitrum-one)
 
 ## MultiChain
 
@@ -70,6 +72,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
 9. ZMOK - [https://zmok.io/](https://zmok.io/)
+10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 
 **Public Endpoints:**
 
@@ -135,6 +138,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 1. Moralis - [https://moralis.io](https://moralis.io)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
+4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
+
 
 **Public Endpoints:**
 
@@ -156,6 +161,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 6. Moralis - [https://moralis.io](https://moralis.io)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-polygon/](https://chainstack.com/build-better-with-polygon/)
+9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+
 
 **Public Endpoints:**
 
@@ -304,3 +311,27 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes](https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes)
+
+## Optimistic Ethereum
+
+**Providers:**
+
+1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+2. Infura - [https://infura.io](https://infura.io)
+
+**Public Endpoints:**
+
+- [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
+
+## Arbitrum One
+
+**Providers:**
+
+1. Moralis - [https://moralis.io](https://aws.amazon.com/managed-blockchain)
+2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. Infura - [https://infura.io](https://infura.io)
+4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+
+**Public Endpoints:**
+
+- [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
