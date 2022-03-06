@@ -73,6 +73,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
 9. ZMOK - [https://zmok.io/](https://zmok.io/)
 10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -100,6 +101,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 5. Moralis - [https://moralis.io](https://moralis.io)
 6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
+8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -121,6 +123,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -139,6 +142,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
 4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
+5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 
 **Public Endpoints:**
@@ -162,6 +166,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-polygon/](https://chainstack.com/build-better-with-polygon/)
 9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 
 **Public Endpoints:**
