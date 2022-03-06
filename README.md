@@ -327,7 +327,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 **Providers:**
 
-1. Moralis - [https://moralis.io](https://aws.amazon.com/managed-blockchain)
+1. Moralis - [https://moralis.io](https://moralis.io)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 3. Infura - [https://infura.io](https://infura.io)
 4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
