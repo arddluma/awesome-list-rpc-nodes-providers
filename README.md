@@ -22,6 +22,8 @@ etc.
 - [Fuse](#fuse)
 - [Optimistic Ethereum](#optimistic-ethereum)
 - [Arbitrum One](#arbitrum-one)
+- [Celo](#celo)
+- [Near](#near)
 
 ## MultiChain
 
@@ -74,6 +76,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 9. ZMOK - [https://zmok.io/](https://zmok.io/)
 10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+12. Ankr - [https://ankr.com](https://ankr.com)
 
 **Public Endpoints:**
 
@@ -85,6 +88,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io)
 - [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
+- [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
 
 **Spin up your own node:**
 
@@ -108,6 +112,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
+- [https://bscrpc.com](https://bscrpc.com) 
+- [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 
 **WebSocket:**
 
@@ -129,6 +135,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
+- [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
 
 **Spin up your own node:**
 
@@ -143,11 +150,13 @@ Checkout: [https://pokt.network](https://pokt.network)
 3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
 4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+6. Ankr - [https://ankr.com](https://ankr.com)
 
 
 **Public Endpoints:**
 
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
+- [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 
 **Spin up your own node:**
 
@@ -167,10 +176,12 @@ Checkout: [https://pokt.network](https://pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-polygon/](https://chainstack.com/build-better-with-polygon/)
 9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+11. Ankr - [https://ankr.com](https://ankr.com)
 
 
 **Public Endpoints:**
 
+- [https://polygon-rpc.com](https://polygon-rpc.com)
 - [https://rpc-mainnet.matic.network](https://rpc-mainnet.matic.network)
 - [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
 - [https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro)
@@ -178,6 +189,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://matic-mainnet-full-rpc.bwarelabs.com](https://matic-mainnet-full-rpc.bwarelabs.com)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
+- [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 
 **WebSocket:**
 
@@ -212,6 +224,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
+- [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 
 **WebSocket:**
 
@@ -270,10 +283,12 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. ANKR - [https://ankr.com](https://ankr.com)
 
 **Public Endpoints:**
 
 - [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
+- [https://rpc.ankr.com/iotex](https://rpc.ankr.com/iotex)
 
 **Spin up your own node:**
 
@@ -323,6 +338,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 2. Infura - [https://infura.io](https://infura.io)
+3. Ankr - [https://ankr.com](https://ankr.com)
 
 **Public Endpoints:**
 
@@ -336,7 +352,33 @@ Checkout: [https://pokt.network](https://pokt.network)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 3. Infura - [https://infura.io](https://infura.io)
 4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+5. ANKR - [https://ankr.com](https://ankr.com)
 
 **Public Endpoints:**
 
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
+- [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
+
+## Celo
+
+**Providers:**
+
+1. ANKR - [https://ankr.com](https://ankr.com)
+2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+
+
+**Public Endpoints:**
+
+- [https://forno.celo.org](https://forno.celo.org)
+- [https://rpc.ankr.com/celo](https://rpc.ankr.com/celo)
+
+## Near 
+
+**Providers:**
+
+1. ANKR - [https://ankr.com](https://ankr.com)
+
+**Public Endpoints:**
+
+- [https://rpc.ankr.com/near](https://rpc.ankr.com/near)
+
