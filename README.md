@@ -114,6 +114,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
 - [https://bscrpc.com](https://bscrpc.com) 
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
+- [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 
 **WebSocket:**
 
@@ -157,6 +158,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
+- [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
 
 **Spin up your own node:**
 
@@ -225,6 +227,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
+- [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
+
 
 **WebSocket:**
 
