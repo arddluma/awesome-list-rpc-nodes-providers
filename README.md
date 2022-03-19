@@ -24,6 +24,7 @@ etc.
 - [Arbitrum One](#arbitrum-one)
 - [Celo](#celo)
 - [Near](#near)
+- [Aurora](#aurora)
 
 ## MultiChain
 
@@ -386,3 +387,8 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://rpc.ankr.com/near](https://rpc.ankr.com/near)
 
+## Aurora
+
+**Public Endpoints:**
+
+- [https://mainnet.aurora.dev](https://mainnet.aurora.dev)
