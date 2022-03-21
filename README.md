@@ -377,6 +377,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://forno.celo.org](https://forno.celo.org)
 - [https://rpc.ankr.com/celo](https://rpc.ankr.com/celo)
 
+**Spin up your own node:**
+
+- [https://docs.celo.org/getting-started/mainnet/running-a-full-node-in-mainnet](https://docs.celo.org/getting-started/mainnet/running-a-full-node-in-mainnet)
+
 ## Near 
 
 **Providers:**
@@ -387,8 +391,16 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://rpc.ankr.com/near](https://rpc.ankr.com/near)
 
+**Spin up your own node:**
+
+- [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
+
 ## Aurora
 
 **Public Endpoints:**
 
 - [https://mainnet.aurora.dev](https://mainnet.aurora.dev)
+
+**Spin up your own node:**
+
+- [https://doc.aurora.dev/#running-your-own-aurora-node](https://doc.aurora.dev/#running-your-own-aurora-node)
