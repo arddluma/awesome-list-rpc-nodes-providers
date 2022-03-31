@@ -113,7 +113,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
-- [https://bscrpc.com](https://bscrpc.com) 
+- [https://bscrpc.com](https://bscrpc.com)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 
@@ -154,7 +154,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Ankr - [https://ankr.com](https://ankr.com)
 
-
 **Public Endpoints:**
 
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
@@ -180,7 +179,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 11. Ankr - [https://ankr.com](https://ankr.com)
-
 
 **Public Endpoints:**
 
@@ -230,7 +228,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 
-
 **WebSocket:**
 
 - `wss://wsapi.fantom.network`
@@ -259,6 +256,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
 
 **Public Endpoints:**
 
@@ -371,7 +369,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 
-
 **Public Endpoints:**
 
 - [https://forno.celo.org](https://forno.celo.org)
@@ -381,7 +378,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://docs.celo.org/getting-started/mainnet/running-a-full-node-in-mainnet](https://docs.celo.org/getting-started/mainnet/running-a-full-node-in-mainnet)
 
-## Near 
+## Near
 
 **Providers:**
 
