@@ -100,7 +100,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
-2. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-binance-smart-chain/)
+2. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 3. GetBlock - [https://getblock.io](https://getblock.io)
 4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 5. Moralis - [https://moralis.io](https://moralis.io)
