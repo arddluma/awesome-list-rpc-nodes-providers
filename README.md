@@ -78,6 +78,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 12. Ankr - [https://ankr.com](https://ankr.com)
+13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
 
 **Public Endpoints:**
 
@@ -90,6 +91,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io)
 - [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
 - [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
+- [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 
 **Spin up your own node:**
 
