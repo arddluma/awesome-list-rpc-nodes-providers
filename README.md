@@ -403,3 +403,9 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://doc.aurora.dev/#running-your-own-aurora-node](https://doc.aurora.dev/#running-your-own-aurora-node)
+
+## Contributors
+
+<a href="https://github.com/arddluma/awesome-list-rpc-nodes-providers/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=arddluma/awesome-list-rpc-nodes-providers" />
+</a>
