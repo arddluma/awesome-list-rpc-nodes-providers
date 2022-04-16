@@ -25,6 +25,7 @@ etc.
 - [Celo](#celo)
 - [Near](#near)
 - [Aurora](#aurora)
+- [TomoChain](#tomochain)
 
 ## MultiChain
 
@@ -415,7 +416,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 **Websocket:**
 
-- [wss://ws.tomochain.com](wss://ws.tomochain.com)
+- `wss://ws.tomochain.com`
 
 **Spin up your own node:**
 
