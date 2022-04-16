@@ -25,6 +25,7 @@ etc.
 - [Celo](#celo)
 - [Near](#near)
 - [Aurora](#aurora)
+- [TomoChain](#tomochain)
 
 ## MultiChain
 
@@ -403,6 +404,24 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://doc.aurora.dev/#running-your-own-aurora-node](https://doc.aurora.dev/#running-your-own-aurora-node)
+
+
+
+## TomoChain
+
+**Public Endpoints:**
+
+- [https://rpc.tomochain.com](https://rpc.tomochain.com)
+
+
+**Websocket:**
+
+- `wss://ws.tomochain.com`
+
+**Spin up your own node:**
+
+- [https://docs.tomochain.com/masternode-and-dex/masternode](https://docs.tomochain.com/masternode-and-dex/masternode)
+
 
 ## Contributors
 
