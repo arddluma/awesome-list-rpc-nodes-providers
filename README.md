@@ -163,6 +163,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 
 **Spin up your own node:**
 
@@ -266,6 +267,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
 - [https://api.harmony.one](https://api.harmony.one)
+- [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
 
 **WebSocket:**
 
@@ -296,6 +298,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
 - [https://rpc.ankr.com/iotex](https://rpc.ankr.com/iotex)
+- [https://iotexrpc.com](https://iotexrpc.com)
 
 **Spin up your own node:**
 
@@ -316,6 +319,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://rpc.xdaichain.com](https://rpc.xdaichain.com)
 - [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
+- [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
 
 **WebSocket:**
 
@@ -365,6 +369,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
 - [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
+- [https://arbitrum.public-rpc.com](https://arbitrum.public-rpc.com)
 
 ## Celo
 
@@ -391,6 +396,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Public Endpoints:**
 
 - [https://rpc.ankr.com/near](https://rpc.ankr.com/near)
+- [https://near.public-rpc.com](https://near.public-rpc.com)
 
 **Spin up your own node:**
 
@@ -405,8 +411,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://doc.aurora.dev/#running-your-own-aurora-node](https://doc.aurora.dev/#running-your-own-aurora-node)
-
-
 
 ## TomoChain
 
