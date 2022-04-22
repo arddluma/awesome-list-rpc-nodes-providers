@@ -26,6 +26,7 @@ etc.
 - [Near](#near)
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
+- [Moonriver](#moonriver)
 
 ## MultiChain
 
@@ -421,6 +422,20 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://docs.tomochain.com/masternode-and-dex/masternode](https://docs.tomochain.com/masternode-and-dex/masternode)
+
+## Moonriver
+
+**Public Endpoints:**
+
+- [https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonriver.moonbeam.network)
+
+**Websocket:**
+
+- `wss://wss.api.moonriver.moonbeam.network`
+
+**Spin up your own node:**
+
+- [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
 
 
 ## Contributors
