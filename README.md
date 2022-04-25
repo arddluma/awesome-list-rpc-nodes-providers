@@ -267,7 +267,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
 - [https://api.harmony.one](https://api.harmony.one)
 - [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
-- [https://harmony-mainnet.chainstacklabs.com/](https://harmony-mainnet.chainstacklabs.com/)
+- [https://harmony-mainnet.chainstacklabs.com](https://harmony-mainnet.chainstacklabs.com)
 
 **WebSocket:**
 
