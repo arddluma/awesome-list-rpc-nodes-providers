@@ -272,7 +272,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **WebSocket:**
 
 - `wss://ws.s0.t.hmny.io`
-- `wss://ws-harmony-mainnet.chainstacklabs.com/`
+- `wss://ws-harmony-mainnet.chainstacklabs.com`
 
 **Spin up your own node:**
 
