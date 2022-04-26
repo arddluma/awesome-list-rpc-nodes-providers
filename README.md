@@ -98,9 +98,9 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
-- [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node](https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node)
-- https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node (https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node)
-- https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node (https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node)
+- [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
+- https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node 
+- https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node 
 
 
 ## BSC
