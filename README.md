@@ -64,6 +64,19 @@ constantly growing, and the full list is available
 
 Checkout: [https://pokt.network](https://pokt.network)
 
+### Quicknode
+
+Quicknode is a multi-chain Web3 provider that connects application developers with a
+decentralized network of worldwide running endpoints. Application developers can create
+an endpoint and start working within minutes- for any of the actively supported chains.
+
+Quicknode currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Celo, Fantom, Optimism,
+BSC, Gnosis, Algorand to name a few. The list of supported chains is
+constantly growing, and the full list is available
+[here](https://www.quicknode.com/pricing).
+
+Checkout: [https://www.quicknode.com](https://www.quicknode.com)
+
 ## Ethereum
 
 **Providers:**
@@ -98,6 +111,10 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
+- [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
+- https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node 
+- https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node 
+
 
 ## BSC
 
@@ -136,6 +153,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+4. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 
 **Public Endpoints:**
 
@@ -157,6 +175,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Ankr - [https://ankr.com](https://ankr.com)
+7. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 
 **Public Endpoints:**
 
@@ -212,6 +231,7 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Providers**:
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 
 **Spin up your own node:**
 
