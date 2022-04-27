@@ -175,15 +175,14 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 1. Infura.io - [https://infura.io](https://infura.io)
 2. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
-3. Chainstack - [https://chainstack.com](https://chainstack.com)
+3. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
 4. ANKR - [https://ankr.com](https://ankr.com)
 5. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 6. Moralis - [https://moralis.io](https://moralis.io)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-8. Chainstack - [https://chainstack.com/build-better-with-polygon/](https://chainstack.com/build-better-with-polygon/)
-9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
-10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-11. Ankr - [https://ankr.com](https://ankr.com)
+8. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+10. Ankr - [https://ankr.com](https://ankr.com)
 
 **Public Endpoints:**
 
@@ -268,10 +267,12 @@ Checkout: [https://pokt.network](https://pokt.network)
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
 - [https://api.harmony.one](https://api.harmony.one)
 - [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
+- [https://harmony-mainnet.chainstacklabs.com](https://harmony-mainnet.chainstacklabs.com)
 
 **WebSocket:**
 
 - `wss://ws.s0.t.hmny.io`
+- `wss://ws-harmony-mainnet.chainstacklabs.com`
 
 **Spin up your own node:**
 
@@ -418,7 +419,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 
 - [https://rpc.tomochain.com](https://rpc.tomochain.com)
 
-
 **Websocket:**
 
 - `wss://ws.tomochain.com`
@@ -440,7 +440,6 @@ Checkout: [https://pokt.network](https://pokt.network)
 **Spin up your own node:**
 
 - [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
-
 
 ## Contributors
 
