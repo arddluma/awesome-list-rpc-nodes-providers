@@ -422,6 +422,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
+2. Infura - [https://infura.io](https://infura.io)
 
 **Public Endpoints:**
 
@@ -433,6 +434,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
 
 ## Aurora
+
+**Providers:**
+
+1. Infura - [https://infura.io](https://infura.io)
 
 **Public Endpoints:**
 
