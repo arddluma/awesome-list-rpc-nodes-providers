@@ -67,6 +67,8 @@ BSC, Gnosis, Harmony, and Algorand to name a few. The list of supported chains i
 constantly growing, and the full list is available
 [here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
 
+For a list of all public RPC endpoints, you can look [here](https://docs.pokt.network/home/resources/public-rpc-endpoints).
+
 Checkout: [https://pokt.network](https://pokt.network)
 
 ### Quicknode
