@@ -31,6 +31,7 @@ etc.
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Moonriver](#moonriver)
+- [Boba Network](#boba-network)
 - [Contributors](#contributors)
 
 ## MultiChain
@@ -147,6 +148,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Public Endpoints:**
 
+- [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
@@ -195,6 +197,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Public Endpoints:**
 
+- [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
@@ -261,9 +264,11 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
 **Public Endpoints:**
 
+- [https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8](https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8)
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
@@ -430,6 +435,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Infura - [https://infura.io](https://infura.io)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
 **Public Endpoints:**
 
@@ -481,6 +487,21 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
+
+## Boba Network
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0
+  ](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
+
+**Spin up your own node:**
+
+- [https://boba.network/start-here/#8](https://boba.network/start-here/#8)
 
 ## Contributors
 
