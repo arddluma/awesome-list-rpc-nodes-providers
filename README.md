@@ -1,12 +1,16 @@
-# awesome-list-rpc-nodes-providers
+# awesome-list-rpc-nodes-providers <!-- omit in toc -->
 
 On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
 most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche
 etc.
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [MultiChain](#multichain)
+  - [Etherspot](#etherspot)
+  - [Pocket Network](#pocket-network)
+  - [Quicknode](#quicknode)
+  - [Chainstack](#chainstack)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -16,7 +20,7 @@ etc.
 - [Fantom](#fantom)
 - [Tezos](#tezos)
 - [Harmony](#harmony)
-- [Kucoin](#kucoin)
+- [KuCoin](#kucoin)
 - [IoTeX](#iotex)
 - [Gnosis (xDAI)](#gnosis-xdai)
 - [Fuse](#fuse)
@@ -27,6 +31,7 @@ etc.
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Moonriver](#moonriver)
+- [Contributors](#contributors)
 
 ## MultiChain
 
