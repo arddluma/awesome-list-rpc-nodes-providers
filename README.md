@@ -30,6 +30,16 @@ etc.
 
 ## MultiChain
 
+### DataHub
+
+DataHub is Figment’s node infrastructure platform for Web 3 blockchain developers. Developers can seamlessly connect to 19+ supported blockchains via our suite of APIs, to power their applications and significantly cut development time and infrastructure costs. **DataHub offers -**
+- Multi-chain: Scale apps across over 19 Layer 1 & 2 blockchains with a single API Key. 
+- Subgraphs: Link subgraphs to your app from The Graph and manage decentralized indexing in one workspace.
+- Single UI: One dashboard to manage all of your app’s protocols and services 
+- Analytics: Aggregated API analytics, across chains and protocols for requests, latency, errors and logs
+
+Checkout: [DataHub](https://datahub.figment.io/)
+
 ### Etherspot
 
 Etherspot gives developers and their applications the ability to use one or all
@@ -245,6 +255,7 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -385,6 +396,7 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 3. Infura - [https://infura.io](https://infura.io)
 4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
 5. ANKR - [https://ankr.com](https://ankr.com)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -398,6 +410,7 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -413,6 +426,7 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
+2. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
