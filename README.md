@@ -30,16 +30,6 @@ etc.
 
 ## MultiChain
 
-### DataHub
-
-DataHub is Figment’s node infrastructure platform for Web 3 blockchain developers. Developers can seamlessly connect to 19+ supported blockchains via our suite of APIs, to power their applications and significantly cut development time and infrastructure costs. **DataHub offers -**
-- Multi-chain: Scale apps across over 19 Layer 1 & 2 blockchains with a single API Key. 
-- Subgraphs: Link subgraphs to your app from The Graph and manage decentralized indexing in one workspace.
-- Single UI: One dashboard to manage all of your app’s protocols and services 
-- Analytics: Aggregated API analytics, across chains and protocols for requests, latency, errors and logs
-
-Checkout: [DataHub](https://datahub.figment.io/)
-
 ### Etherspot
 
 Etherspot gives developers and their applications the ability to use one or all
@@ -96,6 +86,16 @@ Chainstack supports multiple blockchain protocols like Ethereum, Polygon, Binanc
 The nodes are deployed in multiple regions around the globe using multi-cloud, hybrid and on-premises hosting. The [developer plan is free](https://console.chainstack.com/user/account/create) up to 3 million requests per month with more plans available.
 
 Checkout: [chainstack.com](https://chainstack.com/)
+
+### DataHub
+
+DataHub is Figment’s node infrastructure platform for Web 3 blockchain developers. Developers can seamlessly connect to 19+ supported blockchains via our suite of APIs, to power their applications and significantly cut development time and infrastructure costs. **DataHub offers -**
+- Multi-chain: Scale apps across over 19 Layer 1 & 2 blockchains with a single API Key. 
+- Subgraphs: Link subgraphs to your app from The Graph and manage decentralized indexing in one workspace.
+- Single UI: One dashboard to manage all of your app’s protocols and services 
+- Analytics: Aggregated API analytics, across chains and protocols for requests, latency, errors and logs
+
+Checkout: [DataHub](https://datahub.figment.io/)
 
 ## Ethereum
 
@@ -435,8 +435,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
-2. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-3. Infura - [https://infura.io](https://infura.io)
+2. Infura - [https://infura.io](https://infura.io)
+3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
