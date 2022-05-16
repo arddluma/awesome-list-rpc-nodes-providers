@@ -87,6 +87,16 @@ constantly growing, and the full list is available
 
 Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 
+### Chainstack
+
+Chainstack offers managed blockchain services making it simple to launch and scale decentralized networks and applications—complete with an intuitive user interface, seamless orchestration, and predictable pricing.
+
+Chainstack supports multiple blockchain protocols like Ethereum, Polygon, Binance Smart Chain, Avalanche, Fantom, Solana, Harmony, Tezos, Starknet, and many more. In addition, it supports private blockchains like Fabric, Corda or Quorum. You can [find all the supported protocols here](https://chainstack.com/protocols/).
+
+The nodes are deployed in multiple regions around the globe using multi-cloud, hybrid and on-premises hosting. The [developer plan is free](https://console.chainstack.com/user/account/create) up to 3 million requests per month with more plans available.
+
+Checkout: [chainstack.com](https://chainstack.com/)
+
 ## Ethereum
 
 **Providers:**
@@ -122,9 +132,8 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 
 - [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
 - [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
-- https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node 
-- https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node 
-
+- https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node
+- https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
 
 ## BSC
 
@@ -427,6 +436,7 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+3. Infura - [https://infura.io](https://infura.io)
 
 **Public Endpoints:**
 
@@ -438,6 +448,10 @@ Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 - [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
 
 ## Aurora
+
+**Providers:**
+
+1. Infura - [https://infura.io](https://infura.io)
 
 **Public Endpoints:**
 
