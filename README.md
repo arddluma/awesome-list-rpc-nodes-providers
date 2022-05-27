@@ -1,11 +1,12 @@
-# awesome-list-rpc-nodes-providers
+# awesome-list-rpc-nodes-providers <!-- omit in toc -->
 
 On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
 most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche
 etc.
 
-## Contents
+## Contents <!-- omit in toc -->
 
+<<<<<<< HEAD
 - [awesome-list-rpc-nodes-providers](#awesome-list-rpc-nodes-providers)
   - [Contents](#contents)
   - [MultiChain](#multichain)
@@ -35,6 +36,35 @@ etc.
   - [TomoChain](#tomochain)
   - [Moonriver](#moonriver)
   - [Contributors](#contributors)
+=======
+- [MultiChain](#multichain)
+  - [Etherspot](#etherspot)
+  - [Pocket Network](#pocket-network)
+  - [Quicknode](#quicknode)
+  - [Chainstack](#chainstack)
+- [Ethereum](#ethereum)
+- [BSC](#bsc)
+- [Solana](#solana)
+- [Avalanche](#avalanche)
+- [Polygon](#polygon)
+- [Algorand](#algorand)
+- [Fantom](#fantom)
+- [Tezos](#tezos)
+- [Harmony](#harmony)
+- [KuCoin](#kucoin)
+- [IoTeX](#iotex)
+- [Gnosis (xDAI)](#gnosis-xdai)
+- [Fuse](#fuse)
+- [Optimistic Ethereum](#optimistic-ethereum)
+- [Arbitrum One](#arbitrum-one)
+- [Celo](#celo)
+- [Near](#near)
+- [Aurora](#aurora)
+- [TomoChain](#tomochain)
+- [Moonriver](#moonriver)
+- [Boba Network](#boba-network)
+- [Contributors](#contributors)
+>>>>>>> 13a4bf2920c9d0fbc5ef54860012460f832cae64
 
 ## MultiChain
 
@@ -69,6 +99,8 @@ Pocket Network currently supports RPC access to Ethereum, Avalanche, Polygon,
 BSC, Gnosis, Harmony, and Algorand to name a few. The list of supported chains is
 constantly growing, and the full list is available
 [here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
+
+For a list of all public RPC endpoints, you can look [here](https://docs.pokt.network/home/resources/public-rpc-endpoints).
 
 Checkout: [https://pokt.network](https://pokt.network)
 
@@ -158,6 +190,7 @@ Checkout [blastapi.io](https://blastapi.io)
 
 **Public Endpoints:**
 
+- [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
@@ -207,6 +240,7 @@ Checkout [blastapi.io](https://blastapi.io)
 
 **Public Endpoints:**
 
+- [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
@@ -276,10 +310,15 @@ Checkout [blastapi.io](https://blastapi.io)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+<<<<<<< HEAD
 5. Blast - [https://blastapi.io/](https://blastapi.io/)
+=======
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+>>>>>>> 13a4bf2920c9d0fbc5ef54860012460f832cae64
 
 **Public Endpoints:**
 
+- [https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8](https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8)
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
@@ -452,6 +491,7 @@ Checkout [blastapi.io](https://blastapi.io)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Infura - [https://infura.io](https://infura.io)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
 **Public Endpoints:**
 
@@ -508,6 +548,21 @@ Checkout [blastapi.io](https://blastapi.io)
 **Spin up your own node:**
 
 - [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
+
+## Boba Network
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0
+  ](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
+
+**Spin up your own node:**
+
+- [https://boba.network/start-here/#8](https://boba.network/start-here/#8)
 
 ## Contributors
 
