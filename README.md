@@ -6,42 +6,12 @@ etc.
 
 ## Contents <!-- omit in toc -->
 
-<<<<<<< HEAD
-- [awesome-list-rpc-nodes-providers](#awesome-list-rpc-nodes-providers)
-  - [Contents](#contents)
-  - [MultiChain](#multichain)
-    - [Etherspot](#etherspot)
-    - [Pocket Network](#pocket-network)
-    - [Quicknode](#quicknode)
-    - [Chainstack](#chainstack)
-    - [Blast](#blast)
-  - [Ethereum](#ethereum)
-  - [BSC](#bsc)
-  - [Solana](#solana)
-  - [Avalanche](#avalanche)
-  - [Polygon](#polygon)
-  - [Algorand](#algorand)
-  - [Fantom](#fantom)
-  - [Tezos](#tezos)
-  - [Harmony](#harmony)
-  - [KuCoin](#kucoin)
-  - [IoTeX](#iotex)
-  - [Gnosis (xDAI)](#gnosis-xdai)
-  - [Fuse](#fuse)
-  - [Optimistic Ethereum](#optimistic-ethereum)
-  - [Arbitrum One](#arbitrum-one)
-  - [Celo](#celo)
-  - [Near](#near)
-  - [Aurora](#aurora)
-  - [TomoChain](#tomochain)
-  - [Moonriver](#moonriver)
-  - [Contributors](#contributors)
-=======
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
+  - [Blast](#blast)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -64,7 +34,7 @@ etc.
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Contributors](#contributors)
->>>>>>> 13a4bf2920c9d0fbc5ef54860012460f832cae64
+
 
 ## MultiChain
 
@@ -310,11 +280,9 @@ Checkout [blastapi.io](https://blastapi.io)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-<<<<<<< HEAD
 5. Blast - [https://blastapi.io/](https://blastapi.io/)
-=======
-5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
->>>>>>> 13a4bf2920c9d0fbc5ef54860012460f832cae64
+6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
 
 **Public Endpoints:**
 
