@@ -280,9 +280,8 @@ Checkout [blastapi.io](https://blastapi.io)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-5. Blast - [https://blastapi.io/](https://blastapi.io/)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
