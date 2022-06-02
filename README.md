@@ -11,6 +11,7 @@ etc.
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
+  - [NodeReal](#Nodereal)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
