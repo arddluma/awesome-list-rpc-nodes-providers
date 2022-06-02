@@ -95,6 +95,24 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+### NodeReal
+
+NodeReal is a blockchain infrastructure and services provider. Nodereal launched our BSC validator RapToken in the early stages of the BSC network. And now RapToken has rebranded itself as NodeReal. Nodereal is trusted by customers worldwide as the team work with a passion for blockchain technology and a deep understanding of infrastructure and security. Nodereal`s mission is to support the adoption, growth and long-term success of the Web 3 ecosystem.
+
+The NodeReal MegaNode provides instant access over HTTPS and WebSockets to the EVM blockchains, like Binance Smart Chain and Ethereum. 
+
+**Standard Interface**: Supports BSC mainnet via client-compatible JSON-RPC, over HTTPS and WSS.
+
+**Reliability**: Running on the latest network upgrades with a minimum 99.9% uptime guarantee.
+
+**Instant Availability**: Connect your application with one line of code. No syncing, no complicated setups.
+
+**Developer Dashboard**: Configure, monitor, and analyze your applications with NodeReal.
+
+**Archive Data**: Provide best archive data experience, and it is free for every tiers!
+
+
+
 ## Ethereum
 
 **Providers:**
@@ -112,6 +130,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
+14. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
@@ -125,6 +144,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
 - [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
+- [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
 
 **Spin up your own node:**
 
@@ -132,6 +152,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
 - https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node
 - https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
+- [https://meganode.nodereal.io/account/login](https://meganode.nodereal.io/account/login)
 
 ## BSC
 
@@ -145,6 +166,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+9. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
@@ -155,6 +177,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://bscrpc.com](https://bscrpc.com)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
 
 **WebSocket:**
 
