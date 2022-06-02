@@ -11,7 +11,6 @@ etc.
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
-  - [Blast](#blast)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -96,14 +95,6 @@ Chainstack supports multiple blockchain protocols like Ethereum, Polygon, Binanc
 The nodes are deployed in multiple regions around the globe using multi-cloud, hybrid and on-premises hosting. The [developer plan is free](https://console.chainstack.com/user/account/create) up to 3 million requests per month with more plans available.
 
 Checkout: [chainstack.com](https://chainstack.com/)
-
-### Blast
-Blast is an API As a Service platform giving WEB3 builders access to RPC and WSS endpoints supported by worldwide incentivised third-party node providers. Developers have the option to 
-use the platform's Public API for free, or they can obtain dedicated endpoints by registering into the platform with their Metamask wallets. 
-
-Priding itself for supporting an ever growing list of some of the most relevant blockchain networks in the space, Blast already offers support for 14 Blockchain projects and more than 19 networks (mainnet and testnet). You can find the full list [here](https://blastapi.io/public-api).
-
-Checkout [blastapi.io](https://blastapi.io)
 
 ## Ethereum
 
