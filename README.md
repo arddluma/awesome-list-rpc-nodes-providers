@@ -11,7 +11,6 @@ etc.
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
-  - [NodeReal](#Nodereal)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -34,6 +33,7 @@ etc.
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Contributors](#contributors)
+
 
 ## MultiChain
 
@@ -116,6 +116,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
 14. NodeReal - https://nodereal.io/
+15. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -130,6 +131,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
+- [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
+
+
 
 **Spin up your own node:**
 
@@ -202,6 +206,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Ankr - [https://ankr.com](https://ankr.com)
 7. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+8. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -210,6 +215,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
+- [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 
 **Spin up your own node:**
 
@@ -229,6 +235,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 10. Ankr - [https://ankr.com](https://ankr.com)
+11. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -241,6 +248,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
+- [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 
 **WebSocket:**
 
@@ -273,6 +281,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
 5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -280,6 +289,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
 
 **WebSocket:**
 
@@ -362,6 +372,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. GetBlock - [https://getblock.io](https://getblock.io)
 4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Blast - [https://blastapi.io/](https://blastapi.io/)
+
 
 **Public Endpoints:**
 
@@ -370,6 +382,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
+- [https://blastapi.io/public-api/gnosis](https://blastapi.io/public-api/gnosis)
 
 **WebSocket:**
 
@@ -400,10 +413,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 2. Infura - [https://infura.io](https://infura.io)
 3. Ankr - [https://ankr.com](https://ankr.com)
+4. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
 - [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
+- [https://blastapi.io/public-api/optimism](https://blastapi.io/public-api/optimism)
 
 ## Arbitrum One
 
@@ -484,9 +499,14 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 ## Moonriver
 
+**Providers:**
+
+ - Blast - [https://blastapi.io/](https://blastapi.io/)
+
 **Public Endpoints:**
 
 - [https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonriver.moonbeam.network)
+- [https://blastapi.io/public-api/moonriver](https://blastapi.io/public-api/moonriver)
 
 **Websocket:**
 
