@@ -96,22 +96,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-### NodeReal
-
-NodeReal is a blockchain infrastructure and services provider. Nodereal launched our BSC validator RapToken in the early stages of the BSC network. And now RapToken has rebranded itself as NodeReal. Nodereal is trusted by customers worldwide as the team work with a passion for blockchain technology and a deep understanding of infrastructure and security. Nodereal`s mission is to support the adoption, growth and long-term success of the Web 3 ecosystem.
-
-The NodeReal MegaNode provides instant access over HTTPS and WebSockets to the EVM blockchains, like Binance Smart Chain and Ethereum. 
-
-**Standard Interface**: Supports BSC mainnet via client-compatible JSON-RPC, over HTTPS and WSS.
-
-**Reliability**: Running on the latest network upgrades with a minimum 99.9% uptime guarantee.
-
-**Instant Availability**: Connect your application with one line of code. No syncing, no complicated setups.
-
-**Developer Dashboard**: Configure, monitor, and analyze your applications with NodeReal.
-
-**Archive Data**: Provide best archive data experience, and it is free for every tiers!
-
 
 
 ## Ethereum
