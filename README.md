@@ -115,8 +115,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
-14. NodeReal - https://nodereal.io/
-15. Blast - [https://blastapi.io/](https://blastapi.io/)
+14. Blast - [https://blastapi.io/](https://blastapi.io/)
+15. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
