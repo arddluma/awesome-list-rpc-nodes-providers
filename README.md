@@ -97,7 +97,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 Checkout: [chainstack.com](https://chainstack.com/)
 
 
-
 ## Ethereum
 
 **Providers:**
@@ -282,6 +281,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
 5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 6. Blast - [https://blastapi.io/](https://blastapi.io/)
+7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -429,6 +429,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Infura - [https://infura.io](https://infura.io)
 4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
 5. ANKR - [https://ankr.com](https://ankr.com)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -442,6 +443,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -459,6 +461,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Infura - [https://infura.io](https://infura.io)
 3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
