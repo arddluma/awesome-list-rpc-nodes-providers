@@ -1,12 +1,16 @@
-# awesome-list-rpc-nodes-providers
+# awesome-list-rpc-nodes-providers <!-- omit in toc -->
 
 On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
 most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche
 etc.
 
-## Contents
+## Contents <!-- omit in toc -->
 
 - [MultiChain](#multichain)
+  - [Etherspot](#etherspot)
+  - [Pocket Network](#pocket-network)
+  - [Quicknode](#quicknode)
+  - [Chainstack](#chainstack)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -16,7 +20,7 @@ etc.
 - [Fantom](#fantom)
 - [Tezos](#tezos)
 - [Harmony](#harmony)
-- [Kucoin](#kucoin)
+- [KuCoin](#kucoin)
 - [IoTeX](#iotex)
 - [Gnosis (xDAI)](#gnosis-xdai)
 - [Fuse](#fuse)
@@ -27,6 +31,9 @@ etc.
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Moonriver](#moonriver)
+- [Boba Network](#boba-network)
+- [Contributors](#contributors)
+
 
 ## MultiChain
 
@@ -62,6 +69,8 @@ BSC, Gnosis, Harmony, and Algorand to name a few. The list of supported chains i
 constantly growing, and the full list is available
 [here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
 
+For a list of all public RPC endpoints, you can look [here](https://docs.pokt.network/home/resources/public-rpc-endpoints).
+
 Checkout: [https://pokt.network](https://pokt.network)
 
 ### Quicknode
@@ -87,15 +96,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-### DataHub
-
-DataHub is Figment’s node infrastructure platform for Web 3 blockchain developers. Developers can seamlessly connect to 19+ supported blockchains via our suite of APIs, to power their applications and significantly cut development time and infrastructure costs. **DataHub offers -**
-- Multi-chain: Scale apps across over 19 Layer 1 & 2 blockchains with a single API Key. 
-- Subgraphs: Link subgraphs to your app from The Graph and manage decentralized indexing in one workspace.
-- Single UI: One dashboard to manage all of your app’s protocols and services 
-- Analytics: Aggregated API analytics, across chains and protocols for requests, latency, errors and logs
-
-Checkout: [DataHub](https://datahub.figment.io/)
 
 ## Ethereum
 
@@ -114,6 +114,8 @@ Checkout: [DataHub](https://datahub.figment.io/)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
+14. Blast - [https://blastapi.io/](https://blastapi.io/)
+15. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
@@ -127,6 +129,10 @@ Checkout: [DataHub](https://datahub.figment.io/)
 - [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
 - [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
+- [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
+- [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
+
+
 
 **Spin up your own node:**
 
@@ -134,6 +140,7 @@ Checkout: [DataHub](https://datahub.figment.io/)
 - [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
 - https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node
 - https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
+- [https://meganode.nodereal.io/account/login](https://meganode.nodereal.io/account/login)
 
 ## BSC
 
@@ -147,15 +154,18 @@ Checkout: [DataHub](https://datahub.figment.io/)
 6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+9. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
+- [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
 - [https://bscrpc.com](https://bscrpc.com)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
 
 **WebSocket:**
 
@@ -195,13 +205,16 @@ Checkout: [DataHub](https://datahub.figment.io/)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Ankr - [https://ankr.com](https://ankr.com)
 7. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+8. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
+- [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
 - [https://api.avax.network/ext/bc/C/rpc](https://api.avax.network/ext/bc/C/rpc)
 - [https://rpc.ankr.com/avalanche](https://rpc.ankr.com/avalanche)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
+- [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 
 **Spin up your own node:**
 
@@ -221,6 +234,7 @@ Checkout: [DataHub](https://datahub.figment.io/)
 8. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
 9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 10. Ankr - [https://ankr.com](https://ankr.com)
+11. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -233,6 +247,7 @@ Checkout: [DataHub](https://datahub.figment.io/)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
+- [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 
 **WebSocket:**
 
@@ -264,13 +279,17 @@ Checkout: [DataHub](https://datahub.figment.io/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Moralis - [https://moralis.io](https://moralis.io)
 4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Blast - [https://blastapi.io/](https://blastapi.io/)
+7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
+- [https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8](https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8)
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
 
 **WebSocket:**
 
@@ -353,6 +372,8 @@ Checkout: [DataHub](https://datahub.figment.io/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. GetBlock - [https://getblock.io](https://getblock.io)
 4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Blast - [https://blastapi.io/](https://blastapi.io/)
+
 
 **Public Endpoints:**
 
@@ -361,6 +382,7 @@ Checkout: [DataHub](https://datahub.figment.io/)
 - [https://xdai.poanetwork.dev](https://xdai.poanetwork.dev)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
+- [https://blastapi.io/public-api/gnosis](https://blastapi.io/public-api/gnosis)
 
 **WebSocket:**
 
@@ -391,10 +413,12 @@ Checkout: [DataHub](https://datahub.figment.io/)
 1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 2. Infura - [https://infura.io](https://infura.io)
 3. Ankr - [https://ankr.com](https://ankr.com)
+4. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
 - [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
+- [https://blastapi.io/public-api/optimism](https://blastapi.io/public-api/optimism)
 
 ## Arbitrum One
 
@@ -436,7 +460,8 @@ Checkout: [DataHub](https://datahub.figment.io/)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Infura - [https://infura.io](https://infura.io)
-3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -477,9 +502,14 @@ Checkout: [DataHub](https://datahub.figment.io/)
 
 ## Moonriver
 
+**Providers:**
+
+ - Blast - [https://blastapi.io/](https://blastapi.io/)
+
 **Public Endpoints:**
 
 - [https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonriver.moonbeam.network)
+- [https://blastapi.io/public-api/moonriver](https://blastapi.io/public-api/moonriver)
 
 **Websocket:**
 
@@ -488,6 +518,21 @@ Checkout: [DataHub](https://datahub.figment.io/)
 **Spin up your own node:**
 
 - [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
+
+## Boba Network
+
+**Providers:**
+
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+
+**Public Endpoints:**
+
+- [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0
+  ](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
+
+**Spin up your own node:**
+
+- [https://boba.network/start-here/#8](https://boba.network/start-here/#8)
 
 ## Contributors
 
