@@ -96,6 +96,8 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+
+
 ## Ethereum
 
 **Providers:**
@@ -114,6 +116,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
 14. Blast - [https://blastapi.io/](https://blastapi.io/)
+15. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
@@ -127,7 +130,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.flashbots.net/](https://rpc.flashbots.net/)
 - [https://rpc.ankr.com/eth](https://rpc.ankr.com/eth)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
+- [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
 - [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
+
+
 
 **Spin up your own node:**
 
@@ -135,6 +141,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
 - https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node
 - https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
+- [https://meganode.nodereal.io/account/login](https://meganode.nodereal.io/account/login)
 
 ## BSC
 
@@ -148,6 +155,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+9. NodeReal - https://nodereal.io/
 
 **Public Endpoints:**
 
@@ -158,6 +166,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://bscrpc.com](https://bscrpc.com)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
+- [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
 
 **WebSocket:**
 
