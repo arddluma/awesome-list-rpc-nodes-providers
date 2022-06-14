@@ -190,7 +190,6 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 - [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
 - [https://ssc-dao.genesysgo.net/](https://ssc-dao.genesysgo.net/)
-- [https://devnet.genesysgo.net/](https://devnet.genesysgo.net/)
 
 **Spin up your own node:**
 
