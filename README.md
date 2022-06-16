@@ -30,6 +30,7 @@ etc.
 - [Near](#near)
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
+- [Polkadot](#polkadot)
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Contributors](#contributors)
@@ -501,20 +502,37 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 - [https://docs.tomochain.com/masternode-and-dex/masternode](https://docs.tomochain.com/masternode-and-dex/masternode)
 
+## Polkadot
+
+**Providers:**
+
+1. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+
+**Public Endpoints:**
+
+- [https://polkadot.api.onfinality.io/public](https://polkadot.api.onfinality.io/public)
+
+**WebSocket:**
+
+- `wss://polkadot.api.onfinality.io/public-ws`
+
 ## Moonriver
 
 **Providers:**
 
- - Blast - [https://blastapi.io/](https://blastapi.io/)
+ 1. Blast - [https://blastapi.io/](https://blastapi.io/)
+ 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 
 **Public Endpoints:**
 
 - [https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonriver.moonbeam.network)
 - [https://blastapi.io/public-api/moonriver](https://blastapi.io/public-api/moonriver)
+- [https://moonriver.api.onfinality.io/public](https://polkadot.api.onfinality.io/public)
 
 **Websocket:**
 
 - `wss://wss.api.moonriver.moonbeam.network`
+- `wss://moonriver.api.onfinality.io/public-ws`
 
 **Spin up your own node:**
 
