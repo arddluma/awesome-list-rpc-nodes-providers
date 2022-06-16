@@ -31,6 +31,7 @@ etc.
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Polkadot](#polkadot)
+- [Moonbeam](#moonbeam)
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Contributors](#contributors)
@@ -516,12 +517,31 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 - `wss://polkadot.api.onfinality.io/public-ws`
 
+## Moonbeam
+
+**Providers:**
+
+ 1. Blast - [https://blastapi.io/](https://blastapi.io/)
+ 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+ 3. Dwellir - [https://dwellir.com](https://dwellir.com)
+
+**Public Endpoints:**
+
+- [https://rpc.api.moonbeam.network]([https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonbeam.network))
+- [https://moonbeam.public.blastapi.io](https://moonbeam.public.blastapi.io)
+- [https://moonbeam.api.onfinality.io/public](https://moonbeam.api.onfinality.io/public)
+
+**Spin up your own node:**
+
+- [https://docs.moonbeam.network/node-operators/networks/run-a-node/](https://docs.moonbeam.network/node-operators/networks/run-a-node/)
+
 ## Moonriver
 
 **Providers:**
 
  1. Blast - [https://blastapi.io/](https://blastapi.io/)
  2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+ 3. Dwellir - [https://dwellir.com](https://dwellir.com)
 
 **Public Endpoints:**
 
@@ -531,8 +551,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Websocket:**
 
-- `wss://wss.api.moonriver.moonbeam.network`
-- `wss://moonriver.api.onfinality.io/public-ws`
+- `wss://moonbeam.public.blastapi.io`
+- `wss://moonbeam-rpc.dwellir.com`
+- `wss://moonbeam.api.onfinality.io/public-ws`
 
 **Spin up your own node:**
 
