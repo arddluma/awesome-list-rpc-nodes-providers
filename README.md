@@ -180,7 +180,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 ## Solana
 
 **Providers:**
-nodes medium oxheadlaphe
+
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
