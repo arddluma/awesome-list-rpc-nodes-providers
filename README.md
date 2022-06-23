@@ -307,6 +307,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
+1. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 
 **Public Endpoints:**
 
