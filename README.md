@@ -34,6 +34,7 @@ etc.
 - [Moonbeam](#moonbeam)
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
+- [Astar](#astar)
 - [Contributors](#contributors)
 
 
@@ -574,6 +575,21 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://boba.network/start-here/#8](https://boba.network/start-here/#8)
+
+## Astar
+
+**Providers:**
+
+1. Blast - [https://blastapi.io/](https://blastapi.io/)
+2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+
+**Public Endpoints:**
+- [https://evm.astar.network](https://evm.astar.network)
+- [https://astar.api.onfinality.io/public](https://astar.api.onfinality.io/public)
+- [https://evm.astar.network](https://evm.astar.network)
+**Spin up your own node:**
+
+- [https://docs.astar.network/maintain/archive-node/docker#running-rpc-node](https://docs.astar.network/maintain/archive-node/docker#running-rpc-node)
 
 ## Contributors
 
