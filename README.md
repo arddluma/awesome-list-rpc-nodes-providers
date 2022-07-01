@@ -242,7 +242,6 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Public Endpoints:**
 
-- [https://polygon-rpc.com](https://polygon-rpc.com)
 - [https://rpc-mainnet.matic.network](https://rpc-mainnet.matic.network)
 - [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
 - [https://rpc-mainnet.matic.quiknode.pro](https://rpc-mainnet.matic.quiknode.pro)
@@ -252,6 +251,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
+- [https://polygon-rpc.com](https://polygon-rpc.com) Warning! Do not use  (ref: https://twitter.com/officer_cia/status/1542829400143568897)
 
 **WebSocket:**
 
