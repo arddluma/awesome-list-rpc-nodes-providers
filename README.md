@@ -1,8 +1,14 @@
-# awesome-list-rpc-nodes-providers <!-- omit in toc -->
+<p align="center">
+    <a href="https://multinodes.xyz" target="_blank" rel="noopener">
+        <img src="https://i.imgur.com/IB0hvnJ.png" alt="MultiNodes - awesome RPC nodes providers" />
+    </a>
+</p>
 
-On this repo you'll find a list of PUBLIC RPC endpoints and Node providers for
-most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche
-etc.
+## awesome-list-rpc-nodes-providers<!-- omit in toc -->
+
+
+[MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
+most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism etc.
 
 ## Contents <!-- omit in toc -->
 
