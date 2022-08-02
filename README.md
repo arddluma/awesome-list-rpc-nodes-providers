@@ -125,6 +125,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
 14. Blast - [https://blastapi.io/](https://blastapi.io/)
 15. NodeReal - https://nodereal.io/
+16. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -164,6 +165,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 9. NodeReal - https://nodereal.io/
+10. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -192,6 +194,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 4. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -216,6 +219,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Ankr - [https://ankr.com](https://ankr.com)
 7. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 8. Blast - [https://blastapi.io/](https://blastapi.io/)
+9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -245,6 +249,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 10. Ankr - [https://ankr.com](https://ankr.com)
 11. Blast - [https://blastapi.io/](https://blastapi.io/)
+12. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -292,6 +297,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 6. Blast - [https://blastapi.io/](https://blastapi.io/)
 7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -314,7 +320,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
-1. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
+2. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
+3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -331,6 +338,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
+3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -425,6 +433,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Infura - [https://infura.io](https://infura.io)
 3. Ankr - [https://ankr.com](https://ankr.com)
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
+5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -441,6 +450,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
 5. ANKR - [https://ankr.com](https://ankr.com)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -516,6 +526,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+2. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
