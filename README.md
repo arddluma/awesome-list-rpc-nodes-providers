@@ -105,16 +105,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-### NOWNodes
-
-NOWNodes is a blockchain-as-a-service that provides cryptocurrency enthusiasts and developers with reliable access to blockchain explorers and full nodes. The service has a free plan for up to 20,000 requests per day.
-
-It’s a cost-effective solution for any crypto entrepreneur that wants to maintain their own network, as the service allows you to connect to 58 blockchains in one place with one API key.
-
-NOWNodes provides scalability for any large tasks and their service is monitored 24/7 for uptime.
-
-Checkout: [nownodes.io](https://nownodes.io/)
-
 
 ## Ethereum
 
