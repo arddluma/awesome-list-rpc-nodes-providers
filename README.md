@@ -115,17 +115,16 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 4. 0x - [https://0x.org](https://0x.org)
 5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
-6. Moralis - [https://moralis.io](https://moralis.io/)
-7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
-9. ZMOK - [https://zmok.io/](https://zmok.io/)
-10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
-11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-12. Ankr - [https://ankr.com](https://ankr.com)
-13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
-14. Blast - [https://blastapi.io/](https://blastapi.io/)
-15. NodeReal - https://nodereal.io/
-16. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+7. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
+8. ZMOK - [https://zmok.io/](https://zmok.io/)
+9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+11. Ankr - [https://ankr.com](https://ankr.com)
+12. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
+13. Blast - [https://blastapi.io/](https://blastapi.io/)
+14. NodeReal - https://nodereal.io/
+15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -160,12 +159,11 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 3. GetBlock - [https://getblock.io](https://getblock.io)
 4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-5. Moralis - [https://moralis.io](https://moralis.io)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-7. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
-8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-9. NodeReal - https://nodereal.io/
-10. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
+7. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+8. NodeReal - https://nodereal.io/
+9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -211,15 +209,14 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Moralis - [https://moralis.io](https://moralis.io)
-2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
-4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
-5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. Ankr - [https://ankr.com](https://ankr.com)
-7. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
-8. Blast - [https://blastapi.io/](https://blastapi.io/)
-9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
+3. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
+4. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+5. Ankr - [https://ankr.com](https://ankr.com)
+6. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+7. Blast - [https://blastapi.io/](https://blastapi.io/)
+8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -243,13 +240,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
 4. ANKR - [https://ankr.com](https://ankr.com)
 5. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-6. Moralis - [https://moralis.io](https://moralis.io)
-7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-8. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
-9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-10. Ankr - [https://ankr.com](https://ankr.com)
-11. Blast - [https://blastapi.io/](https://blastapi.io/)
-12. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+7. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+9. Ankr - [https://ankr.com](https://ankr.com)
+10. Blast - [https://blastapi.io/](https://blastapi.io/)
+11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -292,12 +288,11 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 2. ANKR - [https://ankr.com](https://ankr.com)
-3. Moralis - [https://moralis.io](https://moralis.io)
-4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-6. Blast - [https://blastapi.io/](https://blastapi.io/)
-7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+3. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Blast - [https://blastapi.io/](https://blastapi.io/)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -444,13 +439,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Moralis - [https://moralis.io](https://moralis.io)
-2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-3. Infura - [https://infura.io](https://infura.io)
-4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
-5. ANKR - [https://ankr.com](https://ankr.com)
-6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+2. Infura - [https://infura.io](https://infura.io)
+3. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
+4. ANKR - [https://ankr.com](https://ankr.com)
+5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
