@@ -17,6 +17,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
+  - [OnFinality](#onfinality)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -105,6 +106,12 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+### OnFinality
+
+OnFinality is a multi-chain web3 platform that provides infrastructure and developer tools with a focus on newer emergent chains.
+Leading dApp developers can connect in seconds to enterprise grade endpoints that scale infinitely and rely on archive nodes to provide full history of the chain. Additionally, OnFinality provides access to instant sync managed dedicated nodes across many networks.
+
+Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and Cosmos. You can [find all the supported protocols here](https://onfinality.io/marketplace).
 
 ## Ethereum
 
