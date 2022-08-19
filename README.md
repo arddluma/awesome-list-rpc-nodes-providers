@@ -277,6 +277,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Spin up your own node:**
 
@@ -502,6 +503,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://doc.aurora.dev/#running-your-own-aurora-node](https://doc.aurora.dev/#running-your-own-aurora-node)
 
 ## TomoChain
+
+**Providers:**
+
+1. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
