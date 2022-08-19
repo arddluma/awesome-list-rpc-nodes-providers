@@ -473,7 +473,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-near/]
+1. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Infura - [https://infura.io](https://infura.io)
 4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
