@@ -473,10 +473,11 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. ANKR - [https://ankr.com](https://ankr.com)
-2. Infura - [https://infura.io](https://infura.io)
-3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+1. Chainstack - [https://chainstack.com/build-better-with-near/]
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. Infura - [https://infura.io](https://infura.io)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
