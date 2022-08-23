@@ -269,7 +269,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Spin up your own node:**
 
-- [https://docs.polygon.technology/docs/validate/validate/getting-started](https://docs.polygon.technology/docs/validate/validate/getting-started)
+- [https://docs.polygon.technology/docs/maintain/validate/validator-index](https://docs.polygon.technology/docs/maintain/validate/validator-index)
 
 ## Algorand
 
