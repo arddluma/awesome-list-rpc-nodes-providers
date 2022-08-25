@@ -258,7 +258,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
-- [https://polygon-rpc.com](https://polygon-rpc.com) Warning! Do not use  (ref: https://twitter.com/officer_cia/status/1542829400143568897)
+- [https://polygon-rpc.com](https://polygon-rpc.com)
 
 **WebSocket:**
 
@@ -309,7 +309,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Spin up your own node:**
 
-- [https://docs.fantom.foundation/staking/how-to-run-a-validator-node](https://docs.fantom.foundation/staking/how-to-run-a-validator-node)
+- [https://docs.fantom.foundation/node/how-to-run-a-validator-node](https://docs.fantom.foundation/node/how-to-run-a-validator-node)
 
 ## Tezos
 
@@ -419,7 +419,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Spin up your own node:**
 
-- [https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes](https://developers.fuse.io/fuse-dev-docs/network/how-to-run-network-nodes)
+- [https://docs.fuse.io/general-1/how-to-run-network-nodes](https://docs.fuse.io/general-1/how-to-run-network-nodes)
 
 ## Optimistic Ethereum
 
