@@ -411,7 +411,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. Chainstack - [https://chainstack.com/chainstack-announces-support-for-fuse/](https://chainstack.com/chainstack-announces-support-for-fuse/)
+2. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
 
 **Public Endpoints:**
 
