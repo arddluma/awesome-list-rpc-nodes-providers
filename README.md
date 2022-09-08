@@ -414,8 +414,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
 
 **Public Endpoints:**
-
+- [https://fuse-mainnet.chainstacklabs.com/](https://fuse-mainnet.chainstacklabs.com/)
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
+
+*WebSocket:*
+- [wss://ws-fuse-mainnet.chainstacklabs.com/](wss://ws-fuse-mainnet.chainstacklabs.com/)
+
 
 **Spin up your own node:**
 
