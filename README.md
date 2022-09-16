@@ -35,6 +35,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Arbitrum One](#arbitrum-one)
 - [Celo](#celo)
 - [Near](#near)
+- [Cosmos](#cosmos)
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Polkadot](#polkadot)
@@ -111,7 +112,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 OnFinality is a multi-chain web3 platform that provides infrastructure and developer tools with a focus on newer emergent chains.
 Leading dApp developers can connect in seconds to enterprise grade endpoints that scale infinitely and rely on archive nodes to provide full history of the chain. Additionally, OnFinality provides access to instant sync managed dedicated nodes across many networks.
 
-Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and Cosmos. You can [find all the supported protocols here](https://onfinality.io/marketplace).
+OnFinality supports multiple blockchain protocols like Polkadot, Avalanche, and Cosmos. You can [find all the supported protocols here](https://onfinality.io/marketplace). There is a free plan with up to 500k API requests per day (15 million requests per month) with more plans to support all users.
+
+Checkout: [onfinality.io](https://onfinality.io/)
 
 ## Ethereum
 
@@ -147,8 +150,6 @@ Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and 
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
 - [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
-
-
 
 **Spin up your own node:**
 
@@ -224,6 +225,7 @@ Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and 
 6. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 7. Blast - [https://blastapi.io/](https://blastapi.io/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -233,6 +235,7 @@ Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and 
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
+- [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
 
 **Spin up your own node:**
 
@@ -493,6 +496,12 @@ Chainstack supports multiple blockchain protocols like Polkadot, Avalanche, and 
 **Spin up your own node:**
 
 - [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
+
+## Cosmos
+
+**Providers**
+
+1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 ## Aurora
 
