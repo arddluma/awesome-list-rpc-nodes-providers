@@ -493,6 +493,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
+**Public Endpoints:**
+
+- [https://juno.api.onfinality.io/public](https://juno.api.onfinality.io/public)
+
 ## Aurora
 
 **Providers:**
