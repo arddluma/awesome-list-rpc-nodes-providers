@@ -34,6 +34,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Arbitrum One](#arbitrum-one)
 - [Celo](#celo)
 - [Near](#near)
+- [Cosmos](#cosmos)
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Polkadot](#polkadot)
@@ -105,7 +106,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-
 ## Ethereum
 
 **Providers:**
@@ -139,8 +139,6 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
 - [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
-
-
 
 **Spin up your own node:**
 
@@ -216,6 +214,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
 7. Blast - [https://blastapi.io/](https://blastapi.io/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -225,6 +224,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://avax.rpcgator.com/](https://avax.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
+- [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
 
 **Spin up your own node:**
 
@@ -493,6 +493,16 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
+
+## Cosmos
+
+**Providers**
+
+1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+
+**Public Endpoints:**
+
+- [https://juno.api.onfinality.io/public](https://juno.api.onfinality.io/public)
 
 ## Aurora
 
