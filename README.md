@@ -30,8 +30,9 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [IoTeX](#iotex)
 - [Gnosis (xDAI)](#gnosis-xdai)
 - [Fuse](#fuse)
-- [Optimistic Ethereum](#optimistic-ethereum)
+- [Optimistism](#optimism)
 - [Arbitrum One](#arbitrum-one)
+- [Arbitrum Nova](#arbitrum-nova)
 - [Celo](#celo)
 - [Near](#near)
 - [Cosmos](#cosmos)
@@ -427,7 +428,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 - [https://docs.fuse.io/general-1/how-to-run-network-nodes](https://docs.fuse.io/general-1/how-to-run-network-nodes)
 
-## Optimistic Ethereum
+## Optimism
 
 **Providers:**
 
@@ -459,6 +460,15 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
 - [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
 - [https://arbitrum.public-rpc.com](https://arbitrum.public-rpc.com)
+
+## Arbitrum Nova
+
+1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+2. GetBlock - [https://getblock.io](https://getblock.io)
+
+**Public Endpoints:**
+
+- [https://nova.arbitrum.io/rpc](https://nova.arbitrum.io/rpc)
 
 ## Celo
 
