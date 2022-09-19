@@ -125,6 +125,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 13. Blast - [https://blastapi.io/](https://blastapi.io/)
 14. NodeReal - https://nodereal.io/
 15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 
 **Public Endpoints:**
 
@@ -245,6 +246,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 9. Ankr - [https://ankr.com](https://ankr.com)
 10. Blast - [https://blastapi.io/](https://blastapi.io/)
 11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 
 **Public Endpoints:**
 
