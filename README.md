@@ -387,6 +387,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. GetBlock - [https://getblock.io](https://getblock.io)
 4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 5. Blast - [https://blastapi.io/](https://blastapi.io/)
+6. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 
 
 **Public Endpoints:**
@@ -410,10 +411,15 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
 
 **Public Endpoints:**
-
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
+- [https://fuse-mainnet.chainstacklabs.com/](https://fuse-mainnet.chainstacklabs.com/)
+
+*WebSocket:*
+- [wss://ws-fuse-mainnet.chainstacklabs.com/](wss://ws-fuse-mainnet.chainstacklabs.com/)
+
 
 **Spin up your own node:**
 
@@ -444,6 +450,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 4. ANKR - [https://ankr.com](https://ankr.com)
 5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 
 **Public Endpoints:**
 
@@ -476,6 +483,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Infura - [https://infura.io](https://infura.io)
 3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+5. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
 
 **Public Endpoints:**
 
