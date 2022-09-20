@@ -107,6 +107,16 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+## SpeedyNodes
+
+SpeedyNodes is a blockchain-as-a-service solution that lets users get access to full Nodes. The service provides a high-quality infrastructure that is quick, cost-effective, and reliable with customer support. Dedicated nodes is an option for our customers.
+
+We provide cryptocurreny nodes on different networks, some with archive enabled.
+
+As of now we support BSC, ETH, POLY/MATIC, AVAX, CRONOS and 2 archive nodes bsc and eth.
+
+Check it out here https://www.speedynodes.com/
+
 ## Ethereum
 
 **Providers:**
@@ -127,6 +137,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 14. NodeReal - https://nodereal.io/
 15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
+17. SpeedyNodes https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -163,6 +174,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 7. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 8. NodeReal - https://nodereal.io/
 9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+10. https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -217,6 +229,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 7. Blast - [https://blastapi.io/](https://blastapi.io/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -248,6 +261,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 10. Blast - [https://blastapi.io/](https://blastapi.io/)
 11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
+13. https://www.speedynodes.com/
 
 **Public Endpoints:**
 
