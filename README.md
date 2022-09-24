@@ -107,7 +107,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-## SpeedyNodes
 
 SpeedyNodes is a blockchain-as-a-service solution that lets users get access to full Nodes. The service provides a high-quality infrastructure that is quick, cost-effective, and reliable with customer support. Dedicated nodes is an option for our customers.
 
