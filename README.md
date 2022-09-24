@@ -137,7 +137,7 @@ Check it out here https://www.speedynodes.com/
 14. NodeReal - https://nodereal.io/
 15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-17. SpeedyNodes https://www.speedynodes.com/
+17. SpeedyNodes - https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -174,7 +174,7 @@ Check it out here https://www.speedynodes.com/
 7. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 8. NodeReal - https://nodereal.io/
 9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-10. https://www.speedynodes.com/
+10. SpeedyNodes - https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -229,7 +229,7 @@ Check it out here https://www.speedynodes.com/
 7. Blast - [https://blastapi.io/](https://blastapi.io/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-10. https://www.speedynodes.com/
+10. SpeedyNodes - https://www.speedynodes.com/
 
 **Public Endpoints:**
 
@@ -261,7 +261,7 @@ Check it out here https://www.speedynodes.com/
 10. Blast - [https://blastapi.io/](https://blastapi.io/)
 11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-13. https://www.speedynodes.com/
+13. SpeedyNodes - https://www.speedynodes.com/
 
 **Public Endpoints:**
 
