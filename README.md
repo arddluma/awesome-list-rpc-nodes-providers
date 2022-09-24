@@ -108,14 +108,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 Checkout: [chainstack.com](https://chainstack.com/)
 
 
-SpeedyNodes is a blockchain-as-a-service solution that lets users get access to full Nodes. The service provides a high-quality infrastructure that is quick, cost-effective, and reliable with customer support. Dedicated nodes is an option for our customers.
-
-We provide cryptocurreny nodes on different networks, some with archive enabled.
-
-As of now we support BSC, ETH, POLY/MATIC, AVAX, CRONOS and 2 archive nodes bsc and eth.
-
-Check it out here https://www.speedynodes.com/
-
 ## Ethereum
 
 **Providers:**
