@@ -17,6 +17,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
+  - [Chainbase](#chainbase)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -30,7 +31,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [IoTeX](#iotex)
 - [Gnosis (xDAI)](#gnosis-xdai)
 - [Fuse](#fuse)
-- [Optimistism](#optimism)
+- [Optimism](#optimism)
 - [Arbitrum One](#arbitrum-one)
 - [Arbitrum Nova](#arbitrum-nova)
 - [Celo](#celo)
@@ -107,6 +108,14 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+### Chainbase
+
+Chainbase is a leading Web3 blockchain interaction layer infrastructure. By providing cloud-based API services, it helps developers quickly access and utilize blockchain networks and easily build Web3 applications.
+
+Chainbase currently supports RPC access to Ethereum, BSC, Polygon, Fantom, Optimism, Avalanche, Arbitrum One.
+
+Checkout: [chainbase.online](https://docs.chainbase.online)
+
 ## Ethereum
 
 **Providers:**
@@ -128,6 +137,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. SpeedyNodes - https://www.speedynodes.com/
+18. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -165,6 +175,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. NodeReal - https://nodereal.io/
 9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 10. SpeedyNodes - https://www.speedynodes.com/
+11. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -220,6 +231,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. SpeedyNodes - https://www.speedynodes.com/
+11. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -252,6 +264,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. SpeedyNodes - https://www.speedynodes.com/
+14. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -300,6 +313,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. Blast - [https://blastapi.io/](https://blastapi.io/)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+8. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -441,6 +455,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Ankr - [https://ankr.com](https://ankr.com)
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+6. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -458,6 +473,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
+8. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
