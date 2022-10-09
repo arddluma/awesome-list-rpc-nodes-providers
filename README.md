@@ -17,7 +17,6 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
   - [Pocket Network](#pocket-network)
   - [Quicknode](#quicknode)
   - [Chainstack](#chainstack)
-  - [Chainbase](#chainbase)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -107,14 +106,6 @@ Chainstack supports multiple blockchain protocols like Ethereum, Polygon, Binanc
 The nodes are deployed in multiple regions around the globe using multi-cloud, hybrid and on-premises hosting. The [developer plan is free](https://console.chainstack.com/user/account/create) up to 3 million requests per month with more plans available.
 
 Checkout: [chainstack.com](https://chainstack.com/)
-
-### Chainbase
-
-Chainbase is a leading Web3 blockchain interaction layer infrastructure. By providing cloud-based API services, it helps developers quickly access and utilize blockchain networks and easily build Web3 applications.
-
-Chainbase currently supports RPC access to Ethereum, BSC, Polygon, Fantom, Optimism, Avalanche, Arbitrum One.
-
-Checkout: [chainbase.online](https://docs.chainbase.online)
 
 ## Ethereum
 
