@@ -143,6 +143,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://eth-mainnet.nodereal.io/v1/](https://eth-mainnet.nodereal.io/v1/)
 - [https://eth-mainnet.public.blastapi.io](https://eth-mainnet.public.blastapi.io)
+- [https://api.securerpc.com/v1](https://api.securerpc.com/v1)
+- [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com)
+- [https://1rpc.io/eth](https://1rpc.io/eth)
 
 **Spin up your own node:**
 
