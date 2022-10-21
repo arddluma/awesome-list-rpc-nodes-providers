@@ -129,6 +129,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. SpeedyNodes - https://www.speedynodes.com/
 18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. Moppy Nodes - [https://www.moppynodes.com](https://www.moppynodes.com)
 
 **Public Endpoints:**
 
@@ -170,6 +171,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 10. SpeedyNodes - https://www.speedynodes.com/
 11. Chainbase - [https://chainbase.online](https://chainbase.online)
+12. Moppy Nodes - [https://www.moppynodes.com](https://www.moppynodes.com)
 
 **Public Endpoints:**
 
@@ -226,6 +228,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. SpeedyNodes - https://www.speedynodes.com/
 11. Chainbase - [https://chainbase.online](https://chainbase.online)
+12. Moppy Nodes - [https://www.moppynodes.com](https://www.moppynodes.com)
 
 **Public Endpoints:**
 
@@ -259,6 +262,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. SpeedyNodes - https://www.speedynodes.com/
 14. Chainbase - [https://chainbase.online](https://chainbase.online)
+15. Moppy Nodes - [https://www.moppynodes.com](https://www.moppynodes.com)
 
 **Public Endpoints:**
 
@@ -308,6 +312,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Moppy Nodes - [https://www.moppynodes.com](https://www.moppynodes.com)
 
 **Public Endpoints:**
 
