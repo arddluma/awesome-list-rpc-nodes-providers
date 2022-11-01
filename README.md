@@ -15,7 +15,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [Pocket Network](#pocket-network)
-  - [Quicknode](#quicknode)
+  - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
@@ -84,13 +84,13 @@ For a list of all public RPC endpoints, you can look [here](https://docs.pokt.ne
 
 Checkout: [https://pokt.network](https://pokt.network)
 
-### Quicknode
+### QuickNode
 
-Quicknode is a multi-chain Web3 provider that connects application developers with a
+QuickNode is a multi-chain Web3 provider that connects application developers with a
 decentralized network of worldwide running endpoints. Application developers can create
 an endpoint and start working within minutes- for any of the actively supported chains.
 
-Quicknode currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Celo, Fantom, Optimism,
+QuickNode currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Celo, Fantom, Optimism,
 BSC, Gnosis, Algorand to name a few. The list of supported chains is
 constantly growing, and the full list is available
 [here](https://www.quicknode.com/pricing).
@@ -150,7 +150,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
-- [https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node]
+- https://www.quicknode.com/guides/infrastructure/how-to-run-a-openethereum-ex-parity-client-node
 - https://www.quicknode.com/guides/infrastructure/how-to-run-a-hyperledger-besu-node
 - https://www.quicknode.com/guides/infrastructure/how-to-install-and-run-a-geth-node
 - [https://meganode.nodereal.io/account/login](https://meganode.nodereal.io/account/login)
@@ -197,7 +197,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-4. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+4. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
@@ -205,7 +205,6 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 - [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
-- [https://ssc-dao.genesysgo.net/](https://ssc-dao.genesysgo.net/)
 
 **Spin up your own node:**
 
@@ -220,7 +219,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
 4. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 5. Ankr - [https://ankr.com](https://ankr.com)
-6. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+6. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 7. Blast - [https://blastapi.io/](https://blastapi.io/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
@@ -289,7 +288,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers**:
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. Quicknode - [https://www.quicknode.com/](https://www.quicknode.com/)
+2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Spin up your own node:**
@@ -349,6 +348,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 
 **Public Endpoints:**
 
