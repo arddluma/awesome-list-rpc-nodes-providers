@@ -49,6 +49,8 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 ## MultiChain
 
+<p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
+
 ### Etherspot
 
 Etherspot gives developers and their applications the ability to use one or all
@@ -161,16 +163,15 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
-2. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
-3. GetBlock - [https://getblock.io](https://getblock.io)
-4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-6. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
-7. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-8. NodeReal - https://nodereal.io/
-9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-10. SpeedyNodes - https://www.speedynodes.com/
-11. Chainbase - [https://chainbase.online](https://chainbase.online)
+2. GetBlock - [https://getblock.io](https://getblock.io)
+3. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
+6. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. NodeReal - https://nodereal.io/
+8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+9. SpeedyNodes - https://www.speedynodes.com/
+10. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -660,6 +661,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [Run a Flow node](https://developers.flow.com/nodes/node-operation)
+
+## Donate
+
+Your donation will help us move forward with our project and make sure that it can benefit the entire community. 
+
+Address: `0x99ac38dA3298fA7B0B8cB42a2aE9F1a8C74D98ea`
 
 ## Contributors
 
