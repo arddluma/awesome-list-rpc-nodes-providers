@@ -8,7 +8,7 @@
 
 
 [MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
-most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism etc.
+most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism, Flow etc.
 
 ## Contents <!-- omit in toc -->
 
@@ -43,6 +43,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Astar](#astar)
+- [Flow](#flow)
 - [Contributors](#contributors)
 
 
@@ -650,6 +651,16 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://docs.astar.network/maintain/archive-node/docker#running-rpc-node](https://docs.astar.network/maintain/archive-node/docker#running-rpc-node)
+
+## Flow
+
+**Public Endpoints:**
+- [gRPC](https://developers.flow.com/nodes/access-api)
+- [REST](https://developers.flow.com/http-api/)
+
+**Spin up your own node:**
+
+- [Run a Flow node](https://developers.flow.com/nodes/node-operation)
 
 ## Donate
 
