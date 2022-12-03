@@ -17,6 +17,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
   - [Pocket Network](#pocket-network)
   - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
+  - [Chainnodes](#chainnodes)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -107,6 +108,16 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+### Chainnodes
+
+Chainnodes provides Reliable and Affordable Web3 Infrastructure. Built by DevOps and former MEV searchers and traders, it was build to provide the lowest latency, quickest block execution times and best concurrency, no matter where you are.
+
+The free plan includes 12.5 million archival requests. You don't pay more for traces, getLogs, archival requests or other heavy calls. One request is one request. Sign Ups are decentralized using signatures only and payments can be made with Cryptocurrencies.
+
+The uncensored nodes support Ethereum, Polygon, Optimism and more for Developers, dApps, StartUps and ScaleUps.
+
+Checkout: [chainnodes.org](https://www.chainnodes.org/)
+
 ## Ethereum
 
 **Providers:**
@@ -129,6 +140,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. SpeedyNodes - https://www.speedynodes.com/
 18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -257,6 +269,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. SpeedyNodes - https://www.speedynodes.com/
 14. Chainbase - [https://chainbase.online](https://chainbase.online)
+15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -449,6 +462,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 6. Chainbase - [https://chainbase.online](https://chainbase.online)
+7. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
