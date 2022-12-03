@@ -655,8 +655,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 ## Flow
 
 **Public Endpoints:**
-- [gRPC](https://developers.flow.com/nodes/access-api)
-- [REST](https://developers.flow.com/http-api/)
+- [https://developers.flow.com/nodes/access-api](https://developers.flow.com/nodes/access-api)
+- [https://developers.flow.com/http-api/](https://developers.flow.com/http-api/)
 
 **Spin up your own node:**
 
