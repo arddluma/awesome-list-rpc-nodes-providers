@@ -48,6 +48,8 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 ## MultiChain
 
+<p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
+
 ### Etherspot
 
 Etherspot gives developers and their applications the ability to use one or all
@@ -648,6 +650,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://docs.astar.network/maintain/archive-node/docker#running-rpc-node](https://docs.astar.network/maintain/archive-node/docker#running-rpc-node)
+
+## Donate
+
+Your donation will help us move forward with our project and make sure that it can benefit the entire community. 
+
+Address: `0x99ac38dA3298fA7B0B8cB42a2aE9F1a8C74D98ea`
 
 ## Contributors
 
