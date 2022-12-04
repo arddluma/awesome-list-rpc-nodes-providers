@@ -14,6 +14,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
+  - [Nodereal](#nodereal)
   - [Pocket Network](#pocket-network)
   - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
@@ -69,6 +70,13 @@ Etherspot take hassle out of Ethereum development and allow you to focus on the
 most important thing – your product.
 
 Checkout: [etherspot.io](https://etherspot.io/)
+
+### Nodereal
+
+NodeReal is a blockchain infrastructure and services provider. We are trusted by our customers worldwide as we work with a passion for blockchain technology and a deep understanding of infrastructure and security.One of our product, the NodeReal MegaNode provides instant access over HTTPS and WebSockets to the EVM blockchains, like Binance Smart Chain and Ethereum and constantly working towards expanding our supporting blockchains.Nodereal currently supports Ethereum,ETH POW, ETH Beaconchain, Avalanche, Polygon, Optimisim, Aptos & Sui
+
+
+Checkout: [https://nodereal.io/](https://nodereal.io/)
 
 ### Pocket Network
 
