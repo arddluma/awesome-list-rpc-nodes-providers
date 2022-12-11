@@ -201,6 +201,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 4. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+6. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
+7. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
 
 **Public Endpoints:**
 
