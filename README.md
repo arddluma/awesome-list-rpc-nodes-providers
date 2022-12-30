@@ -132,6 +132,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. SpeedyNodes - https://www.speedynodes.com/
 18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. MaikoNode - DC: Maiko#0345   TG: https://t.me/kugimiya530   https://t.me/MaikoNodeService
 
 **Public Endpoints:**
 
@@ -172,6 +173,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. SpeedyNodes - https://www.speedynodes.com/
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
+11. MaikoNode - DC: Maiko#0345   TG: https://t.me/kugimiya530   https://t.me/MaikoNodeService
 
 **Public Endpoints:**
 
