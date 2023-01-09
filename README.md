@@ -149,6 +149,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://api.securerpc.com/v1](https://api.securerpc.com/v1)
 - [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com)
 - [https://1rpc.io/eth](https://1rpc.io/eth)
+- [https://ethereum.publicnode.com/](https://ethereum.publicnode.com/)
 
 **Spin up your own node:**
 
@@ -239,6 +240,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 - [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
+- [https://avalanche.publicnode.com/](https://avalanche.publicnode.com/)
 
 **Spin up your own node:**
 
@@ -275,6 +277,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
+- [https://polygon.publicnode.com/](https://polygon.publicnode.com/)
 
 **WebSocket:**
 
