@@ -150,6 +150,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com)
 - [https://1rpc.io/eth](https://1rpc.io/eth)
 - [https://ethereum.publicnode.com/](https://ethereum.publicnode.com/)
+- [https://rpc.payload.de](https://rpc.payload.de)
 
 **Spin up your own node:**
 
