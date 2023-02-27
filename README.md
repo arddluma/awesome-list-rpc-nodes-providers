@@ -18,6 +18,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
   - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
   - [GetBlock](https://getblock.io/)
+- [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -122,6 +123,13 @@ Chainstack supports multiple blockchain protocols like Ethereum, Polygon, Binanc
 The nodes are deployed in multiple regions around the globe using multi-cloud, hybrid and on-premises hosting. The [developer plan is free](https://console.chainstack.com/user/account/create) up to 3 million requests per month with more plans available.
 
 Checkout: [chainstack.com](https://chainstack.com/)
+
+
+## Account Abstraction RPC Providers
+
+**Providers**
+
+1. Stackup.sh - [https://stackup.sh](https://stackup.sh)
 
 ## Ethereum
 
