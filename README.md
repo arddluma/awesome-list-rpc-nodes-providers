@@ -154,6 +154,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 17. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 18. SpeedyNodes - https://www.speedynodes.com/
 19. Chainbase - [https://chainbase.online](https://chainbase.online)
+20. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 
 **Public Endpoints:**
 
@@ -173,6 +174,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://1rpc.io/eth](https://1rpc.io/eth)
 - [https://ethereum.publicnode.com/](https://ethereum.publicnode.com/)
 - [https://rpc.payload.de](https://rpc.payload.de)
+- [https://llamanodes.com/](https://llamanodes.com/)
 
 **Spin up your own node:**
 
