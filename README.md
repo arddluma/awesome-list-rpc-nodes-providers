@@ -198,6 +198,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 9. SpeedyNodes - https://www.speedynodes.com/
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
+11. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
@@ -209,6 +210,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
+- [https://bsc-mainnet.public.blastapi.io](https://bsc-mainnet.public.blastapi.io)
 
 **WebSocket:**
 
@@ -515,21 +517,25 @@ Checkout: [chainstack.com](https://chainstack.com/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 9. Chainbase - [https://chainbase.online](https://chainbase.online)
+10. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
 - [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
 - [https://arbitrum.public-rpc.com](https://arbitrum.public-rpc.com)
+- [https://arbitrum-one.public.blastapi.io](https://arbitrum-one.public.blastapi.io)
 
 ## Arbitrum Nova
 
 1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
 2. GetBlock - [https://getblock.io](https://getblock.io)
+3. Blast - [https://blastapi.io/](https://blastapi.io/)
 
 **Public Endpoints:**
 
 - [https://nova.arbitrum.io/rpc](https://nova.arbitrum.io/rpc)
+- [https://arbitrum-nova.public.blastapi.io](https://arbitrum-nova.public.blastapi.io)
 
 ## Celo
 
