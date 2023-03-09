@@ -152,10 +152,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 15. NodeReal - https://nodereal.io/
 16. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 17. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-18. SpeedyNodes - https://www.speedynodes.com/
-19. Chainbase - [https://chainbase.online](https://chainbase.online)
-20. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
-21. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
+20. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -197,8 +196,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NodeReal - https://nodereal.io/
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-9. SpeedyNodes - https://www.speedynodes.com/
-10. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -256,9 +254,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 8. Blast - [https://blastapi.io/](https://blastapi.io/)
 9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-11. SpeedyNodes - https://www.speedynodes.com/
-12. Chainbase - [https://chainbase.online](https://chainbase.online)
-13. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+11. Chainbase - [https://chainbase.online](https://chainbase.online)
+12. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -292,8 +289,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 11. Blast - [https://blastapi.io/](https://blastapi.io/)
 12. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 13. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-14. SpeedyNodes - https://www.speedynodes.com/
-15. Chainbase - [https://chainbase.online](https://chainbase.online)
+14. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
