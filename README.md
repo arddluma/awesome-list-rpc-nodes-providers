@@ -155,6 +155,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 18. SpeedyNodes - https://www.speedynodes.com/
 19. Chainbase - [https://chainbase.online](https://chainbase.online)
 20. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
+21. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -257,6 +258,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. SpeedyNodes - https://www.speedynodes.com/
 12. Chainbase - [https://chainbase.online](https://chainbase.online)
+13. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -371,6 +373,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 2. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
 3. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+5. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
