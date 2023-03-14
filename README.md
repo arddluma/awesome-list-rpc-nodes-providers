@@ -144,7 +144,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
 9. ZMOK - [https://zmok.io/](https://zmok.io/)
-10. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+10. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
 11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 12. Ankr - [https://ankr.com](https://ankr.com)
 13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
@@ -172,7 +172,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://api.securerpc.com/v1](https://api.securerpc.com/v1)
 - [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com)
 - [https://1rpc.io/eth](https://1rpc.io/eth)
-- [https://ethereum.publicnode.com/](https://ethereum.publicnode.com/)
+- [https://ethereum.publicnode.com](https://ethereum.publicnode.com)
 - [https://rpc.payload.de](https://rpc.payload.de)
 - [https://llamanodes.com/](https://llamanodes.com/)
 
@@ -208,6 +208,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
+- [https://bsc.publicnode.com](https://bsc.publicnode.com)
 
 **WebSocket:**
 
@@ -247,7 +248,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 1. GetBlock - [https://getblock.io/nodes/avax/](https://getblock.io/nodes/avax/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
-4. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
+4. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Ankr - [https://ankr.com](https://ankr.com)
 7. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
@@ -266,7 +267,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 - [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
-- [https://avalanche.publicnode.com/](https://avalanche.publicnode.com/)
+- [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
 
 **Spin up your own node:**
 
@@ -283,7 +284,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. ANKR - [https://ankr.com](https://ankr.com)
 6. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-8. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
+8. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
 9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 10. Ankr - [https://ankr.com](https://ankr.com)
 11. Blast - [https://blastapi.io/](https://blastapi.io/)
@@ -303,7 +304,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
-- [https://polygon.publicnode.com/](https://polygon.publicnode.com/)
+- [https://polygon.publicnode.com](https://polygon.publicnode.com)
 
 **WebSocket:**
 
@@ -351,6 +352,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
+- [https://fantom.publicnode.com](https://fantom.publicnode.com)
 
 **WebSocket:**
 
