@@ -15,7 +15,6 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [Pocket Network](#pocket-network)
-  - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
   - [GetBlock](https://getblock.io/)
 - [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
@@ -100,19 +99,6 @@ BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains).
 You can see the list of supported chains [here](https://getblock.io/nodes/).
 
 Checkout: [https://getblock.io/](https://getblock.io/)
-
-### QuickNode
-
-QuickNode is a multi-chain Web3 provider that connects application developers with a
-decentralized network of worldwide running endpoints. Application developers can create
-an endpoint and start working within minutes- for any of the actively supported chains.
-
-QuickNode currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Celo, Fantom, Optimism,
-BSC, Gnosis, Algorand to name a few. The list of supported chains is
-constantly growing, and the full list is available
-[here](https://www.quicknode.com/pricing).
-
-Checkout: [https://www.quicknode.com](https://www.quicknode.com)
 
 ### Chainstack
 
