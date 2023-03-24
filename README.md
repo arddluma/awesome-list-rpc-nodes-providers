@@ -8,15 +8,16 @@
 
 
 [MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
-most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism etc.
+most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism, Flow etc.
 
 ## Contents <!-- omit in toc -->
 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [Pocket Network](#pocket-network)
-  - [QuickNode](#quicknode)
   - [Chainstack](#chainstack)
+  - [GetBlock](https://getblock.io/)
+- [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
 - [Solana](#solana)
@@ -43,10 +44,13 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Moonriver](#moonriver)
 - [Boba Network](#boba-network)
 - [Astar](#astar)
+- [Flow](#flow)
 - [Contributors](#contributors)
 
 
 ## MultiChain
+
+<p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
 
 ### Etherspot
 
@@ -84,18 +88,17 @@ For a list of all public RPC endpoints, you can look [here](https://docs.pokt.ne
 
 Checkout: [https://pokt.network](https://pokt.network)
 
-### QuickNode
+### GetBlock
 
-QuickNode is a multi-chain Web3 provider that connects application developers with a
-decentralized network of worldwide running endpoints. Application developers can create
-an endpoint and start working within minutes- for any of the actively supported chains.
+GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS.  Web3 developers can set up an account and get an endpoint 
 
-QuickNode currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Celo, Fantom, Optimism,
-BSC, Gnosis, Algorand to name a few. The list of supported chains is
-constantly growing, and the full list is available
-[here](https://www.quicknode.com/pricing).
 
-Checkout: [https://www.quicknode.com](https://www.quicknode.com)
+
+GetBlock currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Fantom, Optimism,
+BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains). 
+You can see the list of supported chains [here](https://getblock.io/nodes/).
+
+Checkout: [https://getblock.io/](https://getblock.io/)
 
 ### Chainstack
 
@@ -107,28 +110,37 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+
+## Account Abstraction RPC Providers
+
+**Providers**
+
+1. Stackup.sh - [https://stackup.sh](https://stackup.sh)
+
 ## Ethereum
 
 **Providers:**
 
 1. Infura.io - [https://infura.io](https://infura.io)
-2. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
-3. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-4. 0x - [https://0x.org](https://0x.org)
-5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-7. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
-8. ZMOK - [https://zmok.io/](https://zmok.io/)
-9. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
-10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-11. Ankr - [https://ankr.com](https://ankr.com)
-12. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
-13. Blast - [https://blastapi.io/](https://blastapi.io/)
-14. NodeReal - https://nodereal.io/
-15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-17. SpeedyNodes - https://www.speedynodes.com/
+2. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/ethereum-api-quickstart)
+3. GetBlock - [https://getblock.io/nodes/eth/](https://getblock.io/nodes/eth/)
+4. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+5. 0x - [https://0x.org](https://0x.org)
+6. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
+9. ZMOK - [https://zmok.io/](https://zmok.io/)
+10. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+12. Ankr - [https://ankr.com](https://ankr.com)
+13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
+14. Blast - [https://blastapi.io/](https://blastapi.io/)
+15. NodeReal - https://nodereal.io/
+16. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+17. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 18. Chainbase - [https://chainbase.online](https://chainbase.online)
+19. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
+20. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -146,6 +158,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://api.securerpc.com/v1](https://api.securerpc.com/v1)
 - [https://eth-mainnet.rpcfast.com](https://eth-mainnet.rpcfast.com)
 - [https://1rpc.io/eth](https://1rpc.io/eth)
+- [https://ethereum.publicnode.com](https://ethereum.publicnode.com)
+- [https://rpc.payload.de](https://rpc.payload.de)
+- [https://llamanodes.com/](https://llamanodes.com/)
 
 **Spin up your own node:**
 
@@ -160,15 +175,14 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. ANKR - [https://ankr.com](https://ankr.com)
-2. GetBlock - [https://getblock.io](https://getblock.io)
+2. GetBlock - [https://getblock.io](https://getblock.io/nodes/bsc/)
 3. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
 4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 5. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
 6. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NodeReal - https://nodereal.io/
 8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-9. SpeedyNodes - https://www.speedynodes.com/
-10. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -180,6 +194,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/bsc](https://rpc.ankr.com/bsc)
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
+- [https://bsc.publicnode.com](https://bsc.publicnode.com)
 
 **WebSocket:**
 
@@ -194,10 +209,14 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
-2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-4. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+2. GetBlock - [https://getblock.io/nodes/sol/](https://getblock.io/nodes/sol/)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+4. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+5. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+7. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
+8. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
+9. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 
 **Public Endpoints:**
 
@@ -213,17 +232,18 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
-3. All Nodes - [https://www.allnodes.com](https://www.allnodes.com)
-4. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-5. Ankr - [https://ankr.com](https://ankr.com)
-6. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-7. Blast - [https://blastapi.io/](https://blastapi.io/)
-8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-10. SpeedyNodes - https://www.speedynodes.com/
+1. GetBlock - [https://getblock.io/nodes/avax/](https://getblock.io/nodes/avax/)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
+4. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+6. Ankr - [https://ankr.com](https://ankr.com)
+7. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+8. Blast - [https://blastapi.io/](https://blastapi.io/)
+9. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. Chainbase - [https://chainbase.online](https://chainbase.online)
+12. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -234,6 +254,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 - [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
+- [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
 
 **Spin up your own node:**
 
@@ -244,19 +265,20 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Providers:**
 
 1. Infura.io - [https://infura.io](https://infura.io)
-2. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
-3. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
-4. ANKR - [https://ankr.com](https://ankr.com)
-5. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-7. AllNodes - [https://www.allnodes.com](https://www.allnodes.com)
-8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-9. Ankr - [https://ankr.com](https://ankr.com)
-10. Blast - [https://blastapi.io/](https://blastapi.io/)
-11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
-13. SpeedyNodes - https://www.speedynodes.com/
+2. GetBlock - [https://getblock.io/nodes/matic/](https://getblock.io/nodes/matic/)
+3. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
+4. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
+5. ANKR - [https://ankr.com](https://ankr.com)
+6. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+10. Ankr - [https://ankr.com](https://ankr.com)
+11. Blast - [https://blastapi.io/](https://blastapi.io/)
+12. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+13. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 14. Chainbase - [https://chainbase.online](https://chainbase.online)
+15. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 
 **Public Endpoints:**
 
@@ -270,10 +292,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
+- [https://polygon.publicnode.com](https://polygon.publicnode.com)
 
 **WebSocket:**
 
 - `wss://rpc-mainnet.matic.network`
+- wss://matic.getblock.io/api_key/mainnet/
 - `wss://ws-matic-mainnet.chainstacklabs.com`
 - `wss://rpc-mainnet.matic.quiknode.pro`
 - `wss://rpc-mainnet.maticvigil.com/ws`
@@ -286,9 +310,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers**:
 
-1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Spin up your own node:**
 
@@ -298,14 +323,15 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
-2. ANKR - [https://ankr.com](https://ankr.com)
-3. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-5. Blast - [https://blastapi.io/](https://blastapi.io/)
-6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-8. Chainbase - [https://chainbase.online](https://chainbase.online)
+1. GetBlock - [https://getblock.io/nodes/ftm/](https://getblock.io/nodes/ftm/)
+2. QuickNode - [https://www.quicknode.com](https://www.quicknode.com)
+3. ANKR - [https://ankr.com](https://ankr.com)
+4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Blast - [https://blastapi.io/](https://blastapi.io/)
+7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+9. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -314,10 +340,12 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
+- [https://fantom.publicnode.com](https://fantom.publicnode.com)
 
 **WebSocket:**
 
 - `wss://wsapi.fantom.network`
+- wss://bsc.getblock.io/api_key/mainnet/
 
 **Spin up your own node:**
 
@@ -327,9 +355,11 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
-2. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
-3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. Tezos - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
+2. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
+3. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
+4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+5. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
 
@@ -366,6 +396,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://docs.harmony.one/home/network/validators/node-setup](https://docs.harmony.one/home/network/validators/node-setup)
 
 ## KuCoin
+
+**Providers:**
+
+- GetBlock - [https://getblock.io/nodes/kcc/](https://getblock.io/nodes/kcc/)
 
 **Public Endpoints:**
 
@@ -424,8 +458,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
+1. GetBlock - [https://getblock.io/nodes/fuse/](https://getblock.io/nodes/fuse/)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
@@ -443,12 +478,14 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-2. Infura - [https://infura.io](https://infura.io)
-3. Ankr - [https://ankr.com](https://ankr.com)
-4. Blast - [https://blastapi.io/](https://blastapi.io/)
-5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-6. Chainbase - [https://chainbase.online](https://chainbase.online)
+1. GetBlock - [https://getblock.io/nodes/op/](https://getblock.io/nodes/op/)
+2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. Infura - [https://infura.io](https://infura.io)
+4. Ankr - [https://ankr.com](https://ankr.com)
+5. Blast - [https://blastapi.io/](https://blastapi.io/)
+6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+7. Chainbase - [https://chainbase.online](https://chainbase.online)
+8. Alchemy - [https://alchemy.com)[https://docs.alchemy.com/reference/optimism-api-quickstart]
 
 **Public Endpoints:**
 
@@ -459,14 +496,15 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-2. Infura - [https://infura.io](https://infura.io)
-3. Alchemy - [https://www.alchemy.com](https://www.alchemy.com)
-4. ANKR - [https://ankr.com](https://ankr.com)
-5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
-8. Chainbase - [https://chainbase.online](https://chainbase.online)
+1. GetBlock - [https://getblock.io/nodes/arbitrum/](https://getblock.io/nodes/arbitrum/)
+2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+3. Infura - [https://infura.io](https://infura.io)
+4. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/arbitrum-api-quickstart)
+5. ANKR - [https://ankr.com](https://ankr.com)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+8. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
+9. Chainbase - [https://chainbase.online](https://chainbase.online)
 
 **Public Endpoints:**
 
@@ -487,9 +525,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. ANKR - [https://ankr.com](https://ankr.com)
-2. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
-3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+1. GetBlock - [https://getblock.io/nodes/celo/](https://getblock.io/nodes/celo/)
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. QuickNode - [https://www.quicknode.com/](https://www.quicknode.com/)
+4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 
 **Public Endpoints:**
 
@@ -506,9 +545,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. Infura - [https://infura.io](https://infura.io)
-3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-4. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-5. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
+3. GetBlock - [https://getblock.io/nodes/near/](https://getblock.io/nodes/near/)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+6. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
 
 **Public Endpoints:**
 
@@ -523,7 +563,8 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers**
 
-1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+1. GetBlock - [https://getblock.io/nodes/atom/](https://getblock.io/nodes/atom/)
+2. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -565,8 +606,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
-1. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
-2. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
+2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 
 **Public Endpoints:**
 
@@ -580,9 +622,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
- 1. Blast - [https://blastapi.io/](https://blastapi.io/)
- 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 3. Dwellir - [https://dwellir.com](https://dwellir.com)
+ 1. GetBlock - [https://getblock.io/nodes/glmr/](https://getblock.io/nodes/glmr/)
+ 2. Blast - [https://blastapi.io/](https://blastapi.io/)
+ 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+ 4. Dwellir - [https://dwellir.com](https://dwellir.com)
 
 **Public Endpoints:**
 
@@ -598,9 +641,10 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 **Providers:**
 
- 1. Blast - [https://blastapi.io/](https://blastapi.io/)
- 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 3. Dwellir - [https://dwellir.com](https://dwellir.com)
+ 1. GetBlock - [https://getblock.io/nodes/movr/](https://getblock.io/nodes/movr/)
+ 2. Blast - [https://blastapi.io/](https://blastapi.io/)
+ 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+ 4. Dwellir - [https://dwellir.com](https://dwellir.com)
 
 **Public Endpoints:**
 
@@ -612,6 +656,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 - `wss://moonbeam.public.blastapi.io`
 - `wss://moonbeam-rpc.dwellir.com`
+- wss://moonriver.getblock.io/api_key/mainnet/
 - `wss://moonbeam.api.onfinality.io/public-ws`
 
 **Spin up your own node:**
@@ -639,6 +684,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 
 1. Blast - [https://blastapi.io/](https://blastapi.io/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+3. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
@@ -648,6 +694,26 @@ Checkout: [chainstack.com](https://chainstack.com/)
 **Spin up your own node:**
 
 - [https://docs.astar.network/maintain/archive-node/docker#running-rpc-node](https://docs.astar.network/maintain/archive-node/docker#running-rpc-node)
+
+## Flow
+
+**Providers:**
+
+1. GetBlock - [https://getblock.io/nodes/flow/](https://getblock.io/nodes/flow/)
+
+**Public Endpoints:**
+- [https://developers.flow.com/nodes/access-api](https://developers.flow.com/nodes/access-api)
+- [https://developers.flow.com/http-api/](https://developers.flow.com/http-api/)
+
+**Spin up your own node:**
+
+- [Run a Flow node](https://developers.flow.com/nodes/node-operation)
+
+## Donate
+
+Your donation will help us move forward with our project and make sure that it can benefit the entire community. 
+
+Address: `0x99ac38dA3298fA7B0B8cB42a2aE9F1a8C74D98ea`
 
 ## Contributors
 
