@@ -140,6 +140,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 17. Chainbase - [https://chainbase.online](https://chainbase.online)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+20. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 
 **Public Endpoints:**
 
@@ -271,6 +272,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
+15. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 
 **Public Endpoints:**
 
