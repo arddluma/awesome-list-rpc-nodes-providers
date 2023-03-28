@@ -117,8 +117,6 @@ OnFinality is a blockchain infrastructure platform that saves Web3 builders time
 You can [find all the supported networks here](https://onfinality.io/networks).
 Visit our wesbite for more information: [https://onfinality.io/](https://onfinality.io/) 
 
-Hundreds of Billions of RPC requests
-
 ## Account Abstraction RPC Providers
 
 **Providers**
