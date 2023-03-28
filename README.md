@@ -187,7 +187,6 @@ Visit our wesbite for more information: [https://onfinality.io/](https://onfinal
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
-9. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 
@@ -247,7 +246,6 @@ Visit our wesbite for more information: [https://onfinality.io/](https://onfinal
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
-
 
 **Public Endpoints:**
 
