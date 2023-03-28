@@ -110,6 +110,13 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
+### OnFinality 
+
+OnFinality is a blockchain infrastructure platform that saves Web3 builders time and makes their lives easier. OnFinality delivers scalable API endpoints for the biggest blockchain networks and empowers developers to automatically test, deploy, scale and monitor their own blockchain nodes in minutes. To date, OnFinality has served over 300 billion RPC requests across 70 networks including Avalanche, BNB Chain, Cosmos, Polkadot, and Ethereum, and is continuously expanding these mission-critical services so developers can build the decentralised future, faster! 
+
+You can [find all the supported networks here](https://onfinality.io/networks).
+Visit our wesbite for more information: [https://onfinality.io/](https://onfinality.io/) 
+
 
 ## Account Abstraction RPC Providers
 
@@ -140,6 +147,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 17. Chainbase - [https://chainbase.online](https://chainbase.online)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+20. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 
@@ -160,6 +168,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://ethereum.publicnode.com](https://ethereum.publicnode.com)
 - [https://rpc.payload.de](https://rpc.payload.de)
 - [https://llamanodes.com/](https://llamanodes.com/)
+- [https://eth.api.onfinality.io/public](https://eth.api.onfinality.io/public)
 
 **Spin up your own node:**
 
@@ -178,6 +187,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 
@@ -238,6 +248,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
+
 **Public Endpoints:**
 
 - [https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc](https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc)
@@ -271,6 +282,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
+15. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
 
 **Public Endpoints:**
 
@@ -284,6 +296,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
 - [https://polygon.publicnode.com](https://polygon.publicnode.com)
+- [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 
 **WebSocket:**
 
@@ -320,6 +333,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -329,6 +343,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
 - [https://fantom.publicnode.com](https://fantom.publicnode.com)
+- [https://fantom.api.onfinality.io/public](https://fantom.api.onfinality.io/public)
 
 **WebSocket:**
 
@@ -422,6 +437,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
+6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 
 **Public Endpoints:**
@@ -431,6 +447,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
 - [https://blastapi.io/public-api/gnosis](https://blastapi.io/public-api/gnosis)
+- [https://gnosis.api.onfinality.io/public](https://gnosis.api.onfinality.io/public)
 
 **WebSocket:**
 
