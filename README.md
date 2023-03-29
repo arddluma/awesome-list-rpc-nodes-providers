@@ -110,14 +110,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-### Node RPC
-
-Node RPC is a cost-effective JSON RPC provider for Ethereum and other EVM-compatible blockchains. Their main goal is to provide fast, reliable, and accurate web3 data to a broader spectrum of small and mid-sized businesses.
-
-In [this blog](https://www.noderpc.xyz/blog/posts/cheap-rpc-node), they discuss how it is possible to run an EVM node at a competitive price point.
-
-Checkout: [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
-
 ## Account Abstraction RPC Providers
 
 **Providers**
