@@ -140,6 +140,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 17. Chainbase - [https://chainbase.online](https://chainbase.online)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -271,6 +272,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
+15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -471,6 +473,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 6. Chainbase - [https://chainbase.online](https://chainbase.online)
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
+8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -489,6 +492,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
