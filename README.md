@@ -14,8 +14,6 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
-  - [Pocket Network](#pocket-network)
-  - [Chainstack](#chainstack)
   - [GetBlock](https://getblock.io/)
 - [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
@@ -71,23 +69,6 @@ most important thing – your product.
 
 Checkout: [etherspot.io](https://etherspot.io/)
 
-### Pocket Network
-
-Pocket Network is a blockchain that connects application developers with a
-decentralized network of RPC providers. Application developers can create
-an application through the [Portal](https://mainnet.portal.pokt.network/),
-and will be able to use the same application to gain access to RPC URLs
-for any of the actively supported chains.
-
-Pocket Network currently supports RPC access to Ethereum, Avalanche, Polygon,
-BSC, Gnosis, Harmony, and Algorand to name a few. The list of supported chains is
-constantly growing, and the full list is available
-[here](https://docs.pokt.network/home/resources/references/supported-blockchains#mainnet-relaychains).
-
-For a list of all public RPC endpoints, you can look [here](https://docs.pokt.network/home/resources/public-rpc-endpoints).
-
-Checkout: [https://pokt.network](https://pokt.network)
-
 ### GetBlock
 
 GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS.  Web3 developers can set up an account and get an endpoint 
@@ -139,7 +120,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 17. Chainbase - [https://chainbase.online](https://chainbase.online)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
-20. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
+22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 
@@ -272,7 +255,9 @@ Checkout: [chainstack.com](https://chainstack.com/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
-15. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
+15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
+17. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
 
 **Public Endpoints:**
 
@@ -478,6 +463,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 6. Chainbase - [https://chainbase.online](https://chainbase.online)
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
+8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
@@ -496,6 +482,7 @@ Checkout: [chainstack.com](https://chainstack.com/)
 6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 
 **Public Endpoints:**
 
