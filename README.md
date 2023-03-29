@@ -112,6 +112,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
+22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 
@@ -132,6 +133,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 - [https://ethereum.publicnode.com](https://ethereum.publicnode.com)
 - [https://rpc.payload.de](https://rpc.payload.de)
 - [https://llamanodes.com/](https://llamanodes.com/)
+- [https://eth.api.onfinality.io/public](https://eth.api.onfinality.io/public)
 
 **Spin up your own node:**
 
@@ -245,6 +247,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
+17. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
 
 **Public Endpoints:**
 
@@ -258,6 +261,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
 - [https://polygon.publicnode.com](https://polygon.publicnode.com)
+- [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 
 **WebSocket:**
 
@@ -294,6 +298,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -303,6 +308,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
 - [https://fantom.publicnode.com](https://fantom.publicnode.com)
+- [https://fantom.api.onfinality.io/public](https://fantom.api.onfinality.io/public)
 
 **WebSocket:**
 
@@ -396,6 +402,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
+6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 
 **Public Endpoints:**
@@ -405,6 +412,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
 - [https://blastapi.io/public-api/gnosis](https://blastapi.io/public-api/gnosis)
+- [https://gnosis.api.onfinality.io/public](https://gnosis.api.onfinality.io/public)
 
 **WebSocket:**
 
