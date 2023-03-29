@@ -111,6 +111,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
 19. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 
 **Public Endpoints:**
 
@@ -243,6 +244,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 
 **Public Endpoints:**
 
