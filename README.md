@@ -110,13 +110,6 @@ The nodes are deployed in multiple regions around the globe using multi-cloud, h
 
 Checkout: [chainstack.com](https://chainstack.com/)
 
-### OnFinality 
-
-OnFinality is a blockchain infrastructure platform that saves Web3 builders time and makes their lives easier. OnFinality delivers scalable API endpoints for the biggest blockchain networks and empowers developers to automatically test, deploy, scale and monitor their own blockchain nodes in minutes. OnFinality has served hundreds of billions of RPC requests across 70 networks including Avalanche, BNB Chain, Cosmos, Polkadot, and Ethereum, and is continuously expanding these mission-critical services so developers can build the decentralised future, faster! 
-
-You can [find all the supported networks here](https://onfinality.io/networks).
-Visit our wesbite for more information: [https://onfinality.io/](https://onfinality.io/) 
-
 ## Account Abstraction RPC Providers
 
 **Providers**
