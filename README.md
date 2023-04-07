@@ -83,11 +83,12 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 
 ### Infura 
 
-Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, Celo, Aurora, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks). 
+Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks). 
 
-With Infura, you’ll have access to the tools and infrastructure you need to “buidl” great dapps. This includes the IPFS API and Infura's [NFT API + SDK](https://www.infura.io/platform/nft-api) (for building NFTs), [free archival data access](https://www.infura.io/solutions/archive-access) to improve business analytics and audit historical on-chain data, as well as tools like Truffle, Ganache, and MetaMask to streamline web3 development. 
+Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access). 
 
-[Sign up for a free Infura account](https://app.infura.io/register) today to join other developers and enterprise teams building web3 applications with Infura’s scalable, battle-tested, and easy-to-integrate blockchain APIs. 
+[Sign up for a free Infura account](https://app.infura.io/register) to get started. 
+
 
 ## Account Abstraction RPC Providers
 
