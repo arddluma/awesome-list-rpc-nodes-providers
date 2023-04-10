@@ -345,6 +345,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -352,6 +353,7 @@ Checkout: [https://getblock.io/](https://getblock.io/)
 - [https://api.harmony.one](https://api.harmony.one)
 - [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
 - [https://harmony-mainnet.chainstacklabs.com](https://harmony-mainnet.chainstacklabs.com)
+- [https://harmony.api.onfinality.io/public](https://harmony.api.onfinality.io/public)
 
 **WebSocket:**
 
