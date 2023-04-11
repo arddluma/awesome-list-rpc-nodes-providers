@@ -35,6 +35,9 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Celo](#celo)
 - [Near](#near)
 - [Cosmos](#cosmos)
+    - [Evmos](#evmos) 
+    - [Juno](#juno)
+    - [Osmosis](#osmosis)  
 - [Aurora](#aurora)
 - [TomoChain](#tomochain)
 - [Polkadot](#polkadot)
@@ -536,7 +539,19 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications](https://near-nodes.io/rpc/hardware-rpc#recommended-hardware-specifications)
 
-## Cosmos
+### Cosmos
+
+## Evmos
+
+**Providers**
+
+1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+
+**Public Endpoints:**
+
+- [https://evmos.api.onfinality.io/public](https://evmos.api.onfinality.io/public)
+
+## Juno
 
 **Providers**
 
@@ -546,6 +561,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://juno.api.onfinality.io/public](https://juno.api.onfinality.io/public)
+
+## Osmosis
+
+**Providers**
+
+1. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+
+**Public Endpoints:**
+
+- [https://osmosis.api.onfinality.io/public](https://osmosis.api.onfinality.io/public)
 
 ## Aurora
 
