@@ -484,12 +484,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
 - [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
 - [https://arbitrum.public-rpc.com](https://arbitrum.public-rpc.com)
+- [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 
 ## Arbitrum Nova
 
