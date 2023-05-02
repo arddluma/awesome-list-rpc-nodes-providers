@@ -465,11 +465,13 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. Chainbase - [https://chainbase.online](https://chainbase.online)
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
+9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
 - [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
 - [https://blastapi.io/public-api/optimism](https://blastapi.io/public-api/optimism)
+- [https://optimism.api.onfinality.io/public](https://optimism.api.onfinality.io/public)
 
 ## Arbitrum One
 
