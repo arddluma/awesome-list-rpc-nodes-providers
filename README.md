@@ -512,11 +512,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/celo/](https://getblock.io/nodes/celo/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+
 
 **Public Endpoints:**
 
 - [https://forno.celo.org](https://forno.celo.org)
 - [https://rpc.ankr.com/celo](https://rpc.ankr.com/celo)
+- [https://celo.api.onfinality.io/public](https://celo.api.onfinality.io/public)
 
 **Spin up your own node:**
 
