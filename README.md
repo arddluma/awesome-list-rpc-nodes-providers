@@ -122,6 +122,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+23. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -161,6 +162,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -220,6 +222,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+12. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -256,7 +259,8 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
-17. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
+17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+18. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -308,6 +312,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -466,6 +471,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -487,6 +493,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+11. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
@@ -590,14 +597,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 
 - [https://polkadot.api.onfinality.io/public](https://polkadot.api.onfinality.io/public)
+- [https://polkadot-rpc.dwellir.com](https://polkadot-rpc.dwellir.com)
 
 **WebSocket:**
 
 - `wss://polkadot.api.onfinality.io/public-ws`
+- `wss://polkadot-rpc.dwellir.com`
 
 ## Moonbeam
 
@@ -666,11 +676,13 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Blast - [https://blastapi.io/](https://blastapi.io/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
+4. Dwellir - [https://www.dwellir.com/](https://www.dwellir.com/)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
 - [https://astar.api.onfinality.io/public](https://astar.api.onfinality.io/public)
 - [https://evm.astar.network](https://evm.astar.network)
+- [https://astar-rpc.dwellir.com](https://astar-rpc.dwellir.com)
 
 **Spin up your own node:**
 
