@@ -122,6 +122,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+23. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -143,6 +144,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://rpc.payload.de](https://rpc.payload.de)
 - [https://llamanodes.com/](https://llamanodes.com/)
 - [https://eth.api.onfinality.io/public](https://eth.api.onfinality.io/public)
+- [https://ethereum.blockpi.network/v1/rpc/public](https://ethereum.blockpi.network/v1/rpc/public)
 
 **Spin up your own node:**
 
@@ -161,6 +163,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
+9. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -173,6 +176,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://bsc.rpcgator.com/](https://bsc.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
 - [https://bsc.publicnode.com](https://bsc.publicnode.com)
+- [https://bsc.blockpi.network/v1/rpc/public](https://bsc.blockpi.network/v1/rpc/public)
 
 **WebSocket:**
 
@@ -194,6 +198,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
 7. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
+
 
 **Public Endpoints:**
 
@@ -220,6 +225,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
+12. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -231,6 +237,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 - [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
 - [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
+- [https://avalanche.blockpi.network/v1/rpc/public](https://avalanche.blockpi.network/v1/rpc/public)
 
 **Spin up your own node:**
 
@@ -256,7 +263,8 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
 15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
-17. OnFinality.io - [https://onfinality.io](https://onfinality.io) 
+17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+18. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -271,6 +279,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://polygon-rpc.com](https://polygon-rpc.com)
 - [https://polygon.publicnode.com](https://polygon.publicnode.com)
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
+- [https://polygon.blockpi.network/v1/rpc/public](https://polygon.blockpi.network/v1/rpc/public)
 
 **WebSocket:**
 
@@ -414,7 +423,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-
+7. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -424,6 +433,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
 - [https://blastapi.io/public-api/gnosis](https://blastapi.io/public-api/gnosis)
 - [https://gnosis.api.onfinality.io/public](https://gnosis.api.onfinality.io/public)
+- [https://gnosis.blockpi.network/v1/rpc/public](https://gnosis.blockpi.network/v1/rpc/public)
 
 **WebSocket:**
 
@@ -466,12 +476,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
 - [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
 - [https://blastapi.io/public-api/optimism](https://blastapi.io/public-api/optimism)
 - [https://optimism.api.onfinality.io/public](https://optimism.api.onfinality.io/public)
+- [https://optimism.blockpi.network/v1/rpc/public](https://optimism.blockpi.network/v1/rpc/public)
 
 ## Arbitrum One
 
@@ -487,6 +499,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+11. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
@@ -494,14 +507,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://rpc.ankr.com/arbitrum](https://rpc.ankr.com/arbitrum)
 - [https://arbitrum.public-rpc.com](https://arbitrum.public-rpc.com)
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
+- [https://arbitrum.blockpi.network/v1/rpc/public](https://arbitrum.blockpi.network/v1/rpc/public)
 
 ## Arbitrum Nova
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
+2. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
 - [https://nova.arbitrum.io/rpc](https://nova.arbitrum.io/rpc)
+- [https://arbitrum-nova.blockpi.network/v1/rpc/public](https://arbitrum-nova.blockpi.network/v1/rpc/public)
 
 ## Celo
 
@@ -546,10 +562,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. GetBlock - [https://getblock.io/nodes/atom/](https://getblock.io/nodes/atom/)
 2. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+3. Blockpi - [https://blockpi.io/](https://blockpi.io/)
 
 **Public Endpoints:**
 
 - [https://juno.api.onfinality.io/public](https://juno.api.onfinality.io/public)
+- [https://cosmos.blockpi.network/lcd/v1/public](https://cosmos.blockpi.network/lcd/v1/public)
 
 ## Aurora
 
