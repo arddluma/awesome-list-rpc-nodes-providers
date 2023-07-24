@@ -45,6 +45,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Astar](#astar)
 - [Flow](#flow)
 - [zkSync Era](#zksync-era)
+- [Starknet](#starknet)
 - [Contributors](#contributors)
 
 
@@ -711,6 +712,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://mainnet.era.zksync.io](https://mainnet.era.zksync.io)
+
+## Starknet
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
 
 
 ## Donate
