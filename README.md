@@ -347,7 +347,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Tezos - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
+1. GetBlock - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
 2. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
 3. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
@@ -427,7 +427,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-
 
 **Public Endpoints:**
 
@@ -510,6 +509,8 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 
 ## Arbitrum Nova
+
+**Providers:**
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
 
