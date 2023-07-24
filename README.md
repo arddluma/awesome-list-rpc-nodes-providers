@@ -48,6 +48,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Starknet](#starknet)
 - [Cronos](#cronos)
 - [Aptos](#aptos)
+- [Filecoin](#filecoin)
 - [Contributors](#contributors)
 
 
@@ -740,6 +741,18 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://fullnode.mainnet.aptoslabs.com/v1](https://fullnode.mainnet.aptoslabs.com/v1)
+
+## Filecoin
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
+
+**Public Endpoints:**
+- [https://filecoin-mainnet.chainstacklabs.com/rpc/v1](https://filecoin-mainnet.chainstacklabs.com/rpc/v1)
+
+*WebSocket:*
+- [wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1](wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1)
 
 
 ## Donate
