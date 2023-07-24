@@ -46,6 +46,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Flow](#flow)
 - [zkSync Era](#zksync-era)
 - [Starknet](#starknet)
+- [Cronos](#cronos)
 - [Contributors](#contributors)
 
 
@@ -718,6 +719,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
+
+## Cronos
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
+
+**Public Endpoints:**
+
+- [https://evm.cronos.org](https://evm.cronos.org)
 
 
 ## Donate
