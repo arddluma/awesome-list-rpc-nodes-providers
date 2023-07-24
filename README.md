@@ -269,7 +269,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://rpc-mainnet.matic.network](https://rpc-mainnet.matic.network)
 - [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
-- [https://matic-mainnet.chainstacklabs.com](https://matic-mainnet.chainstacklabs.com)
 - [https://matic-mainnet-full-rpc.bwarelabs.com](https://matic-mainnet-full-rpc.bwarelabs.com)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
@@ -283,7 +282,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - `wss://rpc-mainnet.matic.network`
 - `wss://matic.getblock.io/api_key/mainnet/`
-- `wss://ws-matic-mainnet.chainstacklabs.com`
 - `wss://rpc-mainnet.maticvigil.com/ws`
 
 **Spin up your own node:**
@@ -378,13 +376,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
 - [https://api.harmony.one](https://api.harmony.one)
 - [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
-- [https://harmony-mainnet.chainstacklabs.com](https://harmony-mainnet.chainstacklabs.com)
 - [https://harmony.api.onfinality.io/public](https://harmony.api.onfinality.io/public)
 
 **WebSocket:**
 
 - `wss://ws.s0.t.hmny.io`
-- `wss://ws-harmony-mainnet.chainstacklabs.com`
 
 **Spin up your own node:**
 
