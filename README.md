@@ -21,6 +21,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Solana](#solana)
 - [Avalanche](#avalanche)
 - [Polygon](#polygon)
+- [Polygon zkEVM](#polygon-zkevm)
 - [Algorand](#algorand)
 - [Fantom](#fantom)
 - [Tezos](#tezos)
@@ -282,6 +283,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Spin up your own node:**
 
 - [https://docs.polygon.technology/docs/maintain/validate/validator-index](https://docs.polygon.technology/docs/maintain/validate/validator-index)
+
+## Polygon zkEVM
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-polygon-zkevm/](https://chainstack.com/build-better-with-polygon-zkevm/)
+
+**Public Endpoints:**
+
+- [https://zkevm-rpc.com](https://zkevm-rpc.com)
 
 ## Algorand
 
