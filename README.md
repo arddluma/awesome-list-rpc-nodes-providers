@@ -49,6 +49,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Cronos](#cronos)
 - [Aptos](#aptos)
 - [Filecoin](#filecoin)
+- [Oasis Sapphire](#oasis-sapphire)
 - [Contributors](#contributors)
 
 
@@ -754,6 +755,15 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 *WebSocket:*
 - [wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1](wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1)
 
+## Oasis Sapphire
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-oasis-sapphire/](https://chainstack.com/build-better-with-oasis-sapphire/)
+
+**Public Endpoints:**
+
+- [https://sapphire.oasis.io](https://sapphire.oasis.io)
 
 ## Donate
 
