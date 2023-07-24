@@ -44,6 +44,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Boba Network](#boba-network)
 - [Astar](#astar)
 - [Flow](#flow)
+- [zkSync Era](#zksync-era)
 - [Contributors](#contributors)
 
 
@@ -700,6 +701,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Spin up your own node:**
 
 - [Run a Flow node](https://developers.flow.com/nodes/node-operation)
+
+## zkSync Era
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
+
+**Public Endpoints:**
+
+- [https://mainnet.era.zksync.io](https://mainnet.era.zksync.io)
+
 
 ## Donate
 
