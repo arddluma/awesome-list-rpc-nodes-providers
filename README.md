@@ -479,6 +479,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 
 **Public Endpoints:**
 
@@ -569,6 +570,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Infura - [https://infura.io](https://infura.io)
+2. Chainstack - [https://chainstack.com/build-better-with-aurora/](https://chainstack.com/build-better-with-aurora/)
 
 **Public Endpoints:**
 
