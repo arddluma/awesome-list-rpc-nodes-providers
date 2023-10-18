@@ -122,6 +122,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+22. merkle - [https://merkle.io/](https://merkle.io/)
 
 **Public Endpoints:**
 
@@ -143,6 +144,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://rpc.payload.de](https://rpc.payload.de)
 - [https://llamanodes.com/](https://llamanodes.com/)
 - [https://eth.api.onfinality.io/public](https://eth.api.onfinality.io/public)
+- [https://eth.merkle.io](https://eth.merkle.io)
 
 **Spin up your own node:**
 
