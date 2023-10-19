@@ -201,12 +201,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
 7. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
+9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
 
 **Public Endpoints:**
 
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 - [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
+- [https://solana.api.onfinality.io/public](https://solana.api.onfinality.io/public)
 
 **Spin up your own node:**
 
@@ -406,12 +408,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. ANKR - [https://ankr.com](https://ankr.com)
+3. OnFinality - [https://onfinality.io/networks/iotex](https://onfinality.io/networks/iotex)
 
 **Public Endpoints:**
 
 - [https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492](https://iotex-mainnet.gateway.pokt.network/v1/lb/6176f902e19001003499f492)
 - [https://rpc.ankr.com/iotex](https://rpc.ankr.com/iotex)
 - [https://iotexrpc.com](https://iotexrpc.com)
+- [https://iotex.api.onfinality.io/public](https://iotex.api.onfinality.io/public)
 
 **Spin up your own node:**
 
