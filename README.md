@@ -21,6 +21,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Solana](#solana)
 - [Avalanche](#avalanche)
 - [Polygon](#polygon)
+- [Polygon zkEVM](#polygon-zkevm)
 - [Algorand](#algorand)
 - [Fantom](#fantom)
 - [Tezos](#tezos)
@@ -43,6 +44,12 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Boba Network](#boba-network)
 - [Astar](#astar)
 - [Flow](#flow)
+- [zkSync Era](#zksync-era)
+- [Starknet](#starknet)
+- [Cronos](#cronos)
+- [Aptos](#aptos)
+- [Filecoin](#filecoin)
+- [Oasis Sapphire](#oasis-sapphire)
 - [Contributors](#contributors)
 
 
@@ -262,7 +269,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://rpc-mainnet.matic.network](https://rpc-mainnet.matic.network)
 - [https://rpc-mainnet.maticvigil.com](https://rpc-mainnet.maticvigil.com)
-- [https://matic-mainnet.chainstacklabs.com](https://matic-mainnet.chainstacklabs.com)
 - [https://matic-mainnet-full-rpc.bwarelabs.com](https://matic-mainnet-full-rpc.bwarelabs.com)
 - [https://matic-mainnet-archive-rpc.bwarelabs.com](https://matic-mainnet-archive-rpc.bwarelabs.com)
 - [https://poly-rpc.gateway.pokt.network/](https://poly-rpc.gateway.pokt.network/)
@@ -276,12 +282,21 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - `wss://rpc-mainnet.matic.network`
 - `wss://matic.getblock.io/api_key/mainnet/`
-- `wss://ws-matic-mainnet.chainstacklabs.com`
 - `wss://rpc-mainnet.maticvigil.com/ws`
 
 **Spin up your own node:**
 
 - [https://docs.polygon.technology/docs/maintain/validate/validator-index](https://docs.polygon.technology/docs/maintain/validate/validator-index)
+
+## Polygon zkEVM
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-polygon-zkevm/](https://chainstack.com/build-better-with-polygon-zkevm/)
+
+**Public Endpoints:**
+
+- [https://zkevm-rpc.com](https://zkevm-rpc.com)
 
 ## Algorand
 
@@ -332,7 +347,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Tezos - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
+1. GetBlock - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
 2. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
 3. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
@@ -361,13 +376,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://harmony-0-rpc.gateway.pokt.network](https://harmony-0-rpc.gateway.pokt.network)
 - [https://api.harmony.one](https://api.harmony.one)
 - [https://harmony.public-rpc.com](https://harmony.public-rpc.com)
-- [https://harmony-mainnet.chainstacklabs.com](https://harmony-mainnet.chainstacklabs.com)
 - [https://harmony.api.onfinality.io/public](https://harmony.api.onfinality.io/public)
 
 **WebSocket:**
 
 - `wss://ws.s0.t.hmny.io`
-- `wss://ws-harmony-mainnet.chainstacklabs.com`
 
 **Spin up your own node:**
 
@@ -414,7 +427,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-
 
 **Public Endpoints:**
 
@@ -468,6 +480,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 
 **Public Endpoints:**
 
@@ -498,6 +511,8 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 
 ## Arbitrum Nova
+
+**Providers:**
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
 
@@ -561,6 +576,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Infura - [https://infura.io](https://infura.io)
+2. Chainstack - [https://chainstack.com/build-better-with-aurora/](https://chainstack.com/build-better-with-aurora/)
 
 **Public Endpoints:**
 
@@ -694,6 +710,64 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Spin up your own node:**
 
 - [Run a Flow node](https://developers.flow.com/nodes/node-operation)
+
+## zkSync Era
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
+
+**Public Endpoints:**
+
+- [https://mainnet.era.zksync.io](https://mainnet.era.zksync.io)
+
+## Starknet
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
+
+## Cronos
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
+
+**Public Endpoints:**
+
+- [https://evm.cronos.org](https://evm.cronos.org)
+
+## Aptos
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-aptos/](https://chainstack.com/build-better-with-aptos/)
+
+**Public Endpoints:**
+
+- [https://fullnode.mainnet.aptoslabs.com/v1](https://fullnode.mainnet.aptoslabs.com/v1)
+
+## Filecoin
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
+
+**Public Endpoints:**
+- [https://filecoin-mainnet.chainstacklabs.com/rpc/v1](https://filecoin-mainnet.chainstacklabs.com/rpc/v1)
+
+*WebSocket:*
+- [wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1](wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1)
+
+## Oasis Sapphire
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-oasis-sapphire/](https://chainstack.com/build-better-with-oasis-sapphire/)
+
+**Public Endpoints:**
+
+- [https://sapphire.oasis.io](https://sapphire.oasis.io)
 
 ## Donate
 
