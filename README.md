@@ -458,8 +458,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. GetBlock - [https://getblock.io/nodes/fuse/](https://getblock.io/nodes/fuse/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
-4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
