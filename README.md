@@ -462,12 +462,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
-- [https://fuse-mainnet.chainstacklabs.com/](https://fuse-mainnet.chainstacklabs.com/)
 - [https://fuse.api.onfinality.io/public](https://fuse.api.onfinality.io/public)
-
-*WebSocket:*
-- [wss://ws-fuse-mainnet.chainstacklabs.com/](wss://ws-fuse-mainnet.chainstacklabs.com/)
-
 
 **Spin up your own node:**
 
@@ -758,12 +753,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
-
-**Public Endpoints:**
-- [https://filecoin-mainnet.chainstacklabs.com/rpc/v1](https://filecoin-mainnet.chainstacklabs.com/rpc/v1)
-
-*WebSocket:*
-- [wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1](wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1)
 
 ## Oasis Sapphire
 
