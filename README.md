@@ -52,6 +52,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Oasis Sapphire](#oasis-sapphire)
 - [Base](#base)
 - [Scroll](#scroll)
+- [Kava](#kava)
 - [Contributors](#contributors)
 
 
@@ -793,6 +794,10 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
 
+## Kava
+
+**Public Endpoints:**
+- [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
 
 ## Donate
 
