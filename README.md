@@ -51,6 +51,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Filecoin](#filecoin)
 - [Oasis Sapphire](#oasis-sapphire)
 - [Base](#base)
+- [Scroll](#scroll)
 - [Contributors](#contributors)
 
 
@@ -782,6 +783,15 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 - [https://mainnet.base.org	](https://mainnet.base.org)
+
+## Scroll
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+
+**Public Endpoints:**
+- [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
 
 
 ## Donate
