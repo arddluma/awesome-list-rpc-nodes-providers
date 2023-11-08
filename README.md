@@ -104,6 +104,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Stackup.sh - [https://stackup.sh](https://stackup.sh)
 2. Etherspot - [https://etherspot.io](https://etherspot.io)
 3. Pimlico - [https://pimlico.io](https://pimlico.io)
+4. Alchemy - [https://www.alchemy.com](https://www.alchemy.com/account-kit)
 
 ## Ethereum
 
@@ -311,6 +312,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-zkevm-api-quickstart)
 
 **Spin up your own node:**
 
