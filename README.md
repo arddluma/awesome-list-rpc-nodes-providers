@@ -300,6 +300,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-polygon-zkevm/](https://chainstack.com/build-better-with-polygon-zkevm/)
+2. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-zkevm-api-quickstart)
 
 **Public Endpoints:**
 
@@ -312,7 +313,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
-4. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-zkevm-api-quickstart)
 
 **Spin up your own node:**
 
