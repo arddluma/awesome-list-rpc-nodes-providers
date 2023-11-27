@@ -50,6 +50,9 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Aptos](#aptos)
 - [Filecoin](#filecoin)
 - [Oasis Sapphire](#oasis-sapphire)
+- [Base](#base)
+- [Scroll](#scroll)
+- [Kava](#kava)
 - [Contributors](#contributors)
 
 
@@ -169,7 +172,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. GetBlock - [https://getblock.io](https://getblock.io/nodes/bsc/)
 3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-4. Chainstack - [https://chainstack.com/build-better-with-binance-smart-chain/](https://chainstack.com/build-better-with-binance-smart-chain/)
+4. Chainstack - [https://chainstack.com/build-better-with-bnb-smart-chain/](https://chainstack.com/build-better-with-bnb-smart-chain/)
 5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
@@ -475,17 +478,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. GetBlock - [https://getblock.io/nodes/fuse/](https://getblock.io/nodes/fuse/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Chainstack - [https://chainstack.com/build-better-with-fuse/](https://chainstack.com/build-better-with-fuse/)
-4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
-- [https://fuse-mainnet.chainstacklabs.com/](https://fuse-mainnet.chainstacklabs.com/)
 - [https://fuse.api.onfinality.io/public](https://fuse.api.onfinality.io/public)
-
-*WebSocket:*
-- [wss://ws-fuse-mainnet.chainstacklabs.com/](wss://ws-fuse-mainnet.chainstacklabs.com/)
-
 
 **Spin up your own node:**
 
@@ -711,8 +708,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 
-- [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0
-  ](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
+- [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
 
 **Spin up your own node:**
 
@@ -802,12 +798,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
 
-**Public Endpoints:**
-- [https://filecoin-mainnet.chainstacklabs.com/rpc/v1](https://filecoin-mainnet.chainstacklabs.com/rpc/v1)
-
-*WebSocket:*
-- [wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1](wss://ws-filecoin-mainnet.chainstacklabs.com/rpc/v1)
-
 ## Oasis Sapphire
 
 **Providers:**
@@ -817,6 +807,29 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://sapphire.oasis.io](https://sapphire.oasis.io)
+
+## Base
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
+
+**Public Endpoints:**
+- [https://mainnet.base.org](https://mainnet.base.org)
+
+## Scroll
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+
+**Public Endpoints:**
+- [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
+
+## Kava
+
+**Public Endpoints:**
+- [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
 
 ## Donate
 
