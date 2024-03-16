@@ -845,12 +845,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
 
-## Donate
-
-Your donation will help us move forward with our project and make sure that it can benefit the entire community. 
-
-Address: `0x99ac38dA3298fA7B0B8cB42a2aE9F1a8C74D98ea`
-
 ## Contributors
 
 <a href="https://github.com/arddluma/awesome-list-rpc-nodes-providers/graphs/contributors">
