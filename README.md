@@ -137,6 +137,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 
@@ -161,6 +162,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://eth.merkle.io](https://eth.merkle.io)
 - [https://eth.drpc.org](https://eth.drpc.org)
 - [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet)
+- [https://ethereum.rpc.subquery.network/public](https://ethereum.rpc.subquery.network/public)
 
 **Spin up your own node:**
 
@@ -289,6 +291,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 
@@ -304,6 +307,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 - [https://polygon.drpc.org](https://polygon.drpc.org)
 - [https://public.stackup.sh/api/v1/node/polygon-mainnet](https://public.stackup.sh/api/v1/node/polygon-mainnet)
+- [https://polygon.rpc.subquery.network/public](https://polygon.rpc.subquery.network/public)
 
 **WebSocket:**
 
@@ -512,6 +516,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 
@@ -520,6 +525,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://optimism.api.onfinality.io/public](https://optimism.api.onfinality.io/public)
 - [https://optimism.drpc.org](https://optimism.drpc.org)
 - [https://public.stackup.sh/api/v1/node/optimism-mainnet](https://public.stackup.sh/api/v1/node/optimism-mainnet)
+- [https://optimism.rpc.subquery.network/public](https://optimism.rpc.subquery.network/public)
 
 ## Arbitrum One
 
@@ -537,6 +543,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 
@@ -546,6 +553,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 - [https://arbitrum.drpc.org](https://arbitrum.drpc.org)
 - [https://public.stackup.sh/api/v1/node/arbitrum-one](https://public.stackup.sh/api/v1/node/arbitrum-one)
+- [https://arbitrum.rpc.subquery.network/public](https://arbitrum.rpc.subquery.network/public)
 
 ## Arbitrum Nova
 
@@ -654,14 +662,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 
 - [https://polkadot.api.onfinality.io/public](https://polkadot.api.onfinality.io/public)
+- [https://polkadot.rpc.subquery.network/public](https://polkadot.rpc.subquery.network/public)
 
 **WebSocket:**
 
 - `wss://polkadot.api.onfinality.io/public-ws`
+- `wss://polkadot.rpc.subquery.network/public/ws`
 
 ## Moonbeam
 
@@ -826,10 +837,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. SubQuery - [https://rpc.subquery.network/](https://rpc.subquery.network/)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://base.rpc.subquery.network/public](https://base.rpc.subquery.network/public)
 
 ## Scroll
 
