@@ -799,10 +799,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-aptos/](https://chainstack.com/build-better-with-aptos/)
+2. Nodereal - [https://nodereal.io/meganode](https://nodereal.io/meganode)
+3. BlockPi - [https://blockpi.io/aptos](https://blockpi.io/aptos)
+4. Quicknode- [https://www.quicknode.com/chains/apt](https://www.quicknode.com/chains/apt)
+5. Ankr - [https://www.ankr.com/rpc/aptos/](https://www.ankr.com/rpc/aptos/)
+6. Rockx - [https://access.rockx.com/product/aptos-blockchain-api-for-web3-builders](https://access.rockx.com/product/aptos-blockchain-api-for-web3-builders)
 
 **Public Endpoints:**
 
 - [https://fullnode.mainnet.aptoslabs.com/v1](https://fullnode.mainnet.aptoslabs.com/v1)
+- [https://rpc.ankr.com/http/aptos/v1(https://rpc.ankr.com/http/aptos/v1
 
 ## Filecoin
 
