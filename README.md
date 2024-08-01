@@ -6,7 +6,6 @@
 
 ## awesome-list-rpc-nodes-providers<!-- omit in toc -->
 
-
 [MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
 most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism, Flow etc.
 
@@ -15,6 +14,8 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
+- [Proxy](#proxy)
+  - [eRPC](https://www.erpc.cloud/)
 - [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
@@ -55,7 +56,6 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Kava](#kava)
 - [Contributors](#contributors)
 
-
 ## MultiChain
 
 <p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
@@ -81,24 +81,34 @@ Checkout: [etherspot.io](https://etherspot.io/)
 
 ### GetBlock
 
-GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS.  Web3 developers can set up an account and get an endpoint 
-
-
+GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS. Web3 developers can set up an account and get an endpoint
 
 GetBlock currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Fantom, Optimism,
-BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains). 
+BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains).
 You can see the list of supported chains [here](https://getblock.io/nodes/).
 
 Checkout: [https://getblock.io/](https://getblock.io/)
 
-### Infura 
+### Infura
 
-Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks). 
+Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks).
 
-Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access). 
+Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access).
 
-[Sign up for a free Infura account](https://app.infura.io/register) to get started. 
+[Sign up for a free Infura account](https://app.infura.io/register) to get started.
 
+### Proxy
+
+### eRPC
+
+[eRPC](https://github.com/erpc/erpc) is an open-source EVM RPC proxy & cache service built to scale horizontally from small traffic to million RPS across many chains, optimized for read-heavy use-cases such as Indexers, Frontends, MEV bots, etc.
+
+- **Fault-tolerant Proxy**: Retries, circuit-breakers, failovers and hedged requests make sure fastest most-reliable upstream is used.
+- **Flexible Rate-limiters**: Define hourly, daily rate limits for each upstream provider, to control usage, costs and high-scale usage.
+- **Permanent Caching**: Avoid redundant upstream costs by locally caching RPC responses, with reorg-aware caching layer.
+- **Request Auto-routing**: You don't need to think about which upstream supports which eth\_\* method; eRPC automatically does that.
+- **Normalized Errors**: Receive consistent error codes with details across 5+ third-party providers. With useful reporting of occured errors.
+- **RPC Metrics & Observability**: Single dashboard to observe rps throughput, errors, and avg. latency of all your RPC providers.
 
 ## Account Abstraction RPC Providers
 
@@ -134,9 +144,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
-22. merkle - [https://merkle.io/](https://merkle.io/)
-23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
-24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+23. merkle - [https://merkle.io/](https://merkle.io/)
+24. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
+25. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
 
@@ -489,6 +499,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
+
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
 - [https://fuse.api.onfinality.io/public](https://fuse.api.onfinality.io/public)
 
@@ -558,7 +569,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://nova.arbitrum.io/rpc](https://nova.arbitrum.io/rpc)
 - [https://arbitrum-nova.drpc.org](https://arbitrum-nova.drpc.org)
-- 
+-
 
 ## Celo
 
@@ -667,15 +678,15 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
- 1. GetBlock - [https://getblock.io/nodes/glmr/](https://getblock.io/nodes/glmr/)
- 2. Blast - [https://blastapi.io/](https://blastapi.io/)
- 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
+1.  GetBlock - [https://getblock.io/nodes/glmr/](https://getblock.io/nodes/glmr/)
+2.  Blast - [https://blastapi.io/](https://blastapi.io/)
+3.  OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+4.  Dwellir - [https://dwellir.com](https://dwellir.com)
+5.  DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
 
 **Public Endpoints:**
 
-- [https://rpc.api.moonbeam.network]([https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonbeam.network))
+- [https://rpc.api.moonbeam.network](<[https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonbeam.network)>)
 - [https://moonbeam.public.blastapi.io](https://moonbeam.public.blastapi.io)
 - [https://moonbeam.api.onfinality.io/public](https://moonbeam.api.onfinality.io/public)
 - [https://moonbeam.drpc.org](https://moonbeam.drpc.org)
@@ -688,11 +699,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
- 1. GetBlock - [https://getblock.io/nodes/movr/](https://getblock.io/nodes/movr/)
- 2. Blast - [https://blastapi.io/](https://blastapi.io/)
- 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
+1.  GetBlock - [https://getblock.io/nodes/movr/](https://getblock.io/nodes/movr/)
+2.  Blast - [https://blastapi.io/](https://blastapi.io/)
+3.  OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+4.  Dwellir - [https://dwellir.com](https://dwellir.com)
+5.  DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
 
 **Public Endpoints:**
 
@@ -736,6 +747,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. DRPC - [https://drpc.org/public-endpoints/astar](https://drpc.org/public-endpoints/astar)
 
 **Public Endpoints:**
+
 - [https://evm.astar.network](https://evm.astar.network)
 - [https://astar.api.onfinality.io/public](https://astar.api.onfinality.io/public)
 - [https://evm.astar.network](https://evm.astar.network)
@@ -752,6 +764,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/flow/](https://getblock.io/nodes/flow/)
 
 **Public Endpoints:**
+
 - [https://developers.flow.com/nodes/access-api](https://developers.flow.com/nodes/access-api)
 - [https://developers.flow.com/http-api/](https://developers.flow.com/http-api/)
 
@@ -792,7 +805,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://evm.cronos.org](https://evm.cronos.org)
-- [https://cronos.drpc.org](https://cronos.drpc.org) 
+- [https://cronos.drpc.org](https://cronos.drpc.org)
 
 ## Aptos
 
@@ -828,6 +841,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
+
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
 
@@ -838,11 +852,13 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
 
 **Public Endpoints:**
+
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
 
 ## Kava
 
 **Public Endpoints:**
+
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
 
 ## Contributors
