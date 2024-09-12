@@ -104,8 +104,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers**
 
-1. Stackup.sh - [https://stackup.sh](https://stackup.sh)
-2. Etherspot - [https://etherspot.io](https://etherspot.io)
+1. Etherspot - [https://etherspot.io](https://etherspot.io)
 3. Pimlico - [https://pimlico.io](https://pimlico.io)
 
 ## Ethereum
