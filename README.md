@@ -53,6 +53,14 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Base](#base)
 - [Scroll](#scroll)
 - [Kava](#kava)
+- [Blast](#blast)
+- [BitTorrent](#bittorrent)
+- [Bitcoin](#bitcoin)
+- [Berachain](#berachain-bartio)
+- [Axelar](#axelar)
+- [Arbitrum Blueberry](#arbitrum-blueberry)
+- [Aleph Zero](#aleph-zero)
+- [Klaytn](#klaytn)
 - [Contributors](#contributors)
 
 
@@ -134,7 +142,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 22. merkle - [https://merkle.io/](https://merkle.io/)
-23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
+23. dRPC - [https://drpc.org/chainlist/ethereum](https://drpc.org/chainlist/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -178,7 +186,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 6. NodeReal - https://nodereal.io/
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
-9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
+9. dRPC - [https://drpc.org/chainlist/bsc](https://drpc.org/chainlist/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -216,7 +224,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
-10. DRPC - [https://drpc.org/public-endpoints/solana](https://drpc.org/public-endpoints/solana)
+10. dRPC - [https://drpc.org/chainlist/solana](https://drpc.org/chainlist/solana)
 
 **Public Endpoints:**
 
@@ -245,7 +253,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
-12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
+12. dRPC - [https://drpc.org/chainlist/avalanche](https://drpc.org/chainlist/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -286,7 +294,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 15. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 16. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
+18. dRPC - [https://drpc.org/chainlist/polygon](https://drpc.org/chainlist/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -319,7 +327,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-polygon-zkevm/](https://chainstack.com/build-better-with-polygon-zkevm/)
-2. DRPC - [https://drpc.org/public-endpoints/polygon-zkevm](https://drpc.org/public-endpoints/polygon-zkevm)
+2. dRPC - [https://drpc.org/chainlist/polygon-zkevm](https://drpc.org/chainlist/polygon-zkevm)
 
 **Public Endpoints:**
 
@@ -338,6 +346,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://developer.algorand.org/docs/run-a-node/setup/install/](https://developer.algorand.org/docs/run-a-node/setup/install/)
 
+## Mantle
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/mantle](https://drpc.org/chainlist/mantle)
+
+**Public Endpoints:**
+
+- [https://mantle.drpc.org](https://mantle.drpc.org)
+
 ## Fantom
 
 **Providers:**
@@ -351,7 +369,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-10. DRPC - [https://drpc.org/public-endpoints/fantom](https://drpc.org/public-endpoints/fantom)
+10. dRPC - [https://drpc.org/chainlist/fantom](https://drpc.org/chainlist/fantom)
 
 **Public Endpoints:**
 
@@ -459,7 +477,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. Blast - [https://blastapi.io/](https://blastapi.io/)
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-7. DRPC - [https://drpc.org/public-endpoints/gnosis](https://drpc.org/public-endpoints/gnosis)
+7. dRPC - [https://drpc.org/chainlist/gnosis](https://drpc.org/chainlist/gnosis)
 
 **Public Endpoints:**
 
@@ -509,7 +527,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
-11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
+11. dRPC - [https://drpc.org/chainlist/optimism](https://drpc.org/chainlist/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -534,7 +552,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
-11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
+11. dRPC - [https://drpc.org/chainlist/arbitrum](https://drpc.org/chainlist/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
@@ -551,7 +569,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
-2. DRPC - [https://drpc.org/public-endpoints/arbitrum-nova](https://drpc.org/public-endpoints/arbitrum-nova)
+2. dRPC - [https://drpc.org/chainlist/arbitrum-nova](https://drpc.org/chainlist/arbitrum-nova)
 
 **Public Endpoints:**
 
@@ -567,7 +585,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
-5. DRPC - [https://drpc.org/public-endpoints/celo](https://drpc.org/public-endpoints/celo)
+5. dRPC - [https://drpc.org/chainlist/celo](https://drpc.org/chainlist/celo)
 
 **Public Endpoints:**
 
@@ -617,7 +635,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Infura - [https://infura.io](https://infura.io)
 2. Chainstack - [https://chainstack.com/build-better-with-aurora/](https://chainstack.com/build-better-with-aurora/)
-3. DRPC - [https://drpc.org/public-endpoints/aurora](https://drpc.org/public-endpoints/aurora)
+3. dRPC - [https://drpc.org/chainlist/aurora](https://drpc.org/chainlist/aurora)
 
 **Public Endpoints:**
 
@@ -670,7 +688,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
  2. Blast - [https://blastapi.io/](https://blastapi.io/)
  3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
  4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
+ 5. dRPC - [https://drpc.org/chainlist/moonbeam](https://drpc.org/chainlist/moonbeam)
 
 **Public Endpoints:**
 
@@ -691,7 +709,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
  2. Blast - [https://blastapi.io/](https://blastapi.io/)
  3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
  4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
+ 5. dRPC - [https://drpc.org/chainlist/moonriver](https://drpc.org/chainlist/moonbeam)
 
 **Public Endpoints:**
 
@@ -716,10 +734,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. dRPC - [https://drpc.org/chainlist/boba-eth](https://drpc.org/chainlist/boba-eth)
 
 **Public Endpoints:**
 
 - [https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0](https://boba-mainnet.gateway.pokt.network/v1/lb/6258298b981a0200395864f0)
+- [https://boba-eth.drpc.org](https://boba-eth.drpc.org)
 
 **Spin up your own node:**
 
@@ -732,7 +752,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Blast - [https://blastapi.io/](https://blastapi.io/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
-4. DRPC - [https://drpc.org/public-endpoints/astar](https://drpc.org/public-endpoints/astar)
+4. dRPC - [https://drpc.org/chainlist/astar](https://drpc.org/chainlist/astar)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
@@ -763,7 +783,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
-2. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
+2. dRPC - [https://drpc.org/chainlist/zksync](https://drpc.org/chainlist/zksync)
 
 **Public Endpoints:**
 
@@ -775,18 +795,28 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
-2. DRPC - [https://drpc.org/public-endpoints/starknet](https://drpc.org/public-endpoints/starknet)
+2. dRPC - [https://drpc.org/chainlist/starknet](https://drpc.org/chainlist/starknet)
 
 **Public Endpoints:**
 
 - [https://starknet.drpc.org](https://starknet.drpc.org)
+
+## Linea
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/linea](https://drpc.org/chainlist/linea)
+
+**Public Endpoints:**
+
+- [https://linea.drpc.org](https://linea.drpc.org)
 
 ## Cronos
 
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
-2. DRPC - [https://drpc.org/public-endpoints/cronos](https://drpc.org/public-endpoints/cronos)
+2. dRPC - [https://drpc.org/chainlist/cronos](https://drpc.org/chainlist/cronos)
 
 **Public Endpoints:**
 
@@ -825,24 +855,109 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. dRPC - [https://drpc.org/chainlist/base](https://drpc.org/chainlist/base)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://base.drpc.org](https://base.drpc.org)
 
 ## Scroll
 
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+2. dRPC - [https://drpc.org/chainlist/scroll](https://drpc.org/chainlist/scroll)
+
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
+- [https://scroll.drpc.org](https://scroll.drpc.org)
 
 ## Kava
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
+
+## Klaytn
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/klaytn](https://drpc.org/chainlist/klaytn)
+
+**Public Endpoints:**
+
+- [https://klaytn.drpc.org](https://klaytn.drpc.org)
+
+## Aleph Zero
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/alephzero](https://drpc.org/chainlist/alephzero)
+
+**Public Endpoints:**
+
+- [https://alephzero-sepolia.drpc.org](https://alephzero-sepolia.drpc.org)
+
+## Arbitrum Blueberry
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/arb-blueberry](https://drpc.org/chainlist/arb-blueberry)
+
+**Public Endpoints:**
+
+- [https://arb-blueberry-testnet.drpc.org](https://arb-blueberry-testnet.drpc.org)
+
+## Axelar
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/axelar](https://drpc.org/chainlist/axelar)
+
+**Public Endpoints:**
+
+- [https://axelar.drpc.org](https://axelar.drpc.org)
+
+## Berachain bArtio
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/bartio](https://drpc.org/chainlist/bartio)
+
+**Public Endpoints:**
+
+- [https://bartio.drpc.org](https://bartio.drpc.org)
+
+## Bitcoin
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/bitcoin](https://drpc.org/chainlist/bitcoin)
+
+**Public Endpoints:**
+
+- [https://bitcoin.drpc.org](https://bitcoin.drpc.org)
+
+## BitTorrent
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/bittorrent](https://drpc.org/chainlist/bittorrent)
+
+**Public Endpoints:**
+
+- [https://bittorrent.drpc.org](https://bittorrent.drpc.org)
+
+## Blast
+
+**Providers:**
+
+1. dRPC - [https://drpc.org/chainlist/blast](https://drpc.org/chainlist/blast)
+
+**Public Endpoints:**
+
+- [https://blast.drpc.org](https://blast.drpc.org)
 
 ## Contributors
 
