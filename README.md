@@ -6,7 +6,6 @@
 
 ## awesome-list-rpc-nodes-providers<!-- omit in toc -->
 
-
 [MultiNodes](https://multinodes.xyz) provides you with a list of PUBLIC RPC endpoints and Node providers for
 most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, Solana, Tezos, Harmony, Arbitrum, Optimism, Flow etc.
 
@@ -55,10 +54,17 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Kava](#kava)
 - [Contributors](#contributors)
 
-
 ## MultiChain
 
 <p> If you would like to be on the #Multichain list <a href="mailto:sponsor@multinodes.xyz">Email Us</a> </p>
+
+### NOWNodes
+
+NOWNodes is an RPC Provider that offers a comprehensive Blockchain-as-a-Service (BaaS) solution providing access to Full Nodes, Explorers, WebSockets and Public nodes via API for 110+ blockchain networks. As an RPC node provider, we are simplifying the process for developers: building wallets, exchanges, and dApps by handling the backend infrastructure, allowing them to focus on their main responsibilities.
+
+It also provides a Crypto API which shares historical crypto market data. This service gives you access to live data for over 9,000 cryptocurrencies and 90+ financial assets, including price, volume, and market cap. All data is updated every few seconds, ensuring you stay on top of the market with global exchange coverage.
+
+Learn more: [https://nownodes.io/](https://nownodes.io/)
 
 ### Etherspot
 
@@ -81,24 +87,21 @@ Checkout: [etherspot.io](https://etherspot.io/)
 
 ### GetBlock
 
-GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS.  Web3 developers can set up an account and get an endpoint 
-
-
+GetBlock is the blockchain RPC provider that employs a ‘pay per use’ model: its requests have no ‘expiration date’ so that users only pay for the resources they actually use. It supports more than 50 multiple blockchains. GetBlock guarantees the highest rate limit in free tariff, 60 RPS. Web3 developers can set up an account and get an endpoint
 
 GetBlock currently supports RPC access to Ethereum, Solana, Avalanche, Polygon, Fantom, Optimism,
-BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains). 
+BSC, Gnosis, Algorand and other blockchains (more than 50 blockchains).
 You can see the list of supported chains [here](https://getblock.io/nodes/).
 
 Checkout: [https://getblock.io/](https://getblock.io/)
 
-### Infura 
+### Infura
 
-Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks). 
+Infura helps you build multichain applications by providing reliable and consistent RPC access to 10+ blockchain networks, including Ethereum, Polygon, Avalanche, NEAR, StarkNet, Optimism, and Arbitrum. You can see all the chains Infura supports on the [Networks page](https://www.infura.io/networks).
 
-Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access). 
+Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access).
 
-[Sign up for a free Infura account](https://app.infura.io/register) to get started. 
-
+[Sign up for a free Infura account](https://app.infura.io/register) to get started.
 
 ## Account Abstraction RPC Providers
 
@@ -114,18 +117,18 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Infura.io - [https://infura.io](https://infura.io)
 2. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/ethereum-api-quickstart)
 3. GetBlock - [https://getblock.io/nodes/eth/](https://getblock.io/nodes/eth/)
-4. 0x - [https://0x.org](https://0x.org)
-5. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-7. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
-8. ZMOK - [https://zmok.io/](https://zmok.io/)
-9. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
-10. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-11. Ankr - [https://ankr.com](https://ankr.com)
-12. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
-13. Blast - [https://blastapi.io/](https://blastapi.io/)
-14. NodeReal - https://nodereal.io/
-15. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/ethereum-eth)
+5. 0x - [https://0x.org](https://0x.org)
+6. Amazon Managed Blockchain - [https://aws.amazon.com/managed-blockchain](https://aws.amazon.com/managed-blockchain)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. Chainstack - [https://chainstack.com/build-better-with-ethereum/](https://chainstack.com/build-better-with-ethereum/)
+9. ZMOK - [https://zmok.io/](https://zmok.io/)
+10. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+11. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+12. Ankr - [https://ankr.com](https://ankr.com)
+13. ArchiveNode - [https://archivenode.io/](https://archivenode.io/)
+14. Blast - [https://blastapi.io/](https://blastapi.io/)
+15. NodeReal - https://nodereal.io/
 16. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 17. Chainbase - [https://chainbase.online](https://chainbase.online)
 18. LlamaNodes - [https://llamanodes.com/](https://llamanodes.com/)
@@ -133,15 +136,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 20. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
 21. Node RPC - [https://www.noderpc.xyz/](https://www.noderpc.xyz/)
 22. OnFinality - [https://onfinality.io/](https://onfinality.io/)
-22. merkle - [https://merkle.io/](https://merkle.io/)
-23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
-24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+23. merkle - [https://merkle.io/](https://merkle.io/)
+24. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
+25. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
 
 - [https://cloudflare-eth.com](https://cloudflare-eth.com)
 - [https://main-light.eth.linkpool.io](https://main-light.eth.linkpool.io)
 - [https://eth-rpc.gateway.pokt.network](https://eth-rpc.gateway.pokt.network)
+- [https://public-eth.nownodes.io](https://nownodes.io/public-endpoints)
 - [https://api.mycryptoapi.com/eth](https://api.mycryptoapi.com/eth)
 - [https://mainnet.eth.cloud.ava.do/](https://mainnet.eth.cloud.ava.do/)
 - [https://ethereumnodelight.app.runonflux.io](https://ethereumnodelight.app.runonflux.io)
@@ -172,11 +176,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. ANKR - [https://ankr.com](https://ankr.com)
 2. GetBlock - [https://getblock.io](https://getblock.io/nodes/bsc/)
-3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-4. Chainstack - [https://chainstack.com/build-better-with-bnb-smart-chain/](https://chainstack.com/build-better-with-bnb-smart-chain/)
-5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. NodeReal - https://nodereal.io/
-7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+3. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/binance-smart-coin-bsc)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Chainstack - [https://chainstack.com/build-better-with-bnb-smart-chain/](https://chainstack.com/build-better-with-bnb-smart-chain/)
+6. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. NodeReal - https://nodereal.io/
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
@@ -185,6 +189,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d](https://bsc-mainnet.gateway.pokt.network/v1/lb/6136201a7bad1500343e248d)
 - [https://bsc-dataseed.binance.org](https://bsc-dataseed.binance.org)
+- [https://public-bsc.nownodes.io](https://nownodes.io/public-endpoints)
 - [https://bsc-dataseed1.defibit.io](https://bsc-dataseed1.defibit.io)
 - [https://bsc-dataseed1.ninicoin.io](https://bsc-dataseed1.ninicoin.io)
 - [https://bscrpc.com](https://bscrpc.com)
@@ -198,6 +203,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **WebSocket:**
 
 - `wss://bsc-ws-node.nariox.org:443`
+- `wss://bsc.nownodes.io/wss`
 
 **Spin up your own node:**
 
@@ -208,10 +214,10 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-solana/](https://chainstack.com/build-better-with-solana/)
-2. GetBlock - [https://getblock.io/nodes/sol/](https://getblock.io/nodes/sol/)
-3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-4. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+2. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/solana-sol)
+3. GetBlock - [https://getblock.io/nodes/sol/](https://getblock.io/nodes/sol/)
+4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 6. Coinbase - [https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana](https://www.coinbase.com/blog/coinbase-cloud-launches-solana-archival-nodes-to-empower-the-solana)
 7. Blockdaemon - [https://blockdaemon.com/documentation/guides/solana/solana-nodes/](https://blockdaemon.com/documentation/guides/solana/solana-nodes/)
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
@@ -226,6 +232,10 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://solana.api.onfinality.io/public](https://solana.api.onfinality.io/public)
 - [https://solana.drpc.org](https://solana.drpc.org)
 
+**WebSocket:**
+
+- `wss://sol.nownodes.io/wss`
+
 **Spin up your own node:**
 
 - [https://docs.solana.com/running-validator](https://docs.solana.com/running-validator)
@@ -234,14 +244,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/avax/](https://getblock.io/nodes/avax/)
-2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
-4. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
-5. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. Ankr - [https://ankr.com](https://ankr.com)
-7. Blast - [https://blastapi.io/](https://blastapi.io/)
-8. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/avalanche-avax)
+2. GetBlock - [https://getblock.io/nodes/avax/](https://getblock.io/nodes/avax/)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+4. Chainstack - [https://chainstack.com/build-better-with-avalanche/](https://chainstack.com/build-better-with-avalanche/)
+5. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+6. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. Ankr - [https://ankr.com](https://ankr.com)
+8. Blast - [https://blastapi.io/](https://blastapi.io/)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. Chainbase - [https://chainbase.online](https://chainbase.online)
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
@@ -269,17 +279,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Infura.io - [https://infura.io](https://infura.io)
-2. GetBlock - [https://getblock.io/nodes/matic/](https://getblock.io/nodes/matic/)
-3. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
-4. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
-5. ANKR - [https://ankr.com](https://ankr.com)
-6. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-7. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
-8. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-9. Ankr - [https://ankr.com](https://ankr.com)
-10. Blast - [https://blastapi.io/](https://blastapi.io/)
-11. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io](https://nownodes.io/nodes/polygon-matic)
+2. Infura.io - [https://infura.io](https://infura.io)
+3. GetBlock - [https://getblock.io/nodes/matic/](https://getblock.io/nodes/matic/)
+4. MaticVigil - [https://maticvigil.com](https://maticvigil.com)
+5. Chainstack - [https://chainstack.com](https://chainstack.com/build-better-with-polygon/)
+6. ANKR - [https://ankr.com](https://ankr.com)
+7. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+8. Allnodes - [https://www.allnodes.com](https://www.allnodes.com)
+9. Figment Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+10. Ankr - [https://ankr.com](https://ankr.com)
+11. Blast - [https://blastapi.io/](https://blastapi.io/)
 12. Kriptonio - [https://kriptonio.com/](https://kriptonio.com/)
 13. Chainbase - [https://chainbase.online](https://chainbase.online)
 14. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/polygon-api-quickstart)
@@ -309,6 +319,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - `wss://rpc-mainnet.matic.network`
 - `wss://matic.getblock.io/api_key/mainnet/`
 - `wss://rpc-mainnet.maticvigil.com/ws`
+- `wss://matic.nownodes.io/wss`
 
 **Spin up your own node:**
 
@@ -330,9 +341,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers**:
 
-1. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
-2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/algorand-algo)
+2. GetBlock - [https://getblock.io/nodes/algo/](https://getblock.io/nodes/algo/)
+3. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 
 **Spin up your own node:**
 
@@ -342,13 +353,13 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/ftm/](https://getblock.io/nodes/ftm/)
-2. ANKR - [https://ankr.com](https://ankr.com)
-3. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
-4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-5. Blast - [https://blastapi.io/](https://blastapi.io/)
-6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-7. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/fantom-ftm)
+2. GetBlock - [https://getblock.io/nodes/ftm/](https://getblock.io/nodes/ftm/)
+3. ANKR - [https://ankr.com](https://ankr.com)
+4. Chainstack - [https://chainstack.com/build-better-with-fantom/](https://chainstack.com/build-better-with-fantom/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Blast - [https://blastapi.io/](https://blastapi.io/)
+7. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 10. DRPC - [https://drpc.org/public-endpoints/fantom](https://drpc.org/public-endpoints/fantom)
@@ -377,10 +388,10 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
-2. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
-3. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
-4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/tezos-xtz)
+2. GetBlock - [https://getblock.io/nodes/xtz/](https://getblock.io/nodes/xtz)
+3. Chainstack - [https://chainstack.com/build-better-with-tezos/](https://chainstack.com/build-better-with-tezos/)
+4. [MIDL.dev](https://midl.dev) Tezos RPC Service - [https://midl.dev/tezos-rpc](https://midl.dev/tezos-rpc)
 5. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 
 **Public Endpoints:**
@@ -396,9 +407,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-2. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
-3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/harmony-one)
+2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+3. Chainstack - [https://chainstack.com/build-better-with-harmony/](https://chainstack.com/build-better-with-harmony/)
 4. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
@@ -488,6 +499,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 
 **Public Endpoints:**
+
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
 - [https://fuse.api.onfinality.io/public](https://fuse.api.onfinality.io/public)
 
@@ -499,11 +511,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/op/](https://getblock.io/nodes/op/)
-2. Infura - [https://infura.io](https://infura.io)
-3. Ankr - [https://ankr.com](https://ankr.com)
-4. Blast - [https://blastapi.io/](https://blastapi.io/)
-5. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/optimism-op)
+2. GetBlock - [https://getblock.io/nodes/op/](https://getblock.io/nodes/op/)
+3. Infura - [https://infura.io](https://infura.io)
+4. Ankr - [https://ankr.com](https://ankr.com)
+5. Blast - [https://blastapi.io/](https://blastapi.io/)
 6. Chainbase - [https://chainbase.online](https://chainbase.online)
 7. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/optimism-api-quickstart)
 8. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
@@ -524,12 +536,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/arbitrum/](https://getblock.io/nodes/arbitrum/)
-2. Infura - [https://infura.io](https://infura.io)
-3. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/arbitrum-api-quickstart)
-4. ANKR - [https://ankr.com](https://ankr.com)
-5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/arbitrum-arb)
+2. GetBlock - [https://getblock.io/nodes/arbitrum/](https://getblock.io/nodes/arbitrum/)
+3. Infura - [https://infura.io](https://infura.io)
+4. Alchemy - [https://www.alchemy.com](https://docs.alchemy.com/reference/arbitrum-api-quickstart)
+5. ANKR - [https://ankr.com](https://ankr.com)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 7. Chainstack - [https://chainstack.com/build-better-with-arbitrum/](https://chainstack.com/build-better-with-arbitrum/)
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. Chainnodes - [https://www.chainnodes.org/](https://www.chainnodes.org/)
@@ -557,7 +569,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://nova.arbitrum.io/rpc](https://nova.arbitrum.io/rpc)
 - [https://arbitrum-nova.drpc.org](https://arbitrum-nova.drpc.org)
-- 
+-
 
 ## Celo
 
@@ -584,12 +596,13 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. ANKR - [https://ankr.com](https://ankr.com)
-2. Infura - [https://infura.io](https://infura.io)
-3. GetBlock - [https://getblock.io/nodes/near/](https://getblock.io/nodes/near/)
-4. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
-5. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
-6. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/near-protocol-near)
+2. ANKR - [https://ankr.com](https://ankr.com)
+3. Infura - [https://infura.io](https://infura.io)
+4. GetBlock - [https://getblock.io/nodes/near/](https://getblock.io/nodes/near/)
+5. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+6. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+7. Chainstack - [https://chainstack.com/build-better-with-near/](https://chainstack.com/build-better-with-near/)
 
 **Public Endpoints:**
 
@@ -604,8 +617,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers**
 
-1. GetBlock - [https://getblock.io/nodes/atom/](https://getblock.io/nodes/atom/)
-2. OnFinality.io - [https://onfinality.io](https://onfinality.io)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/cosmos-atom)
+2. GetBlock - [https://getblock.io/nodes/atom/](https://getblock.io/nodes/atom/)
+3. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 
 **Public Endpoints:**
 
@@ -615,9 +629,10 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Infura - [https://infura.io](https://infura.io)
-2. Chainstack - [https://chainstack.com/build-better-with-aurora/](https://chainstack.com/build-better-with-aurora/)
-3. DRPC - [https://drpc.org/public-endpoints/aurora](https://drpc.org/public-endpoints/aurora)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/aurora-aurora)
+2. Infura - [https://infura.io](https://infura.io)
+3. Chainstack - [https://chainstack.com/build-better-with-aurora/](https://chainstack.com/build-better-with-aurora/)
+4. DRPC - [https://drpc.org/public-endpoints/aurora](https://drpc.org/public-endpoints/aurora)
 
 **Public Endpoints:**
 
@@ -632,7 +647,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/viction-tomo)
 
 **Public Endpoints:**
 
@@ -650,9 +665,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
-2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
-3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/polkadot-dot)
+2. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
+3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 
 **Public Endpoints:**
 
@@ -661,20 +676,21 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **WebSocket:**
 
 - `wss://polkadot.api.onfinality.io/public-ws`
+- `wss://dot.nownodes.io/wss`
 
 ## Moonbeam
 
 **Providers:**
 
- 1. GetBlock - [https://getblock.io/nodes/glmr/](https://getblock.io/nodes/glmr/)
- 2. Blast - [https://blastapi.io/](https://blastapi.io/)
- 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
+1.  GetBlock - [https://getblock.io/nodes/glmr/](https://getblock.io/nodes/glmr/)
+2.  Blast - [https://blastapi.io/](https://blastapi.io/)
+3.  OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+4.  Dwellir - [https://dwellir.com](https://dwellir.com)
+5.  DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
 
 **Public Endpoints:**
 
-- [https://rpc.api.moonbeam.network]([https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonbeam.network))
+- [https://rpc.api.moonbeam.network](<[https://rpc.api.moonriver.moonbeam.network](https://rpc.api.moonbeam.network)>)
 - [https://moonbeam.public.blastapi.io](https://moonbeam.public.blastapi.io)
 - [https://moonbeam.api.onfinality.io/public](https://moonbeam.api.onfinality.io/public)
 - [https://moonbeam.drpc.org](https://moonbeam.drpc.org)
@@ -687,11 +703,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
- 1. GetBlock - [https://getblock.io/nodes/movr/](https://getblock.io/nodes/movr/)
- 2. Blast - [https://blastapi.io/](https://blastapi.io/)
- 3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
- 4. Dwellir - [https://dwellir.com](https://dwellir.com)
- 5. DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
+1.  GetBlock - [https://getblock.io/nodes/movr/](https://getblock.io/nodes/movr/)
+2.  Blast - [https://blastapi.io/](https://blastapi.io/)
+3.  OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
+4.  Dwellir - [https://dwellir.com](https://dwellir.com)
+5.  DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
 
 **Public Endpoints:**
 
@@ -735,6 +751,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 4. DRPC - [https://drpc.org/public-endpoints/astar](https://drpc.org/public-endpoints/astar)
 
 **Public Endpoints:**
+
 - [https://evm.astar.network](https://evm.astar.network)
 - [https://astar.api.onfinality.io/public](https://astar.api.onfinality.io/public)
 - [https://evm.astar.network](https://evm.astar.network)
@@ -751,6 +768,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/flow/](https://getblock.io/nodes/flow/)
 
 **Public Endpoints:**
+
 - [https://developers.flow.com/nodes/access-api](https://developers.flow.com/nodes/access-api)
 - [https://developers.flow.com/http-api/](https://developers.flow.com/http-api/)
 
@@ -762,8 +780,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
-2. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/zksync-zksync)
+2. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
+3. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
 
 **Public Endpoints:**
 
@@ -774,8 +793,9 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
-2. DRPC - [https://drpc.org/public-endpoints/starknet](https://drpc.org/public-endpoints/starknet)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/starknet-strk)
+2. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
+3. DRPC - [https://drpc.org/public-endpoints/starknet](https://drpc.org/public-endpoints/starknet)
 
 **Public Endpoints:**
 
@@ -791,13 +811,14 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://evm.cronos.org](https://evm.cronos.org)
-- [https://cronos.drpc.org](https://cronos.drpc.org) 
+- [https://cronos.drpc.org](https://cronos.drpc.org)
 
 ## Aptos
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-aptos/](https://chainstack.com/build-better-with-aptos/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/aptos-apt)
+2. Chainstack - [https://chainstack.com/build-better-with-aptos/](https://chainstack.com/build-better-with-aptos/)
 
 **Public Endpoints:**
 
@@ -807,7 +828,8 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/filecoin-fil)
+2. Chainstack - [https://chainstack.com/build-better-with-filecoin/](https://chainstack.com/build-better-with-filecoin/)
 
 ## Oasis Sapphire
 
@@ -823,10 +845,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Providers:**
 
-1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
-2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/basechain-base)
+2. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
+3. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
 **Public Endpoints:**
+
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
 
@@ -837,11 +861,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
 
 **Public Endpoints:**
+
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
 
 ## Kava
 
+**Providers**
+
+1. NOWNodes - [https://nownodes.io/](https://nownodes.io/nodes/kava-kava)
+
 **Public Endpoints:**
+
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
 
 ## Contributors
