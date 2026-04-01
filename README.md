@@ -53,6 +53,17 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Base](#base)
 - [Scroll](#scroll)
 - [Kava](#kava)
+- [TON](#ton)
+- [Ronin](#ronin)
+- [Sonic](#sonic)
+- [TRON](#tron)
+- [Bitcoin](#bitcoin)
+- [Linea](#linea)
+- [opBNB](#opbnb)
+- [Mantle](#mantle)
+- [Sui](#sui)
+- [Shibarium](#shibarium)
+- [Hyperliquid](#hyperliquid)
 - [Contributors](#contributors)
 
 
@@ -568,6 +579,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 5. DRPC - [https://drpc.org/public-endpoints/celo](https://drpc.org/public-endpoints/celo)
+6. Chainstack - [https://chainstack.com/build-better-with-celo/](https://chainstack.com/build-better-with-celo/)
 
 **Public Endpoints:**
 
@@ -653,6 +665,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Chainstack - [https://chainstack.com/build-better-with-polkadot/](https://chainstack.com/build-better-with-polkadot/)
 
 **Public Endpoints:**
 
@@ -671,6 +684,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
  3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
  4. Dwellir - [https://dwellir.com](https://dwellir.com)
  5. DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
+ 6. Chainstack - [https://chainstack.com/build-better-with-moonbeam/](https://chainstack.com/build-better-with-moonbeam/)
 
 **Public Endpoints:**
 
@@ -733,6 +747,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
 4. DRPC - [https://drpc.org/public-endpoints/astar](https://drpc.org/public-endpoints/astar)
+5. Chainstack - [https://chainstack.com/build-better-with-astar/](https://chainstack.com/build-better-with-astar/)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
@@ -843,6 +858,108 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
+
+## TON
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-ton/](https://chainstack.com/build-better-with-ton/)
+
+**Public Endpoints:**
+
+- [https://toncenter.com/api/v2/jsonRPC](https://toncenter.com/api/v2/jsonRPC)
+
+## Ronin
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-ronin/](https://chainstack.com/build-better-with-ronin/)
+
+**Public Endpoints:**
+
+- [https://api.roninchain.com/rpc](https://api.roninchain.com/rpc)
+
+## Sonic
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-sonic/](https://chainstack.com/build-better-with-sonic/)
+
+## TRON
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-tron/](https://chainstack.com/build-better-with-tron/)
+
+**Public Endpoints:**
+
+- [https://api.trongrid.io](https://api.trongrid.io)
+
+## Bitcoin
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-bitcoin/](https://chainstack.com/build-better-with-bitcoin/)
+2. GetBlock - [https://getblock.io/nodes/btc/](https://getblock.io/nodes/btc/)
+3. QuickNode - [https://www.quicknode.com/chains/btc](https://www.quicknode.com/chains/btc)
+4. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+
+## Linea
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-linea/](https://chainstack.com/build-better-with-linea/)
+2. Infura - [https://infura.io](https://infura.io)
+
+**Public Endpoints:**
+
+- [https://rpc.linea.build](https://rpc.linea.build)
+
+## opBNB
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-opbnb/](https://chainstack.com/build-better-with-opbnb/)
+
+**Public Endpoints:**
+
+- [https://opbnb-mainnet-rpc.bnbchain.org](https://opbnb-mainnet-rpc.bnbchain.org)
+
+## Mantle
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-mantle/](https://chainstack.com/build-better-with-mantle/)
+
+**Public Endpoints:**
+
+- [https://rpc.mantle.xyz](https://rpc.mantle.xyz)
+
+## Sui
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-sui/](https://chainstack.com/build-better-with-sui/)
+
+**Public Endpoints:**
+
+- [https://fullnode.mainnet.sui.io:443](https://fullnode.mainnet.sui.io:443)
+
+## Shibarium
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-shibarium/](https://chainstack.com/build-better-with-shibarium/)
+
+**Public Endpoints:**
+
+- [https://www.shibrpc.com](https://www.shibrpc.com)
+
+## Hyperliquid
+
+**Providers:**
+
+1. Chainstack - [https://chainstack.com/build-better-with-hyperliquid/](https://chainstack.com/build-better-with-hyperliquid/)
 
 ## Contributors
 
