@@ -15,6 +15,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
+  - [DRPC Agent Skills](#drpc-agent-skills)
 - [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
@@ -97,7 +98,13 @@ Infura helps you build multichain applications by providing reliable and consist
 
 Besides providing easy-to-integrate and scalable blockchain APIs, Infura empowers developers to “buidl” great dapps with value-add features like dedicated IPFS gateways, Infura [NFT API + SDK](https://www.infura.io/platform/nft-api), and [free archival data access](https://www.infura.io/solutions/archive-access). 
 
-[Sign up for a free Infura account](https://app.infura.io/register) to get started. 
+[Sign up for a free Infura account](https://app.infura.io/register) to get started.
+
+### DRPC Agent Skills
+
+MCP-based wrapper that lets AI coding agents call DRPC's RPC endpoints directly. Same multi-chain coverage as the DRPC provider entries above, now accessible from Claude Code, Cursor, Gemini CLI, and other agent platforms.
+
+Checkout: [drpc-agent-skills](https://github.com/drpcorg/drpc-agent-skills)
 
 
 ## Account Abstraction RPC Providers
