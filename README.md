@@ -4,6 +4,8 @@
     </a>
 </p>
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware
+
 ## awesome-list-rpc-nodes-providers<!-- omit in toc -->
 
 
