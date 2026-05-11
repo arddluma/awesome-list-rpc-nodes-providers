@@ -165,6 +165,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/](https://ethereum.org/en/developers/docs/nodes-and-clients/run-a-node/)
 - [https://meganode.nodereal.io/account/login](https://meganode.nodereal.io/account/login)
+- [https://docs.chainstack.com/docs/self-hosted/introduction](https://docs.chainstack.com/docs/self-hosted/introduction)
 
 ## BSC
 
