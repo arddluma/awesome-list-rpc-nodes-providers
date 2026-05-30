@@ -825,10 +825,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. Azul - [https://baseazul.dev/](https://baseazul.dev/)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://rpc.baseazul.dev](https://rpc.baseazul.dev)
 
 ## Scroll
 
