@@ -53,6 +53,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Base](#base)
 - [Scroll](#scroll)
 - [Kava](#kava)
+- [Benchmarks & Monitoring](#benchmarks--monitoring)
 - [Contributors](#contributors)
 
 
@@ -843,6 +844,16 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
+
+## Benchmarks & Monitoring
+
+**Providers:**
+
+1. OpenChainBench - [https://openchainbench.com](https://openchainbench.com)
+
+OpenChainBench publishes live measurements of RPC providers (Helius, QuickNode, Alchemy, BlockPI, Tenderly, Chainstack, Ankr, plus regional providers) across 20+ chains. Probes deployed in multiple regions refresh every 10 to 60 seconds and track head lag, query latency p50/p90/p99, finality time, error rates, and capability coverage. Methodology pages and source code are public. Data is published under CC-BY-4.0.
+
+Reference pages: [RPC capabilities](https://openchainbench.com/benchmarks/rpc-capabilities), [aggregator head lag](https://openchainbench.com/benchmarks/aggregator-head-lag), [L1 finality](https://openchainbench.com/benchmarks/l1-finality), [chains coverage](https://openchainbench.com/chains).
 
 ## Contributors
 
