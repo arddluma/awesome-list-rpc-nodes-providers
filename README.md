@@ -15,6 +15,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
+  - [BoltRPC](#boltrpc)
 - [Account Abstraction / ERC-4337](#account-abstraction-rpc-providers)
 - [Ethereum](#ethereum)
 - [BSC](#bsc)
@@ -100,6 +101,17 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 [Sign up for a free Infura account](https://app.infura.io/register) to get started. 
 
 
+### BoltRPC
+
+BoltRPC delivers production-grade RPC and WebSocket endpoints across 20+ networks behind a single auth key. Built for high-throughput workloads with multi-region failover.
+
+Free 2-week trial with unlimited RPS: [trial.boltrpc.io](https://trial.boltrpc.io)
+
+Built on ISO 27001:2022 certified infrastructure.
+
+Checkout: [boltrpc.io](https://boltrpc.io)
+
+
 ## Account Abstraction RPC Providers
 
 **Providers**
@@ -136,6 +148,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. BoltRPC - [https://boltrpc.io/networks/ethereum](https://boltrpc.io/networks/ethereum)
 
 **Public Endpoints:**
 
@@ -180,6 +193,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. BoltRPC - [https://boltrpc.io/networks/bnb](https://boltrpc.io/networks/bnb)
 
 **Public Endpoints:**
 
@@ -217,6 +231,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
 10. DRPC - [https://drpc.org/public-endpoints/solana](https://drpc.org/public-endpoints/solana)
+11. BoltRPC - [https://boltrpc.io/networks/solana](https://boltrpc.io/networks/solana)
 
 **Public Endpoints:**
 
@@ -247,6 +262,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. BoltRPC - [https://boltrpc.io/networks/avalanche](https://boltrpc.io/networks/avalanche)
 
 **Public Endpoints:**
 
@@ -288,6 +304,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. BoltRPC - [https://boltrpc.io/networks/polygon](https://boltrpc.io/networks/polygon)
 
 **Public Endpoints:**
 
@@ -511,6 +528,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. BoltRPC - [https://boltrpc.io/networks/optimism](https://boltrpc.io/networks/optimism)
 
 **Public Endpoints:**
 
@@ -536,6 +554,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. BoltRPC - [https://boltrpc.io/networks/arbitrum](https://boltrpc.io/networks/arbitrum)
 
 **Public Endpoints:**
 
@@ -671,6 +690,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
  3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
  4. Dwellir - [https://dwellir.com](https://dwellir.com)
  5. DRPC - [https://drpc.org/public-endpoints/moonbeam](https://drpc.org/public-endpoints/moonbeam)
+ 6. BoltRPC - [https://boltrpc.io/networks/moonbeam](https://boltrpc.io/networks/moonbeam)
 
 **Public Endpoints:**
 
@@ -692,6 +712,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
  3. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
  4. Dwellir - [https://dwellir.com](https://dwellir.com)
  5. DRPC - [https://drpc.org/public-endpoints/moonriver](https://drpc.org/public-endpoints/moonbeam)
+ 6. BoltRPC - [https://boltrpc.io/networks/moonriver](https://boltrpc.io/networks/moonriver)
 
 **Public Endpoints:**
 
@@ -764,6 +785,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
 2. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
+3. BoltRPC - [https://boltrpc.io/networks/zksync](https://boltrpc.io/networks/zksync)
 
 **Public Endpoints:**
 
@@ -776,6 +798,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
 2. DRPC - [https://drpc.org/public-endpoints/starknet](https://drpc.org/public-endpoints/starknet)
+3. BoltRPC - [https://boltrpc.io/networks/starknet](https://boltrpc.io/networks/starknet)
 
 **Public Endpoints:**
 
@@ -825,6 +848,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. BoltRPC - [https://boltrpc.io/networks/base](https://boltrpc.io/networks/base)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
@@ -835,6 +859,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+2. BoltRPC - [https://boltrpc.io/networks/scroll](https://boltrpc.io/networks/scroll)
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
