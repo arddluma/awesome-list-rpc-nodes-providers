@@ -103,11 +103,11 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 ### BoltRPC
 
-BoltRPC delivers production-grade RPC and WebSocket endpoints across 24 networks behind a single auth key. Built for high-throughput workloads with multi-region failover.
+BoltRPC delivers production-grade RPC and WebSocket endpoints across 20+ networks behind a single auth key. Built for high-throughput workloads with multi-region failover.
 
 Free 2-week trial with unlimited RPS: [trial.boltrpc.io](https://trial.boltrpc.io)
 
-A product by Matrixed.Link. Built on ISO 27001:2022 certified infrastructure.
+Built on ISO 27001:2022 certified infrastructure.
 
 Checkout: [boltrpc.io](https://boltrpc.io)
 
