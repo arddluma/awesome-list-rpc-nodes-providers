@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. NodeFlare - [https://nodeflare.app/chains/ethereum](https://nodeflare.app/chains/ethereum)
 
 **Public Endpoints:**
 
@@ -180,6 +181,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. NodeFlare - [https://nodeflare.app/chains/bnb](https://nodeflare.app/chains/bnb)
 
 **Public Endpoints:**
 
@@ -247,6 +249,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. NodeFlare - [https://nodeflare.app/chains/avalanche](https://nodeflare.app/chains/avalanche)
 
 **Public Endpoints:**
 
@@ -288,6 +291,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. NodeFlare - [https://nodeflare.app/chains/polygon](https://nodeflare.app/chains/polygon)
 
 **Public Endpoints:**
 
@@ -511,6 +515,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. NodeFlare - [https://nodeflare.app/chains/optimism](https://nodeflare.app/chains/optimism)
 
 **Public Endpoints:**
 
@@ -536,6 +541,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. NodeFlare - [https://nodeflare.app/chains/arbitrum](https://nodeflare.app/chains/arbitrum)
 
 **Public Endpoints:**
 
@@ -552,6 +558,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
 2. DRPC - [https://drpc.org/public-endpoints/arbitrum-nova](https://drpc.org/public-endpoints/arbitrum-nova)
+3. NodeFlare - [https://nodeflare.app/chains/arbitrum-nova](https://nodeflare.app/chains/arbitrum-nova)
 
 **Public Endpoints:**
 
@@ -787,6 +794,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
 2. DRPC - [https://drpc.org/public-endpoints/cronos](https://drpc.org/public-endpoints/cronos)
+3. NodeFlare - [https://nodeflare.app/chains/cronos](https://nodeflare.app/chains/cronos)
 
 **Public Endpoints:**
 
@@ -825,6 +833,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. NodeFlare - [https://nodeflare.app/chains/base](https://nodeflare.app/chains/base)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
