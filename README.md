@@ -12,6 +12,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 ## Contents <!-- omit in toc -->
 
+- [Benchmarks](#benchmarks)
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
@@ -55,6 +56,12 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Kava](#kava)
 - [Contributors](#contributors)
 
+
+## Benchmarks
+
+Independent third-party measurements comparing the providers listed below.
+
+- [OpenChainBench](https://openchainbench.com) — Open-source RPC latency, reliability, `eth_getBlockByNumber` freshness, and archive coverage benchmarks probed from three regions (US East, EU West, Singapore) every minute across Ethereum, BSC, Solana, Polygon, Arbitrum, Optimism, Base, zkSync, Polkadot, Cronos and 12 other chains. Data ships under CC BY 4.0, harnesses in Go on GitHub, methodology public.
 
 ## MultiChain
 
