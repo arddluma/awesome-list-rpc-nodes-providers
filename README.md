@@ -12,6 +12,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 ## Contents <!-- omit in toc -->
 
+- [Benchmarks & Performance Tools](#benchmarks--performance-tools)
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
@@ -55,6 +56,10 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Kava](#kava)
 - [Contributors](#contributors)
 
+
+## Benchmarks & Performance Tools
+
+- [OpenChainBench](https://openchainbench.com) — Open-source, neutral RPC benchmarks across providers listed here: latency (p50/p90/p99), error rates, archive depth, and reliability. 22+ EVM chains + Solana. Data under CC BY 4.0.
 
 ## MultiChain
 
