@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. Blockmachine - [https://blockmachine.io/ethereum-rpc](https://blockmachine.io/ethereum-rpc)
 
 **Public Endpoints:**
 
@@ -160,6 +161,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://eth.merkle.io](https://eth.merkle.io)
 - [https://eth.drpc.org](https://eth.drpc.org)
 - [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet)
+- [https://rpc-eth.blockmachine.io](https://rpc-eth.blockmachine.io)
 
 **Spin up your own node:**
 
@@ -180,6 +182,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. Blockmachine - [https://blockmachine.io/bnb-chain-rpc](https://blockmachine.io/bnb-chain-rpc)
 
 **Public Endpoints:**
 
@@ -194,6 +197,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://bsc.publicnode.com](https://bsc.publicnode.com)
 - [https://bsc.drpc.org](https://bsc.drpc.org)
 - [https://public.stackup.sh/api/v1/node/bsc-mainnet](https://public.stackup.sh/api/v1/node/bsc-mainnet)
+- [https://rpc-bsc.blockmachine.io](https://rpc-bsc.blockmachine.io)
 
 **WebSocket:**
 
@@ -247,6 +251,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. Blockmachine - [https://blockmachine.io/avalanche-rpc](https://blockmachine.io/avalanche-rpc)
 
 **Public Endpoints:**
 
@@ -260,6 +265,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
 - [https://avalanche.drpc.org](https://avalanche.drpc.org)
 - [https://public.stackup.sh/api/v1/node/avalanche-mainnet](https://public.stackup.sh/api/v1/node/avalanche-mainnet)
+- [https://rpc-avalanche.blockmachine.io](https://rpc-avalanche.blockmachine.io)
 
 **Spin up your own node:**
 
@@ -288,6 +294,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. Blockmachine - [https://blockmachine.io/polygon-rpc](https://blockmachine.io/polygon-rpc)
 
 **Public Endpoints:**
 
@@ -303,6 +310,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 - [https://polygon.drpc.org](https://polygon.drpc.org)
 - [https://public.stackup.sh/api/v1/node/polygon-mainnet](https://public.stackup.sh/api/v1/node/polygon-mainnet)
+- [https://rpc-polygon.blockmachine.io](https://rpc-polygon.blockmachine.io)
 
 **WebSocket:**
 
@@ -511,6 +519,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Blockmachine - [https://blockmachine.io/optimism-rpc](https://blockmachine.io/optimism-rpc)
 
 **Public Endpoints:**
 
@@ -519,6 +528,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://optimism.api.onfinality.io/public](https://optimism.api.onfinality.io/public)
 - [https://optimism.drpc.org](https://optimism.drpc.org)
 - [https://public.stackup.sh/api/v1/node/optimism-mainnet](https://public.stackup.sh/api/v1/node/optimism-mainnet)
+- [https://rpc-optimism.blockmachine.io](https://rpc-optimism.blockmachine.io)
 
 ## Arbitrum One
 
@@ -536,6 +546,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Blockmachine - [https://blockmachine.io/arbitrum-rpc](https://blockmachine.io/arbitrum-rpc)
 
 **Public Endpoints:**
 
@@ -545,6 +556,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 - [https://arbitrum.drpc.org](https://arbitrum.drpc.org)
 - [https://public.stackup.sh/api/v1/node/arbitrum-one](https://public.stackup.sh/api/v1/node/arbitrum-one)
+- [https://rpc-arbitrum.blockmachine.io](https://rpc-arbitrum.blockmachine.io)
 
 ## Arbitrum Nova
 
@@ -825,19 +837,23 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. Blockmachine - [https://blockmachine.io/base-rpc](https://blockmachine.io/base-rpc)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://rpc-base.blockmachine.io](https://rpc-base.blockmachine.io)
 
 ## Scroll
 
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+2. Blockmachine - [https://blockmachine.io/scroll-rpc](https://blockmachine.io/scroll-rpc)
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
+- [https://rpc-scroll.blockmachine.io](https://rpc-scroll.blockmachine.io)
 
 ## Kava
 
