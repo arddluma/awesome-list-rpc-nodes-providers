@@ -12,6 +12,7 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 
 ## Contents <!-- omit in toc -->
 
+- [Benchmarks & Performance Tools](#benchmarks--performance-tools)
 - [MultiChain](#multichain)
   - [Etherspot](#etherspot)
   - [GetBlock](https://getblock.io/)
@@ -53,8 +54,13 @@ most of the Networks such as Ethereum, BSC, Polygon, Gnosis, Fantom, Avalanche, 
 - [Base](#base)
 - [Scroll](#scroll)
 - [Kava](#kava)
+- [Dogecoin](#dogecoin)
 - [Contributors](#contributors)
 
+
+## Benchmarks & Performance Tools
+
+- [OpenChainBench](https://openchainbench.com) — Open-source, neutral RPC benchmarks across providers listed here: latency (p50/p90/p99), error rates, archive depth, and reliability. 22+ EVM chains + Solana. Data under CC BY 4.0.
 
 ## MultiChain
 
@@ -843,6 +849,23 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
+
+## Dogecoin
+
+**Providers:**
+
+1. Tatum - [https://tatum.io/chain/dogecoin](https://tatum.io/chain/dogecoin)
+2. dRPC - [https://drpc.org/public-endpoints/dogecoin](https://drpc.org/public-endpoints/dogecoin)
+3. Ankr - [https://www.ankr.com/rpc/dogecoin/](https://www.ankr.com/rpc/dogecoin/)
+
+**Public Endpoints:**
+
+- [https://rpc.ankr.com/dogecoin](https://rpc.ankr.com/dogecoin)
+- [https://dogecoin.drpc.org](https://dogecoin.drpc.org)
+
+**Benchmark:**
+
+- [OpenChainBench Dogecoin RPC Benchmark](https://openchainbench.com/benchmarks/dogecoin-rpc) — live latency, error rates, and reliability across providers from 3 global regions.
 
 ## Contributors
 
