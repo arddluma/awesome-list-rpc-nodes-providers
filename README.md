@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+26. FlexYield - [https://flexyield.io](https://flexyield.io/docs)
 
 **Public Endpoints:**
 
@@ -217,6 +218,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
 10. DRPC - [https://drpc.org/public-endpoints/solana](https://drpc.org/public-endpoints/solana)
+11. FlexYield - [https://flexyield.io](https://flexyield.io/docs)
 
 **Public Endpoints:**
 
@@ -288,6 +290,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. FlexYield - [https://flexyield.io](https://flexyield.io/docs)
 
 **Public Endpoints:**
 
