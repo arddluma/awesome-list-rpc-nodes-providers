@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. NodeCache - [https://oculix.io/docs/nodecache/](https://oculix.io/docs/nodecache/) - Read-only caching layer for Ethereum JSON-RPC calls with per-method TTLs. Caches read-only queries and forwards writes to upstream nodes. *Full disclosure: Submitted by Oculix LLC, the product developers.*
 
 **Public Endpoints:**
 
