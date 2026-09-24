@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. HostDeFi - [https://rpc.hostdefi.com](https://rpc.hostdefi.com)
 
 **Public Endpoints:**
 
@@ -160,6 +161,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://eth.merkle.io](https://eth.merkle.io)
 - [https://eth.drpc.org](https://eth.drpc.org)
 - [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet)
+- [https://rpc.hostdefi.com/api/rpc/ethereum](https://rpc.hostdefi.com/api/rpc/ethereum)
 
 **Spin up your own node:**
 
@@ -193,6 +195,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://bsc-mainnet.nodereal.io/v1/](https://bsc-mainnet.nodereal.io/v1/)
 - [https://bsc.publicnode.com](https://bsc.publicnode.com)
 - [https://bsc.drpc.org](https://bsc.drpc.org)
+- [https://rpc.hostdefi.com/api/rpc/bsc](https://rpc.hostdefi.com/api/rpc/bsc)
 - [https://public.stackup.sh/api/v1/node/bsc-mainnet](https://public.stackup.sh/api/v1/node/bsc-mainnet)
 
 **WebSocket:**
@@ -223,6 +226,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://api.mainnet-beta.solana.com](https://api.mainnet-beta.solana.com)
 - [https://solana-api.projectserum.com](https://solana-api.projectserum.com)
 - [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
+- [https://rpc.hostdefi.com/api/rpc/solana](https://rpc.hostdefi.com/api/rpc/solana)
 - [https://solana.api.onfinality.io/public](https://solana.api.onfinality.io/public)
 - [https://solana.drpc.org](https://solana.drpc.org)
 
@@ -257,6 +261,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://avalanche.public-rpc.com](https://avalanche.public-rpc.com)
 - [https://blastapi.io/public-api/avalanche](https://blastapi.io/public-api/avalanche)
 - [https://avalanche.api.onfinality.io/public](https://avalanche.api.onfinality.io/public)
+- [https://rpc.hostdefi.com/api/rpc/avalanche](https://rpc.hostdefi.com/api/rpc/avalanche)
 - [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
 - [https://avalanche.drpc.org](https://avalanche.drpc.org)
 - [https://public.stackup.sh/api/v1/node/avalanche-mainnet](https://public.stackup.sh/api/v1/node/avalanche-mainnet)
@@ -299,6 +304,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://rpc.ankr.com/polygon](https://rpc.ankr.com/polygon)
 - [https://blastapi.io/public-api/polygon](https://blastapi.io/public-api/polygon)
 - [https://polygon-rpc.com](https://polygon-rpc.com)
+- [https://rpc.hostdefi.com/api/rpc/polygon](https://rpc.hostdefi.com/api/rpc/polygon)
 - [https://polygon.publicnode.com](https://polygon.publicnode.com)
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 - [https://polygon.drpc.org](https://polygon.drpc.org)
@@ -358,6 +364,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8](https://fantom-mainnet.gateway.pokt.network/v1/lb/6261a8a154c745003bcdb0f8)
 - [https://rpc.ftm.tools/](https://rpc.ftm.tools/)
 - [https://rpc.ankr.com/fantom](https://rpc.ankr.com/fantom)
+- [https://rpc.hostdefi.com/api/rpc/fantom](https://rpc.hostdefi.com/api/rpc/fantom)
 - [https://ftm.rpcgator.com/](https://ftm.rpcgator.com/) - RPC Agreggator / Gateway
 - [https://blastapi.io/public-api/fantom](https://blastapi.io/public-api/fantom)
 - [https://fantom.publicnode.com](https://fantom.publicnode.com)
@@ -464,6 +471,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Public Endpoints:**
 
 - [https://rpc.gnosischain.com](https://rpc.gnosischain.com)
+- [https://rpc.hostdefi.com/api/rpc/gnosis](https://rpc.hostdefi.com/api/rpc/gnosis)
 - [https://rpc.xdaichain.com](https://rpc.xdaichain.com)
 - [https://xdai-rpc.gateway.pokt.network](https://xdai-rpc.gateway.pokt.network)
 - [https://gnosis.public-rpc.com](https://gnosis.public-rpc.com)
@@ -512,6 +520,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
+- [https://rpc.hostdefi.com/api/rpc/optimism](https://rpc.hostdefi.com/api/rpc/optimism)
 **Public Endpoints:**
 
 - [https://mainnet.optimism.io/](https://mainnet.optimism.io//)
@@ -537,6 +546,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
 
+- [https://rpc.hostdefi.com/api/rpc/arbitrum](https://rpc.hostdefi.com/api/rpc/arbitrum)
 **Public Endpoints:**
 
 - [https://arb1.arbitrum.io/rpc](https://arb1.arbitrum.io/rpc)
@@ -566,6 +576,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/celo/](https://getblock.io/nodes/celo/)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
+- [https://rpc.hostdefi.com/api/rpc/celo](https://rpc.hostdefi.com/api/rpc/celo)
 4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 5. DRPC - [https://drpc.org/public-endpoints/celo](https://drpc.org/public-endpoints/celo)
 
@@ -819,6 +830,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 - [https://sapphire.oasis.io](https://sapphire.oasis.io)
 
+- [https://rpc.hostdefi.com/api/rpc/base](https://rpc.hostdefi.com/api/rpc/base)
 ## Base
 
 **Providers:**
