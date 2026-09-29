@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -160,6 +161,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://eth.merkle.io](https://eth.merkle.io)
 - [https://eth.drpc.org](https://eth.drpc.org)
 - [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet)
+- [https://xrpc.cl/eth](https://xrpc.cl/eth)
 
 **Spin up your own node:**
 
@@ -180,6 +182,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -194,6 +197,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://bsc.publicnode.com](https://bsc.publicnode.com)
 - [https://bsc.drpc.org](https://bsc.drpc.org)
 - [https://public.stackup.sh/api/v1/node/bsc-mainnet](https://public.stackup.sh/api/v1/node/bsc-mainnet)
+- [https://xrpc.cl/bsc](https://xrpc.cl/bsc)
 
 **WebSocket:**
 
@@ -217,6 +221,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
 10. DRPC - [https://drpc.org/public-endpoints/solana](https://drpc.org/public-endpoints/solana)
+11. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -225,6 +230,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://rpc.ankr.com/solana](https://rpc.ankr.com/solana)
 - [https://solana.api.onfinality.io/public](https://solana.api.onfinality.io/public)
 - [https://solana.drpc.org](https://solana.drpc.org)
+- [https://xrpc.cl/solana](https://xrpc.cl/solana)
 
 **Spin up your own node:**
 
@@ -247,6 +253,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -260,6 +267,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://avalanche.publicnode.com](https://avalanche.publicnode.com)
 - [https://avalanche.drpc.org](https://avalanche.drpc.org)
 - [https://public.stackup.sh/api/v1/node/avalanche-mainnet](https://public.stackup.sh/api/v1/node/avalanche-mainnet)
+- [https://xrpc.cl/avalanche](https://xrpc.cl/avalanche)
 
 **Spin up your own node:**
 
@@ -288,6 +296,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -303,6 +312,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 - [https://polygon.drpc.org](https://polygon.drpc.org)
 - [https://public.stackup.sh/api/v1/node/polygon-mainnet](https://public.stackup.sh/api/v1/node/polygon-mainnet)
+- [https://xrpc.cl/polygon](https://xrpc.cl/polygon)
 
 **WebSocket:**
 
@@ -511,6 +521,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -519,6 +530,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://optimism.api.onfinality.io/public](https://optimism.api.onfinality.io/public)
 - [https://optimism.drpc.org](https://optimism.drpc.org)
 - [https://public.stackup.sh/api/v1/node/optimism-mainnet](https://public.stackup.sh/api/v1/node/optimism-mainnet)
+- [https://xrpc.cl/optimism](https://xrpc.cl/optimism)
 
 ## Arbitrum One
 
@@ -536,6 +548,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 
@@ -545,6 +558,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://arbitrum.api.onfinality.io/public](https://arbitrum.api.onfinality.io/public)
 - [https://arbitrum.drpc.org](https://arbitrum.drpc.org)
 - [https://public.stackup.sh/api/v1/node/arbitrum-one](https://public.stackup.sh/api/v1/node/arbitrum-one)
+- [https://xrpc.cl/arbitrum](https://xrpc.cl/arbitrum)
 
 ## Arbitrum Nova
 
@@ -825,10 +839,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. XRPC.CL - [https://xrpc.cl](https://xrpc.cl) — Sovereign no-KYC multi-chain RPC gateway (clearnet + Tor Onion, crypto payments)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://xrpc.cl/base](https://xrpc.cl/base)
 
 ## Scroll
 
