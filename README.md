@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. Dwellir - [https://www.dwellir.com/networks/ethereum](https://www.dwellir.com/networks/ethereum)
 
 **Public Endpoints:**
 
@@ -180,6 +181,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. Dwellir - [https://www.dwellir.com/networks/binance-smart-chain](https://www.dwellir.com/networks/binance-smart-chain)
 
 **Public Endpoints:**
 
@@ -247,6 +249,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. Dwellir - [https://www.dwellir.com/networks/avalanche](https://www.dwellir.com/networks/avalanche)
 
 **Public Endpoints:**
 
@@ -288,6 +291,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. Dwellir - [https://www.dwellir.com/networks/polygon](https://www.dwellir.com/networks/polygon)
 
 **Public Endpoints:**
 
@@ -437,6 +441,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 2. ANKR - [https://ankr.com](https://ankr.com)
 3. OnFinality - [https://onfinality.io/networks/iotex](https://onfinality.io/networks/iotex)
+4. Dwellir - [https://www.dwellir.com/networks/iotex](https://www.dwellir.com/networks/iotex)
 
 **Public Endpoints:**
 
@@ -460,6 +465,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 7. DRPC - [https://drpc.org/public-endpoints/gnosis](https://drpc.org/public-endpoints/gnosis)
+8. Dwellir - [https://www.dwellir.com/networks/gnosis](https://www.dwellir.com/networks/gnosis)
 
 **Public Endpoints:**
 
@@ -511,6 +517,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Dwellir - [https://www.dwellir.com/networks/optimism](https://www.dwellir.com/networks/optimism)
 
 **Public Endpoints:**
 
@@ -536,6 +543,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Dwellir - [https://www.dwellir.com/networks/arbitrum](https://www.dwellir.com/networks/arbitrum)
 
 **Public Endpoints:**
 
@@ -568,6 +576,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 3. Datahub - [https://datahub.figment.io/](https://datahub.figment.io/)
 4. OnFinality - [https://onfinality.io/](https://onfinality.io/)
 5. DRPC - [https://drpc.org/public-endpoints/celo](https://drpc.org/public-endpoints/celo)
+6. Dwellir - [https://www.dwellir.com/networks/celo](https://www.dwellir.com/networks/celo)
 
 **Public Endpoints:**
 
@@ -633,6 +642,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+2. Dwellir - [https://www.dwellir.com/networks/viction](https://www.dwellir.com/networks/viction)
 
 **Public Endpoints:**
 
@@ -653,6 +663,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/dot/](https://getblock.io/nodes/dot/)
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. NOWNodes.io - [https://nownodes.io/](https://nownodes.io/)
+4. Dwellir - [https://www.dwellir.com/networks/polkadot](https://www.dwellir.com/networks/polkadot)
 
 **Public Endpoints:**
 
@@ -716,6 +727,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
+2. Dwellir - [https://www.dwellir.com/networks/boba-network](https://www.dwellir.com/networks/boba-network)
 
 **Public Endpoints:**
 
@@ -733,6 +745,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 2. OnFinality - [https://www.onfinality.io](https://www.onfinality.io)
 3. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/astar-api-quickstart)
 4. DRPC - [https://drpc.org/public-endpoints/astar](https://drpc.org/public-endpoints/astar)
+5. Dwellir - [https://www.dwellir.com/networks/astar](https://www.dwellir.com/networks/astar)
 
 **Public Endpoints:**
 - [https://evm.astar.network](https://evm.astar.network)
@@ -764,6 +777,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
 2. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
+3. Dwellir - [https://www.dwellir.com/networks/zksync-era](https://www.dwellir.com/networks/zksync-era)
 
 **Public Endpoints:**
 
@@ -776,6 +790,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-starknet/](https://chainstack.com/build-better-with-starknet/)
 2. DRPC - [https://drpc.org/public-endpoints/starknet](https://drpc.org/public-endpoints/starknet)
+3. Dwellir - [https://www.dwellir.com/networks/starknet](https://www.dwellir.com/networks/starknet)
 
 **Public Endpoints:**
 
@@ -787,6 +802,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
 2. DRPC - [https://drpc.org/public-endpoints/cronos](https://drpc.org/public-endpoints/cronos)
+3. Dwellir - [https://www.dwellir.com/networks/cronos](https://www.dwellir.com/networks/cronos)
 
 **Public Endpoints:**
 
@@ -798,6 +814,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-aptos/](https://chainstack.com/build-better-with-aptos/)
+2. Dwellir - [https://www.dwellir.com/networks/aptos](https://www.dwellir.com/networks/aptos)
 
 **Public Endpoints:**
 
@@ -825,6 +842,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. Dwellir - [https://www.dwellir.com/networks/base](https://www.dwellir.com/networks/base)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
@@ -835,6 +853,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+2. Dwellir - [https://www.dwellir.com/networks/scroll](https://www.dwellir.com/networks/scroll)
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
