@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. Triport - [https://triport.io/ethereum-rpc](https://triport.io/ethereum-rpc)
 
 **Public Endpoints:**
 
@@ -160,6 +161,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://eth.merkle.io](https://eth.merkle.io)
 - [https://eth.drpc.org](https://eth.drpc.org)
 - [https://public.stackup.sh/api/v1/node/ethereum-mainnet](https://public.stackup.sh/api/v1/node/ethereum-mainnet)
+- [https://triport.io/public/eth](https://triport.io/public/eth)
 
 **Spin up your own node:**
 
@@ -180,6 +182,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. Triport - [https://triport.io/bsc-rpc](https://triport.io/bsc-rpc)
 
 **Public Endpoints:**
 
@@ -194,6 +197,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://bsc.publicnode.com](https://bsc.publicnode.com)
 - [https://bsc.drpc.org](https://bsc.drpc.org)
 - [https://public.stackup.sh/api/v1/node/bsc-mainnet](https://public.stackup.sh/api/v1/node/bsc-mainnet)
+- [https://triport.io/public/bsc](https://triport.io/public/bsc)
 
 **WebSocket:**
 
@@ -217,6 +221,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Alchemy - [https://alchemy.com](https://docs.alchemy.com/reference/solana-api-quickstart)
 9. OnFinality - [https://onfinality.io/networks/solana](https://onfinality.io/networks/solana)
 10. DRPC - [https://drpc.org/public-endpoints/solana](https://drpc.org/public-endpoints/solana)
+11. Triport - [https://triport.io/solana-rpc](https://triport.io/solana-rpc)
 
 **Public Endpoints:**
 
@@ -288,6 +293,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. Triport - [https://triport.io/polygon-rpc](https://triport.io/polygon-rpc)
 
 **Public Endpoints:**
 
@@ -303,6 +309,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 - [https://polygon.api.onfinality.io/public](https://polygon.api.onfinality.io/public)
 - [https://polygon.drpc.org](https://polygon.drpc.org)
 - [https://public.stackup.sh/api/v1/node/polygon-mainnet](https://public.stackup.sh/api/v1/node/polygon-mainnet)
+- [https://triport.io/public/polygon](https://triport.io/public/polygon)
 
 **WebSocket:**
 
@@ -825,10 +832,12 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. Triport - [https://triport.io/base-rpc](https://triport.io/base-rpc)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
 - [https://public.stackup.sh/api/v1/node/base-mainnet](https://public.stackup.sh/api/v1/node/base-mainnet)
+- [https://triport.io/public/base](https://triport.io/public/base)
 
 ## Scroll
 
