@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -180,6 +181,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 8. Chainbase - [https://chainbase.online](https://chainbase.online)
 9. DRPC - [https://drpc.org/public-endpoints/bsc](https://drpc.org/public-endpoints/bsc)
 10. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+11. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -247,6 +249,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 11. Exaion Node - [https://node.exaion.com/](https://node.exaion.com/)
 12. DRPC - [https://drpc.org/public-endpoints/avalanche](https://drpc.org/public-endpoints/avalanche)
 13. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+14. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -288,6 +291,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 17. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 18. DRPC - [https://drpc.org/public-endpoints/polygon](https://drpc.org/public-endpoints/polygon)
 19. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+20. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -320,6 +324,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-polygon-zkevm/](https://chainstack.com/build-better-with-polygon-zkevm/)
 2. DRPC - [https://drpc.org/public-endpoints/polygon-zkevm](https://drpc.org/public-endpoints/polygon-zkevm)
+3. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -460,6 +465,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 5. Chainstack - [https://chainstack.com/build-better-with-gnosis-chain/](https://chainstack.com/build-better-with-gnosis-chain/)
 6. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 7. DRPC - [https://drpc.org/public-endpoints/gnosis](https://drpc.org/public-endpoints/gnosis)
+8. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -486,6 +492,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 1. GetBlock - [https://getblock.io/nodes/fuse/](https://getblock.io/nodes/fuse/)
 2. Pocket Network - [https://mainnet.portal.pokt.network](https://mainnet.portal.pokt.network)
 3. OnFinality - [https://onfinality.io/](https://onfinality.io/)
+4. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 - [https://fuse-rpc.gateway.pokt.network/](https://fuse-rpc.gateway.pokt.network/)
@@ -511,6 +518,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. Chainstack - [https://chainstack.com/](https://chainstack.com/build-better-with-optimism/)
 11. DRPC - [https://drpc.org/public-endpoints/optimism](https://drpc.org/public-endpoints/optimism)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -536,6 +544,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 10. OnFinality.io - [https://onfinality.io](https://onfinality.io)
 11. DRPC - [https://drpc.org/public-endpoints/arbitrum](https://drpc.org/public-endpoints/arbitrum)
 12. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+13. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -764,6 +773,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-zksync-era/](https://chainstack.com/build-better-with-zksync-era/)
 2. DRPC - [https://drpc.org/public-endpoints/zksync](https://drpc.org/public-endpoints/zksync)
+3. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 
@@ -825,6 +835,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-base/](https://chainstack.com/build-better-with-base/)
 2. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+3. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 - [https://mainnet.base.org](https://mainnet.base.org)
@@ -835,11 +846,15 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 **Providers:**
 
 1. Chainstack - [https://chainstack.com/build-better-with-scroll/](https://chainstack.com/build-better-with-scroll/)
+2. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#scroll](https://chainstack.com/labs/#scroll)
 
 ## Kava
+**Providers:**
+1. Goldsky Edge - [https://docs.goldsky.com/edge-rpc/introduction](https://docs.goldsky.com/edge-rpc/introduction)
+
 
 **Public Endpoints:**
 - [https://chainstack.com/labs/#kava](https://chainstack.com/labs/#kava)
