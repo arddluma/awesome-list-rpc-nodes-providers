@@ -558,7 +558,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. GetBlock - [https://getblock.io](https://getblock.io)
 2. DRPC - [https://drpc.org/public-endpoints/arbitrum-nova](https://drpc.org/public-endpoints/arbitrum-nova)
-3. NodeFlare - [https://nodeflare.app/chains/arbitrum-nova](https://nodeflare.app/chains/arbitrum-nova)
 
 **Public Endpoints:**
 
@@ -794,7 +793,6 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 
 1. Chainstack - [https://chainstack.com/build-better-with-cronos/](https://chainstack.com/build-better-with-cronos/)
 2. DRPC - [https://drpc.org/public-endpoints/cronos](https://drpc.org/public-endpoints/cronos)
-3. NodeFlare - [https://nodeflare.app/chains/cronos](https://nodeflare.app/chains/cronos)
 
 **Public Endpoints:**
 
