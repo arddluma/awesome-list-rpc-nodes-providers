@@ -136,6 +136,7 @@ Besides providing easy-to-integrate and scalable blockchain APIs, Infura empower
 22. merkle - [https://merkle.io/](https://merkle.io/)
 23. DRPC - [https://drpc.org/public-endpoints/ethereum](https://drpc.org/public-endpoints/ethereum)
 24. Stackup - [https://www.stackup.sh/](https://www.stackup.sh/)
+25. [RouteMesh](https://routeme.sh/) - Managed Ethereum RPC routing across multiple upstreams with automatic failover and a low-latency Performance option. Pay-as-you-go in USD per RPC method, with no compute units or minimum commitment.
 
 **Public Endpoints:**
 
